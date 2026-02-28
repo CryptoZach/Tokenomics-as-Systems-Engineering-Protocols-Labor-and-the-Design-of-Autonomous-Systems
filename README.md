@@ -16,6 +16,16 @@ Simulation model for decentralized physical infrastructure networks (DePIN), ana
 
 Directory: [`meshnet-simulation/`](meshnet-simulation/)
 
+## System Requirements
+
+| Requirement | Details |
+|-------------|---------|
+| **Python** | 3.10 or later |
+| **OS** | Tested on Ubuntu 22.04 and macOS 14; any POSIX system should work |
+| **RAM** | 4 GB minimum (8 GB recommended for Monte Carlo sweeps) |
+| **Runtime** | depin-thesis: ~5 min (analysis only, excludes API collection); meshnet-simulation: ~30 min (15,000+ simulation runs) |
+| **API keys** | Dune Analytics (free tier), CoinGecko (free tier) — only needed if re-collecting raw data; pre-collected data is included |
+
 ## Quick Start
 
 Each subdirectory has its own README with specific replication instructions. In general:
@@ -25,6 +35,20 @@ Each subdirectory has its own README with specific replication instructions. In 
 pip install -r meshnet-simulation/requirements.txt
 pip install -r depin-thesis/scripts/requirements.txt
 ```
+
+### Reproduce from included data (no API keys needed)
+
+```bash
+# Empirical analysis
+cd depin-thesis && bash run_all.sh
+
+# Simulation (Appendix A)
+cd meshnet-simulation && bash run_all.sh
+```
+
+### Re-collect raw data from APIs
+
+Steps 1-2 in `depin-thesis/run_all.sh` query Dune Analytics and Solscan. These require free-tier API access. All collected data is already included in `depin-thesis/data/`, so you can skip collection and start from Phase 2 if preferred.
 
 ## Data Sources
 
@@ -57,6 +81,15 @@ If you use this code or data, please cite:
   note={Journal of Institutional Economics, submitted}
 }
 ```
+
+## Archival & DOI
+
+To generate a persistent DOI for this replication package:
+
+1. Link this GitHub repository to [Zenodo](https://zenodo.org) (free)
+2. Create a GitHub release (e.g., `v1.0`)
+3. Zenodo will automatically archive the release and assign a DOI
+4. Add the DOI to the `CITATION.cff` file and the BibTeX block above
 
 ## Contact
 
