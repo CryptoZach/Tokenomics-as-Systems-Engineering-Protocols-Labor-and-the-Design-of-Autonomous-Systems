@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+type: dataset
+title: "Replication Package for Tokenomics as Institutional Design: A Normative Framework and Governance Concentration Analysis"
+authors:
+  - family-names: Zukowski
+    given-names: Zach
+date-released: "2026-02-27"
+url: "https://github.com/CryptoZach/Tokenomics-as-Systems-Engineering-Protocols-Labor-and-the-Design-of-Autonomous-Sytems"
+repository-code: "https://github.com/CryptoZach/Tokenomics-as-Systems-Engineering-Protocols-Labor-and-the-Design-of-Autonomous-Sytems"
+license: CC-BY-4.0
+keywords:
+  - tokenomics
+  - DePIN
+  - governance concentration
+  - Herfindahl-Hirschman Index
+  - Helium
+  - burn-mint equilibrium
+  - systems engineering
+  - institutional design
+  - decentralized infrastructure
+references:
+  - type: article
+    title: "Tokenomics as Institutional Design: A Normative Framework and Governance Concentration Analysis"
+    authors:
+      - family-names: Zukowski
+        given-names: Zach
+    year: 2026
+    journal: "Journal of Institutional Economics"
+    status: submitted
