@@ -80,6 +80,16 @@ If you use this code or data, please cite:
   year={2026},
   note={Journal of Institutional Economics, submitted}
 }
+
+@dataset{zukowski2026tokenomics_replication,
+  author={Zukowski, Zach},
+  title={Replication Package for Tokenomics as Institutional Design: A Normative Framework and Governance Concentration Analysis},
+  year={2026},
+  publisher={Zenodo},
+  version={v1.0},
+  doi={10.5281/zenodo.18809561},
+  url={https://doi.org/10.5281/zenodo.18809561}
+}
 ```
 
 ## Archival & DOI
