@@ -1,0 +1,35 @@
+{
+  "execution_id": "01KJEXSRMEDJ739067Z1QX01BE",
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-02-27T06:50:24.783104Z",
+  "expires_at": "2026-05-28T06:52:25.008613Z",
+  "execution_started_at": "2026-02-27T06:50:26.410644Z",
+  "execution_ended_at": "2026-02-27T06:52:25.008605Z",
+  "result": {
+    "rows": [],
+    "metadata": {
+      "column_names": [
+        "week",
+        "n_transfers",
+        "mobile_volume",
+        "volume_usd",
+        "unique_signers"
+      ],
+      "column_types": [
+        "timestamp(3) with time zone",
+        "bigint",
+        "double",
+        "double",
+        "bigint"
+      ],
+      "row_count": 0,
+      "result_set_bytes": 0,
+      "total_row_count": 0,
+      "total_result_set_bytes": 0,
+      "datapoint_count": 0,
+      "pending_time_millis": 1627,
+      "execution_time_millis": 118597
+    }
+  }
+}

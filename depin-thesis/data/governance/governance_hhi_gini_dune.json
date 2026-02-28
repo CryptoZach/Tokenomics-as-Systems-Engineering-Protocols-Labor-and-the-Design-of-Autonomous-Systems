@@ -1,0 +1,58 @@
+[
+  {
+    "protocol": "Uniswap",
+    "token": "UNI",
+    "chain": "ethereum",
+    "hhi": 0.030062,
+    "gini": 0.6584,
+    "top1_share": 0.1063,
+    "top10_share": 0.4506,
+    "top50_share": 0.7626,
+    "n_holders_queried": 200,
+    "total_supply_queried": 5792283533.05
+  },
+  {
+    "protocol": "Compound",
+    "token": "COMP",
+    "chain": "ethereum",
+    "hhi": 0.028689,
+    "gini": 0.6352,
+    "top1_share": 0.1127,
+    "top10_share": 0.3988,
+    "top50_share": 0.7466,
+    "n_holders_queried": 200,
+    "total_supply_queried": 133910669.0
+  },
+  {
+    "protocol": "MakerDAO",
+    "token": "MKR",
+    "chain": "ethereum",
+    "hhi": 0.026908,
+    "gini": 0.6626,
+    "top1_share": 0.1021,
+    "top10_share": 0.4169,
+    "top50_share": 0.7662,
+    "n_holders_queried": 200,
+    "total_supply_queried": 12881209.6
+  },
+  {
+    "protocol": "Aave",
+    "token": "AAVE",
+    "chain": "ethereum",
+    "hhi": 0.1,
+    "gini": 0.95,
+    "top1_share": 0.1,
+    "top10_share": 1.0,
+    "top50_share": 1.0,
+    "n_holders_queried": 200,
+    "total_supply_queried": 1.1579208923731622e+60
+  },
+  {
+    "protocol": "Livepeer",
+    "token": "LPT",
+    "hhi": null,
+    "gini": null,
+    "n_holders_queried": 0,
+    "note": "Query failed"
+  }
+]

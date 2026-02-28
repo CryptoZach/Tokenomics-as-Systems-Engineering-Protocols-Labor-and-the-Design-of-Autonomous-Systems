@@ -1,0 +1,22 @@
+[
+  {
+    "protocol": "Helium",
+    "token": "HNT",
+    "chain": "solana",
+    "hhi": null,
+    "gini": null,
+    "n_holders": 0,
+    "method": "no_data",
+    "note": "All API approaches returned 0 holders"
+  },
+  {
+    "protocol": "Filecoin",
+    "token": "FIL",
+    "chain": "filecoin",
+    "hhi": null,
+    "gini": null,
+    "n_holders": 0,
+    "method": "no_data",
+    "note": "API unavailable"
+  }
+]

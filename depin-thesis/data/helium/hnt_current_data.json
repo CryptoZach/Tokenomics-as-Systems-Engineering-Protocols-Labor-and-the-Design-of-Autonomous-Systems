@@ -1,0 +1,32 @@
+{
+  "symbol": "HNT",
+  "name": "Helium",
+  "current_price_usd": 1.67,
+  "market_cap_usd": 311926031,
+  "circulating_supply": 186321438.090597,
+  "total_supply": 223000000.0,
+  "max_supply": 223000000.0,
+  "ath_usd": 54.88,
+  "ath_date": "2021-11-12T23:08:25.301Z",
+  "atl_usd": 0.113248,
+  "atl_date": "2020-04-18T00:19:10.902Z",
+  "24h_volume_usd": 22725684,
+  "price_change_7d_pct": 101.16895,
+  "price_change_30d_pct": 28.42717,
+  "price_change_1y_pct": -51.73036,
+  "categories": [
+    "Communication",
+    "Internet of Things (IOT)",
+    "Smart Contract Platform",
+    "Solana Ecosystem",
+    "DePIN",
+    "Multicoin Capital Portfolio",
+    "Proof of Stake (PoS)",
+    "Alameda Research Portfolio",
+    "Pantera Capital Portfolio",
+    "Andreessen Horowitz (a16z) Portfolio",
+    "Made in USA",
+    "Coinbase 50 Index"
+  ],
+  "last_updated": "2026-02-19T01:21:57.218Z"
+}

@@ -1,0 +1,278 @@
+{
+  "issue_1_feb2026_emission": {
+    "raw_weeks": [
+      {
+        "week": "2026-01-05",
+        "hnt_issued": 155342.47,
+        "mint_txns": 28,
+        "complete": true
+      },
+      {
+        "week": "2026-01-12",
+        "hnt_issued": 155342.47,
+        "mint_txns": 28,
+        "complete": true
+      },
+      {
+        "week": "2026-01-19",
+        "hnt_issued": 155342.47,
+        "mint_txns": 28,
+        "complete": true
+      },
+      {
+        "week": "2026-01-26",
+        "hnt_issued": 155342.47,
+        "mint_txns": 28,
+        "complete": true
+      },
+      {
+        "week": "2026-02-02",
+        "hnt_issued": 155342.47,
+        "mint_txns": 28,
+        "complete": true
+      },
+      {
+        "week": "2026-02-09",
+        "hnt_issued": 155342.47,
+        "mint_txns": 28,
+        "complete": true
+      },
+      {
+        "week": "2026-02-16",
+        "hnt_issued": 66575.34,
+        "mint_txns": 12,
+        "complete": false
+      }
+    ],
+    "e_pw_all_3_weeks": 125753.0,
+    "e_pw_complete_only": 155342.0,
+    "steady_state": 155342.0,
+    "partial_week_fraction": 0.429,
+    "verdict": "PARTIAL_WEEK_ARTIFACT",
+    "recommendation": "Use complete-weeks-only E/wk (155,342) or use Jan 2026 as endpoint"
+  },
+  "issue_2_jan_to_jan": {
+    "start": {
+      "month": "2025-01",
+      "bme_onchain": 0.0064,
+      "bme_usd": 0.006,
+      "dc_burn_pw": 10718.0,
+      "hnt_price_avg": 4.7633,
+      "hnt_issued_pw": 372923.0,
+      "n_weeks": 4
+    },
+    "end": {
+      "month": "2026-01",
+      "bme_onchain": 1.1027,
+      "bme_usd": 1.0703,
+      "dc_burn_pw": 216913.0,
+      "hnt_price_avg": 1.3046,
+      "hnt_issued_pw": 155342.0,
+      "n_weeks": 4
+    },
+    "decomposition": {
+      "dln_dc": 3.0076,
+      "dln_price": -1.295,
+      "dln_emission": -0.8757,
+      "dln_bme_usd": 5.1783,
+      "dln_bme_onchain": 5.152,
+      "fee_pct": 58.1,
+      "price_pct": 25.0,
+      "emission_pct": 16.9,
+      "sum_check": 100.0
+    },
+    "onchain_usd_gap_pct": 0.5,
+    "comparison_vs_feb_endpoint": {
+      "feb_gap_pct": 3.7,
+      "jan_gap_pct": 0.5,
+      "improvement": "Jan-to-Jan reduces definition gap substantially"
+    }
+  },
+  "issue_3_burn_weighted_price": {
+    "definition": "P_burn = DC_burn_usd / HNT_burned",
+    "note": "P_burn != P_avg because burns happen at different times/prices than average transfer volume",
+    "monthly": [
+      {
+        "month": "2025-01",
+        "p_burn": 4.5034,
+        "p_avg": 4.7633,
+        "gap_pct": -5.5,
+        "hnt_burned": 9520.0
+      },
+      {
+        "month": "2025-02",
+        "p_burn": 3.3051,
+        "p_avg": 3.5269,
+        "gap_pct": -6.3,
+        "hnt_burned": 149134.0
+      },
+      {
+        "month": "2025-03",
+        "p_burn": 2.8497,
+        "p_avg": 3.0745,
+        "gap_pct": -7.3,
+        "hnt_burned": 200362.0
+      },
+      {
+        "month": "2025-04",
+        "p_burn": 3.5709,
+        "p_avg": 3.6329,
+        "gap_pct": -1.7,
+        "hnt_burned": 14624.0
+      },
+      {
+        "month": "2025-05",
+        "p_burn": 3.7457,
+        "p_avg": 3.8853,
+        "gap_pct": -3.6,
+        "hnt_burned": 36802.0
+      },
+      {
+        "month": "2025-06",
+        "p_burn": 3.0414,
+        "p_avg": 2.5518,
+        "gap_pct": 19.2,
+        "hnt_burned": 708897.0
+      },
+      {
+        "month": "2025-07",
+        "p_burn": 3.1439,
+        "p_avg": 3.2403,
+        "gap_pct": -3.0,
+        "hnt_burned": 107932.0
+      },
+      {
+        "month": "2025-08",
+        "p_burn": 2.3463,
+        "p_avg": 2.7505,
+        "gap_pct": -14.7,
+        "hnt_burned": 532886.0
+      },
+      {
+        "month": "2025-09",
+        "p_burn": 2.457,
+        "p_avg": 2.4938,
+        "gap_pct": -1.5,
+        "hnt_burned": 456181.0
+      },
+      {
+        "month": "2025-10",
+        "p_burn": 2.3624,
+        "p_avg": 2.2052,
+        "gap_pct": 7.1,
+        "hnt_burned": 975288.0
+      },
+      {
+        "month": "2025-11",
+        "p_burn": 2.2469,
+        "p_avg": 2.2375,
+        "gap_pct": 0.4,
+        "hnt_burned": 545145.0
+      },
+      {
+        "month": "2025-12",
+        "p_burn": 1.702,
+        "p_avg": 1.7208,
+        "gap_pct": -1.1,
+        "hnt_burned": 1205193.0
+      },
+      {
+        "month": "2026-01",
+        "p_burn": 1.2663,
+        "p_avg": 1.3046,
+        "gap_pct": -2.9,
+        "hnt_burned": 685183.0
+      },
+      {
+        "month": "2026-02",
+        "p_burn": 0.9102,
+        "p_avg": 1.0952,
+        "gap_pct": -16.9,
+        "hnt_burned": 777042.0
+      }
+    ]
+  },
+  "issue_4_counterfactuals_jan_to_jan": {
+    "actual_bme_usd": 1.0703,
+    "actual_bme_onchain": 1.1027,
+    "fee_only": 0.1221,
+    "price_only": 0.022,
+    "emission_only": 0.0145,
+    "fee_alone": 0.1221,
+    "no_halving": 0.4458,
+    "no_halving_pct_of_actual": 41.7,
+    "interpretation": "Without halving, BME would be 0.446 vs actual 1.070. The halving is necessary but not sufficient \u2014 fee growth and price decline both contribute materially."
+  },
+  "issue_5_pre_halving_trajectory": {
+    "monthly_e_pw": [
+      {
+        "month": "2025-01",
+        "e_pw": 372923.0,
+        "e_total": 1491693.0,
+        "n_weeks": 4,
+        "mom_pct": null
+      },
+      {
+        "month": "2025-02",
+        "e_pw": 376217.0,
+        "e_total": 1504868.0,
+        "n_weeks": 4,
+        "mom_pct": 0.88
+      },
+      {
+        "month": "2025-03",
+        "e_pw": 375304.0,
+        "e_total": 1876522.0,
+        "n_weeks": 5,
+        "mom_pct": -0.24
+      },
+      {
+        "month": "2025-04",
+        "e_pw": 374354.0,
+        "e_total": 1497416.0,
+        "n_weeks": 4,
+        "mom_pct": -0.25
+      },
+      {
+        "month": "2025-05",
+        "e_pw": 375099.0,
+        "e_total": 1500395.0,
+        "n_weeks": 4,
+        "mom_pct": 0.2
+      },
+      {
+        "month": "2025-06",
+        "e_pw": 376702.0,
+        "e_total": 1883509.0,
+        "n_weeks": 5,
+        "mom_pct": 0.43
+      },
+      {
+        "month": "2025-07",
+        "e_pw": 366096.0,
+        "e_total": 1464386.0,
+        "n_weeks": 4,
+        "mom_pct": -2.82
+      }
+    ],
+    "halving_transition_week": "2025-08-04",
+    "pre_halving_drift_pct": -1.83,
+    "emissions_flat_pre_halving": "True",
+    "steady_state_post_halving": 155342.0,
+    "interpretation": "Emissions were flat (~375K/wk) Jan\u2013Jul 2025. The halving transition occurs in the week of 2025-07-28 (split week: 317K HNT, mix of pre/post rates). By 2025-08-04, emissions stabilize at ~155K/wk."
+  },
+  "summary": {
+    "recommended_window": "Jan 2025 \u2192 Jan 2026",
+    "reason": [
+      "Both endpoints are 4-week months",
+      "BME definition gap much smaller than Feb endpoint",
+      "Avoids partial-week emission artifact in Feb 2026",
+      "Still captures full halving effect (Aug 2025)"
+    ],
+    "proposed_decomposition": {
+      "fee_pct": 58.1,
+      "price_pct": 25.0,
+      "emission_pct": 16.9
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "total_months": 35,
+  "cleaned_months": 34,
+  "spike_months": 4,
+  "migration_excluded": true,
+  "mean_s2r_clean": 0.3137,
+  "median_s2r_clean": 0.035,
+  "trend": "INCREASING",
+  "first_half_mean": 0.0407,
+  "second_half_mean": 0.5867,
+  "spike_months_list": [
+    "2024-11",
+    "2025-02",
+    "2025-03",
+    "2025-06"
+  ]
+}

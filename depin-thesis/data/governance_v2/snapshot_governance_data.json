@@ -1,0 +1,37 @@
+[
+  {
+    "protocol": "Uniswap",
+    "space_id": "uniswapgovernance.eth",
+    "found": false
+  },
+  {
+    "protocol": "Compound",
+    "space_id": "comp-vote.eth",
+    "found": false
+  },
+  {
+    "protocol": "Aave",
+    "space_id": "aave.eth",
+    "found": false
+  },
+  {
+    "protocol": "Helium",
+    "space_id": "hnt.xyz",
+    "found": false
+  },
+  {
+    "protocol": "Livepeer",
+    "space_id": "livepeer-community.eth",
+    "found": false
+  },
+  {
+    "protocol": "Optimism",
+    "space_id": "opcollective.eth",
+    "found": false
+  },
+  {
+    "protocol": "The Graph",
+    "space_id": "graphprotocol.eth",
+    "found": false
+  }
+]

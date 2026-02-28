@@ -1,0 +1,1238 @@
+{
+  "execution_id": "01KJEXB5FWDJFZCP2EWQMNHZDN",
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-02-27T06:42:26.429471Z",
+  "expires_at": "2026-05-28T06:44:31.309712Z",
+  "execution_started_at": "2026-02-27T06:42:28.339384Z",
+  "execution_ended_at": "2026-02-27T06:44:31.309701Z",
+  "result": {
+    "rows": [
+      {
+        "avg_price_usd": 1.7641167227936831,
+        "hnt_volume": 454480600.5906553,
+        "n_transfers": 222116,
+        "unique_signers": 8420,
+        "volume_usd": 837679334.7515447,
+        "week": "2023-04-17 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.7718767250420802,
+        "hnt_volume": 25008629.463477712,
+        "n_transfers": 249994,
+        "unique_signers": 23068,
+        "volume_usd": 44359310.12573958,
+        "week": "2023-04-24 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.6090305891223182,
+        "hnt_volume": 7166538.476839062,
+        "n_transfers": 143417,
+        "unique_signers": 13444,
+        "volume_usd": 11552790.70804252,
+        "week": "2023-05-01 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.3754844422902894,
+        "hnt_volume": 6101654.583734528,
+        "n_transfers": 107278,
+        "unique_signers": 10546,
+        "volume_usd": 8409540.897725469,
+        "week": "2023-05-08 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.3630484620609395,
+        "hnt_volume": 7261860.289668607,
+        "n_transfers": 76596,
+        "unique_signers": 10863,
+        "volume_usd": 9740044.811101709,
+        "week": "2023-05-15 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.4515636226486914,
+        "hnt_volume": 5515587.8155823555,
+        "n_transfers": 106055,
+        "unique_signers": 19462,
+        "volume_usd": 8049106.34079193,
+        "week": "2023-05-22 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.4224116415001402,
+        "hnt_volume": 4024752.3672546945,
+        "n_transfers": 91191,
+        "unique_signers": 15322,
+        "volume_usd": 5694445.551392321,
+        "week": "2023-05-29 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.3639691218696453,
+        "hnt_volume": 5633528.446707723,
+        "n_transfers": 94371,
+        "unique_signers": 8534,
+        "volume_usd": 7699412.177932957,
+        "week": "2023-06-05 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.2485385442785817,
+        "hnt_volume": 4402025.443553032,
+        "n_transfers": 75285,
+        "unique_signers": 7967,
+        "volume_usd": 5493164.6154819,
+        "week": "2023-06-12 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.2538614684510385,
+        "hnt_volume": 3462249.8922764095,
+        "n_transfers": 71873,
+        "unique_signers": 9765,
+        "volume_usd": 4319664.377556892,
+        "week": "2023-06-19 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.304583340012191,
+        "hnt_volume": 6393456.875686753,
+        "n_transfers": 105508,
+        "unique_signers": 21147,
+        "volume_usd": 8194080.491665609,
+        "week": "2023-06-26 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.353969287287033,
+        "hnt_volume": 20597361.90297007,
+        "n_transfers": 74041,
+        "unique_signers": 8288,
+        "volume_usd": 28292221.696462456,
+        "week": "2023-07-03 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.5473611239795881,
+        "hnt_volume": 18024984.369622625,
+        "n_transfers": 118721,
+        "unique_signers": 12383,
+        "volume_usd": 28329265.14206757,
+        "week": "2023-07-10 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.5441382722501518,
+        "hnt_volume": 7050881.539881094,
+        "n_transfers": 53561,
+        "unique_signers": 9016,
+        "volume_usd": 10877797.638552532,
+        "week": "2023-07-17 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.5395003105482015,
+        "hnt_volume": 12250164.411974872,
+        "n_transfers": 85333,
+        "unique_signers": 10496,
+        "volume_usd": 18900722.324239668,
+        "week": "2023-07-24 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.876527934500368,
+        "hnt_volume": 24416632.63976823,
+        "n_transfers": 114321,
+        "unique_signers": 12950,
+        "volume_usd": 45166102.91526692,
+        "week": "2023-07-31 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.017373723749817,
+        "hnt_volume": 12073607.1554197,
+        "n_transfers": 74143,
+        "unique_signers": 9316,
+        "volume_usd": 24237508.88378761,
+        "week": "2023-08-07 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.8479637450377742,
+        "hnt_volume": 13328924.594744889,
+        "n_transfers": 86664,
+        "unique_signers": 8307,
+        "volume_usd": 24602552.273705192,
+        "week": "2023-08-14 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.6533368482723527,
+        "hnt_volume": 9428416.34977835,
+        "n_transfers": 136560,
+        "unique_signers": 7467,
+        "volume_usd": 15510803.092944227,
+        "week": "2023-08-21 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.6000762528070205,
+        "hnt_volume": 6065300.250390269,
+        "n_transfers": 130487,
+        "unique_signers": 7672,
+        "volume_usd": 9776992.971447745,
+        "week": "2023-08-28 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.488668570552779,
+        "hnt_volume": 5545159.67022817,
+        "n_transfers": 123957,
+        "unique_signers": 8787,
+        "volume_usd": 8255479.019197103,
+        "week": "2023-09-04 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.3997680851543308,
+        "hnt_volume": 6359888.643928158,
+        "n_transfers": 135567,
+        "unique_signers": 11723,
+        "volume_usd": 8907844.185338119,
+        "week": "2023-09-11 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.44791495020739,
+        "hnt_volume": 8515775.05186524,
+        "n_transfers": 130841,
+        "unique_signers": 11991,
+        "volume_usd": 12388491.451891286,
+        "week": "2023-09-18 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.454427833709517,
+        "hnt_volume": 6320587.844278331,
+        "n_transfers": 138264,
+        "unique_signers": 13189,
+        "volume_usd": 9200342.459016085,
+        "week": "2023-09-25 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.4500281211028911,
+        "hnt_volume": 5550203.764053645,
+        "n_transfers": 161089,
+        "unique_signers": 10379,
+        "volume_usd": 8040440.783901783,
+        "week": "2023-10-02 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.4500168460536154,
+        "hnt_volume": 4857381.7034277655,
+        "n_transfers": 163243,
+        "unique_signers": 9976,
+        "volume_usd": 7052339.84968257,
+        "week": "2023-10-09 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.4682435656098292,
+        "hnt_volume": 7244643.60869899,
+        "n_transfers": 131209,
+        "unique_signers": 10491,
+        "volume_usd": 10667280.361789003,
+        "week": "2023-10-16 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.5331665169834343,
+        "hnt_volume": 12354920.1942144,
+        "n_transfers": 124708,
+        "unique_signers": 12899,
+        "volume_usd": 18935980.506349217,
+        "week": "2023-10-23 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.609014397324654,
+        "hnt_volume": 9652464.45259854,
+        "n_transfers": 153084,
+        "unique_signers": 17199,
+        "volume_usd": 15214228.10702726,
+        "week": "2023-10-30 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.8678765502996095,
+        "hnt_volume": 13315364.242352175,
+        "n_transfers": 219393,
+        "unique_signers": 17525,
+        "volume_usd": 24907028.90485276,
+        "week": "2023-11-06 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.0151882991510854,
+        "hnt_volume": 8657757.252125159,
+        "n_transfers": 203028,
+        "unique_signers": 15379,
+        "volume_usd": 17500300.39226928,
+        "week": "2023-11-13 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.3729227470162795,
+        "hnt_volume": 12752614.30681592,
+        "n_transfers": 200989,
+        "unique_signers": 16289,
+        "volume_usd": 29890054.323914807,
+        "week": "2023-11-20 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.841187927933658,
+        "hnt_volume": 9696284.390080482,
+        "n_transfers": 216301,
+        "unique_signers": 19218,
+        "volume_usd": 27713492.526107363,
+        "week": "2023-11-27 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 4.478902802723139,
+        "hnt_volume": 30341793.723877408,
+        "n_transfers": 429868,
+        "unique_signers": 36895,
+        "volume_usd": 136353732.24704397,
+        "week": "2023-12-04 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.671980151137226,
+        "hnt_volume": 40036636.00172522,
+        "n_transfers": 789869,
+        "unique_signers": 48246,
+        "volume_usd": 266752894.350847,
+        "week": "2023-12-11 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 8.023130749170969,
+        "hnt_volume": 47933739.298713036,
+        "n_transfers": 853275,
+        "unique_signers": 52199,
+        "volume_usd": 382227540.2640211,
+        "week": "2023-12-18 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.96625002311413,
+        "hnt_volume": 19897662.65054485,
+        "n_transfers": 378573,
+        "unique_signers": 31887,
+        "volume_usd": 138284415.97124174,
+        "week": "2023-12-25 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.1450148036567995,
+        "hnt_volume": 19836937.9815037,
+        "n_transfers": 387742,
+        "unique_signers": 28762,
+        "volume_usd": 121105402.01994756,
+        "week": "2024-01-01 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.797120865875381,
+        "hnt_volume": 33629160.09229574,
+        "n_transfers": 423155,
+        "unique_signers": 32362,
+        "volume_usd": 232269566.385262,
+        "week": "2024-01-08 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.036986956147361,
+        "hnt_volume": 19391098.699032836,
+        "n_transfers": 302518,
+        "unique_signers": 25138,
+        "volume_usd": 138499149.47717848,
+        "week": "2024-01-15 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.16591341999721,
+        "hnt_volume": 274927081.3195353,
+        "n_transfers": 651513,
+        "unique_signers": 29485,
+        "volume_usd": 2021281255.4034538,
+        "week": "2024-01-22 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.54582528394399,
+        "hnt_volume": 383230879.4339729,
+        "n_transfers": 975125,
+        "unique_signers": 28274,
+        "volume_usd": 2872891996.6881585,
+        "week": "2024-01-29 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.3449252224920905,
+        "hnt_volume": 344903401.33938795,
+        "n_transfers": 949216,
+        "unique_signers": 26933,
+        "volume_usd": 2524067563.2207174,
+        "week": "2024-02-05 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 9.408682754315052,
+        "hnt_volume": 525833137.6421024,
+        "n_transfers": 1242775,
+        "unique_signers": 39022,
+        "volume_usd": 4937765634.250732,
+        "week": "2024-02-12 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 8.872063525705551,
+        "hnt_volume": 1090421482.292158,
+        "n_transfers": 1532765,
+        "unique_signers": 29020,
+        "volume_usd": 9691835626.828789,
+        "week": "2024-02-19 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 8.91604137143254,
+        "hnt_volume": 1127829483.8493361,
+        "n_transfers": 1640020,
+        "unique_signers": 35419,
+        "volume_usd": 9988898056.664677,
+        "week": "2024-02-26 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 8.647831368673684,
+        "hnt_volume": 152322115.7483928,
+        "n_transfers": 458349,
+        "unique_signers": 33078,
+        "volume_usd": 1283142470.9515114,
+        "week": "2024-03-04 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.948100289371288,
+        "hnt_volume": 453487900.19136184,
+        "n_transfers": 740218,
+        "unique_signers": 31235,
+        "volume_usd": 3559626202.9597454,
+        "week": "2024-03-11 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.739645330156782,
+        "hnt_volume": 475360728.0040276,
+        "n_transfers": 668791,
+        "unique_signers": 23965,
+        "volume_usd": 3197269870.630354,
+        "week": "2024-03-18 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.375096317325003,
+        "hnt_volume": 490226548.421608,
+        "n_transfers": 655230,
+        "unique_signers": 25703,
+        "volume_usd": 3121660362.4610577,
+        "week": "2024-03-25 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 5.703736377473924,
+        "hnt_volume": 149610680.76301798,
+        "n_transfers": 264727,
+        "unique_signers": 19680,
+        "volume_usd": 851665129.4925457,
+        "week": "2024-04-01 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 5.4630419650894675,
+        "hnt_volume": 18349337.76394108,
+        "n_transfers": 148838,
+        "unique_signers": 16640,
+        "volume_usd": 95206219.06129709,
+        "week": "2024-04-08 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 4.215161438862708,
+        "hnt_volume": 19837776.93627941,
+        "n_transfers": 165047,
+        "unique_signers": 14348,
+        "volume_usd": 83114251.01796366,
+        "week": "2024-04-15 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 4.270814596247507,
+        "hnt_volume": 25695703.375536665,
+        "n_transfers": 208766,
+        "unique_signers": 18335,
+        "volume_usd": 108842993.72401819,
+        "week": "2024-04-22 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 5.419880907106284,
+        "hnt_volume": 21690204.1294059,
+        "n_transfers": 249805,
+        "unique_signers": 20233,
+        "volume_usd": 116569561.87958927,
+        "week": "2024-04-29 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 4.934332907267655,
+        "hnt_volume": 15817570.447581219,
+        "n_transfers": 166641,
+        "unique_signers": 16658,
+        "volume_usd": 76413942.67888281,
+        "week": "2024-05-06 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 4.715481607668816,
+        "hnt_volume": 25410494.017591402,
+        "n_transfers": 138536,
+        "unique_signers": 16698,
+        "volume_usd": 119660023.6151333,
+        "week": "2024-05-13 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 4.518236735628815,
+        "hnt_volume": 20237055.139036976,
+        "n_transfers": 130990,
+        "unique_signers": 15706,
+        "volume_usd": 90891895.94695221,
+        "week": "2024-05-20 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 4.103229037464221,
+        "hnt_volume": 13918500.561331935,
+        "n_transfers": 117710,
+        "unique_signers": 16995,
+        "volume_usd": 56798026.50615231,
+        "week": "2024-05-27 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.889457042098252,
+        "hnt_volume": 16261575.063395392,
+        "n_transfers": 117394,
+        "unique_signers": 15879,
+        "volume_usd": 63455028.15546131,
+        "week": "2024-06-03 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.5014853303446207,
+        "hnt_volume": 13658522.479009086,
+        "n_transfers": 157911,
+        "unique_signers": 17848,
+        "volume_usd": 47630338.65007001,
+        "week": "2024-06-10 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.349802445691806,
+        "hnt_volume": 11312268.444809718,
+        "n_transfers": 130597,
+        "unique_signers": 13825,
+        "volume_usd": 38353778.700073354,
+        "week": "2024-06-17 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.435525865691536,
+        "hnt_volume": 12339649.737946631,
+        "n_transfers": 137982,
+        "unique_signers": 13398,
+        "volume_usd": 42492068.81730776,
+        "week": "2024-06-24 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.385859786418825,
+        "hnt_volume": 16013217.05781123,
+        "n_transfers": 184005,
+        "unique_signers": 15492,
+        "volume_usd": 54923016.800950006,
+        "week": "2024-07-01 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.1431901034227554,
+        "hnt_volume": 13287655.709182827,
+        "n_transfers": 122507,
+        "unique_signers": 13295,
+        "volume_usd": 41692625.02519873,
+        "week": "2024-07-08 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 4.114024778723555,
+        "hnt_volume": 12091815.324298799,
+        "n_transfers": 192746,
+        "unique_signers": 21634,
+        "volume_usd": 50243659.65539079,
+        "week": "2024-07-15 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 5.18798792242434,
+        "hnt_volume": 21456512.573484983,
+        "n_transfers": 180003,
+        "unique_signers": 17420,
+        "volume_usd": 111299340.72328448,
+        "week": "2024-07-22 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 4.835643455178812,
+        "hnt_volume": 21489608.14977072,
+        "n_transfers": 175933,
+        "unique_signers": 16061,
+        "volume_usd": 103254292.28034389,
+        "week": "2024-07-29 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 5.3613233440592145,
+        "hnt_volume": 23586219.059904598,
+        "n_transfers": 312602,
+        "unique_signers": 24758,
+        "volume_usd": 116247597.64016022,
+        "week": "2024-08-05 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.996583038300315,
+        "hnt_volume": 23058306.906710263,
+        "n_transfers": 379337,
+        "unique_signers": 26935,
+        "volume_usd": 160953766.878692,
+        "week": "2024-08-12 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.9951762746419295,
+        "hnt_volume": 30879871.252705034,
+        "n_transfers": 222749,
+        "unique_signers": 20233,
+        "volume_usd": 219054324.21083072,
+        "week": "2024-08-19 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.010845479924439,
+        "hnt_volume": 22493032.856404636,
+        "n_transfers": 284785,
+        "unique_signers": 23106,
+        "volume_usd": 157517921.30546537,
+        "week": "2024-08-26 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.87748841139697,
+        "hnt_volume": 22954659.023631927,
+        "n_transfers": 331360,
+        "unique_signers": 24468,
+        "volume_usd": 179885750.41508293,
+        "week": "2024-09-02 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.802995378730768,
+        "hnt_volume": 18694061.698462155,
+        "n_transfers": 206004,
+        "unique_signers": 19710,
+        "volume_usd": 146895880.3711835,
+        "week": "2024-09-09 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.077659970883326,
+        "hnt_volume": 25059875.591791593,
+        "n_transfers": 201271,
+        "unique_signers": 18741,
+        "volume_usd": 175631271.9093338,
+        "week": "2024-09-16 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.552552670806546,
+        "hnt_volume": 11542842.822980328,
+        "n_transfers": 179796,
+        "unique_signers": 19957,
+        "volume_usd": 87295220.56938669,
+        "week": "2024-09-23 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.420479444129385,
+        "hnt_volume": 35488162.46450821,
+        "n_transfers": 181481,
+        "unique_signers": 19034,
+        "volume_usd": 269628300.8202521,
+        "week": "2024-09-30 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.6773195740185525,
+        "hnt_volume": 20537693.222633574,
+        "n_transfers": 189399,
+        "unique_signers": 18394,
+        "volume_usd": 137428309.22472295,
+        "week": "2024-10-07 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.168110482373058,
+        "hnt_volume": 13192572.331751658,
+        "n_transfers": 183613,
+        "unique_signers": 21157,
+        "volume_usd": 80673138.02894646,
+        "week": "2024-10-14 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.9619317882518885,
+        "hnt_volume": 13486379.075496566,
+        "n_transfers": 189850,
+        "unique_signers": 22095,
+        "volume_usd": 93685662.70440984,
+        "week": "2024-10-21 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.54190207355542,
+        "hnt_volume": 7326672.0796626955,
+        "n_transfers": 141882,
+        "unique_signers": 22850,
+        "volume_usd": 48361765.22518214,
+        "week": "2024-10-28 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.351789917353888,
+        "hnt_volume": 14886563.54135843,
+        "n_transfers": 199769,
+        "unique_signers": 29746,
+        "volume_usd": 94085901.21252936,
+        "week": "2024-11-04 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.087559741891915,
+        "hnt_volume": 25651173.475023963,
+        "n_transfers": 219444,
+        "unique_signers": 29461,
+        "volume_usd": 157202111.1083281,
+        "week": "2024-11-11 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 5.824082848700661,
+        "hnt_volume": 22762727.634089988,
+        "n_transfers": 202731,
+        "unique_signers": 21784,
+        "volume_usd": 131317215.17650324,
+        "week": "2024-11-18 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.019509394959785,
+        "hnt_volume": 25949994.459345777,
+        "n_transfers": 280195,
+        "unique_signers": 25458,
+        "volume_usd": 172120723.8813274,
+        "week": "2024-11-25 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 8.738610158110058,
+        "hnt_volume": 47428854.149519764,
+        "n_transfers": 366400,
+        "unique_signers": 29289,
+        "volume_usd": 400119501.55906844,
+        "week": "2024-12-02 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 8.322803386037544,
+        "hnt_volume": 26662003.13614444,
+        "n_transfers": 233193,
+        "unique_signers": 19742,
+        "volume_usd": 221185081.43689704,
+        "week": "2024-12-09 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.806660459803774,
+        "hnt_volume": 38816747.23990025,
+        "n_transfers": 289337,
+        "unique_signers": 18466,
+        "volume_usd": 302584292.76993483,
+        "week": "2024-12-16 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 7.000868539249443,
+        "hnt_volume": 15755071.262004923,
+        "n_transfers": 187841,
+        "unique_signers": 14474,
+        "volume_usd": 101135593.39119369,
+        "week": "2024-12-23 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 6.310730838742068,
+        "hnt_volume": 35931504.71579355,
+        "n_transfers": 187018,
+        "unique_signers": 16869,
+        "volume_usd": 223082750.86473846,
+        "week": "2024-12-30 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 5.795747295737706,
+        "hnt_volume": 21369287.284467082,
+        "n_transfers": 140130,
+        "unique_signers": 13291,
+        "volume_usd": 114015298.4435244,
+        "week": "2025-01-06 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 4.991541538821731,
+        "hnt_volume": 22872977.412594948,
+        "n_transfers": 224348,
+        "unique_signers": 16282,
+        "volume_usd": 106567281.69957216,
+        "week": "2025-01-13 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 4.267638803053128,
+        "hnt_volume": 42237550.52076841,
+        "n_transfers": 189315,
+        "unique_signers": 13977,
+        "volume_usd": 180681935.36071774,
+        "week": "2025-01-20 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.9980814495327928,
+        "hnt_volume": 25586407.912949767,
+        "n_transfers": 261650,
+        "unique_signers": 28286,
+        "volume_usd": 88377843.25421312,
+        "week": "2025-01-27 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.3750079594973856,
+        "hnt_volume": 15117826.212459384,
+        "n_transfers": 328296,
+        "unique_signers": 33227,
+        "volume_usd": 44886613.42133409,
+        "week": "2025-02-03 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.8052192369011126,
+        "hnt_volume": 14605057.944710003,
+        "n_transfers": 302309,
+        "unique_signers": 35008,
+        "volume_usd": 53741555.80002073,
+        "week": "2025-02-10 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.6006864244881482,
+        "hnt_volume": 14265623.431922212,
+        "n_transfers": 299392,
+        "unique_signers": 35788,
+        "volume_usd": 51504677.918953374,
+        "week": "2025-02-17 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.326709525012874,
+        "hnt_volume": 16071778.117621042,
+        "n_transfers": 350001,
+        "unique_signers": 38205,
+        "volume_usd": 42447331.24611511,
+        "week": "2025-02-24 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.154510633135196,
+        "hnt_volume": 13916890.739077175,
+        "n_transfers": 291624,
+        "unique_signers": 32288,
+        "volume_usd": 41692388.65121744,
+        "week": "2025-03-03 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.818258508290432,
+        "hnt_volume": 18277208.643970262,
+        "n_transfers": 306025,
+        "unique_signers": 29850,
+        "volume_usd": 49944838.207864136,
+        "week": "2025-03-10 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.200886287822522,
+        "hnt_volume": 9386480.48241801,
+        "n_transfers": 272312,
+        "unique_signers": 30207,
+        "volume_usd": 27895726.500738546,
+        "week": "2025-03-17 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.294669879312184,
+        "hnt_volume": 12223190.711036557,
+        "n_transfers": 325945,
+        "unique_signers": 33274,
+        "volume_usd": 39370061.37002179,
+        "week": "2025-03-24 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.904204014306762,
+        "hnt_volume": 8939076.804850904,
+        "n_transfers": 309792,
+        "unique_signers": 33441,
+        "volume_usd": 26101060.44994706,
+        "week": "2025-03-31 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.1681798451590666,
+        "hnt_volume": 20230741.95072402,
+        "n_transfers": 472370,
+        "unique_signers": 35762,
+        "volume_usd": 62476271.58133287,
+        "week": "2025-04-07 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.5145613359600096,
+        "hnt_volume": 11809857.933767991,
+        "n_transfers": 381053,
+        "unique_signers": 33080,
+        "volume_usd": 39375263.49479502,
+        "week": "2025-04-14 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.9065509248528425,
+        "hnt_volume": 18475474.51163159,
+        "n_transfers": 483462,
+        "unique_signers": 37575,
+        "volume_usd": 69358801.78094822,
+        "week": "2025-04-21 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.942475316383209,
+        "hnt_volume": 10942793.484937102,
+        "n_transfers": 356613,
+        "unique_signers": 32973,
+        "volume_usd": 43626404.59774337,
+        "week": "2025-04-28 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.924723432216325,
+        "hnt_volume": 8918020.110669063,
+        "n_transfers": 377703,
+        "unique_signers": 35036,
+        "volume_usd": 33655462.62156509,
+        "week": "2025-05-05 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.981629582601593,
+        "hnt_volume": 14431928.884694882,
+        "n_transfers": 393148,
+        "unique_signers": 34583,
+        "volume_usd": 56034861.72476178,
+        "week": "2025-05-12 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 4.056103290909925,
+        "hnt_volume": 11928058.06107948,
+        "n_transfers": 352790,
+        "unique_signers": 32758,
+        "volume_usd": 48124584.30489803,
+        "week": "2025-05-19 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.5787479201968235,
+        "hnt_volume": 21540851.59155686,
+        "n_transfers": 422757,
+        "unique_signers": 31003,
+        "volume_usd": 64890387.83450257,
+        "week": "2025-05-26 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.105419742003541,
+        "hnt_volume": 17232350.79825462,
+        "n_transfers": 287331,
+        "unique_signers": 28526,
+        "volume_usd": 49180464.06078303,
+        "week": "2025-06-02 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.746169977959713,
+        "hnt_volume": 15522641.965119757,
+        "n_transfers": 282719,
+        "unique_signers": 27996,
+        "volume_usd": 41778406.25794539,
+        "week": "2025-06-09 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.3675436966646966,
+        "hnt_volume": 20529770.834961932,
+        "n_transfers": 305550,
+        "unique_signers": 26375,
+        "volume_usd": 45881105.00843362,
+        "week": "2025-06-16 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.271188572035987,
+        "hnt_volume": 17002992.232566945,
+        "n_transfers": 242778,
+        "unique_signers": 24118,
+        "volume_usd": 36300424.150285125,
+        "week": "2025-06-23 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.268662393798943,
+        "hnt_volume": 13278654.144807408,
+        "n_transfers": 250738,
+        "unique_signers": 26418,
+        "volume_usd": 29304866.707323633,
+        "week": "2025-06-30 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.7089056814986288,
+        "hnt_volume": 22821611.48074306,
+        "n_transfers": 353727,
+        "unique_signers": 33409,
+        "volume_usd": 60535528.816946544,
+        "week": "2025-07-07 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.480300047239695,
+        "hnt_volume": 27881668.604474958,
+        "n_transfers": 368764,
+        "unique_signers": 36342,
+        "volume_usd": 79571646.13891059,
+        "week": "2025-07-14 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.5930953611317102,
+        "hnt_volume": 19460152.90080955,
+        "n_transfers": 320072,
+        "unique_signers": 29060,
+        "volume_usd": 67984627.9483798,
+        "week": "2025-07-21 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 3.178864023559376,
+        "hnt_volume": 13756593.422442041,
+        "n_transfers": 380941,
+        "unique_signers": 31701,
+        "volume_usd": 44693696.464254454,
+        "week": "2025-07-28 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.8952529071253674,
+        "hnt_volume": 12756765.6713559,
+        "n_transfers": 273270,
+        "unique_signers": 25765,
+        "volume_usd": 35230563.50629569,
+        "week": "2025-08-04 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.8304211709656664,
+        "hnt_volume": 17003017.855749734,
+        "n_transfers": 256593,
+        "unique_signers": 24267,
+        "volume_usd": 46898994.38963991,
+        "week": "2025-08-11 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.663152111901688,
+        "hnt_volume": 12392344.042920278,
+        "n_transfers": 283962,
+        "unique_signers": 23453,
+        "volume_usd": 32969992.895733472,
+        "week": "2025-08-18 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.613296324687457,
+        "hnt_volume": 9436481.2130325,
+        "n_transfers": 263794,
+        "unique_signers": 23586,
+        "volume_usd": 20530610.93879622,
+        "week": "2025-08-25 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.442722814656525,
+        "hnt_volume": 25771816.51017042,
+        "n_transfers": 279002,
+        "unique_signers": 23841,
+        "volume_usd": 55209321.595433876,
+        "week": "2025-09-01 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.5789661887385886,
+        "hnt_volume": 34471966.27683358,
+        "n_transfers": 319923,
+        "unique_signers": 26019,
+        "volume_usd": 85813754.78018546,
+        "week": "2025-09-08 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.6090373782034373,
+        "hnt_volume": 33550332.580104485,
+        "n_transfers": 216035,
+        "unique_signers": 21003,
+        "volume_usd": 88043390.08591978,
+        "week": "2025-09-15 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.295748020492996,
+        "hnt_volume": 12600567.07167018,
+        "n_transfers": 214700,
+        "unique_signers": 17207,
+        "volume_usd": 28803931.70985107,
+        "week": "2025-09-22 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.542418588751685,
+        "hnt_volume": 19457474.186021,
+        "n_transfers": 274962,
+        "unique_signers": 23075,
+        "volume_usd": 48545501.02693826,
+        "week": "2025-09-29 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.439051787446056,
+        "hnt_volume": 22686909.36180568,
+        "n_transfers": 322723,
+        "unique_signers": 21528,
+        "volume_usd": 55502861.72482283,
+        "week": "2025-10-06 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.0500315593382084,
+        "hnt_volume": 38395949.46230021,
+        "n_transfers": 273770,
+        "unique_signers": 17191,
+        "volume_usd": 76894486.73357494,
+        "week": "2025-10-13 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.9482631360882667,
+        "hnt_volume": 18766762.121752594,
+        "n_transfers": 265490,
+        "unique_signers": 17837,
+        "volume_usd": 36456858.84322687,
+        "week": "2025-10-20 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.383652558631975,
+        "hnt_volume": 31493947.019895982,
+        "n_transfers": 374751,
+        "unique_signers": 22228,
+        "volume_usd": 74997762.42435652,
+        "week": "2025-10-27 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.3323268860652124,
+        "hnt_volume": 14681364.767376266,
+        "n_transfers": 293044,
+        "unique_signers": 20922,
+        "volume_usd": 34215545.80373252,
+        "week": "2025-11-03 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.3819242799048457,
+        "hnt_volume": 38862807.87725093,
+        "n_transfers": 302773,
+        "unique_signers": 22535,
+        "volume_usd": 92024091.20745754,
+        "week": "2025-11-10 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.087085762902724,
+        "hnt_volume": 28495062.06126521,
+        "n_transfers": 345569,
+        "unique_signers": 18126,
+        "volume_usd": 55644893.56196665,
+        "week": "2025-11-17 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 2.148497311406219,
+        "hnt_volume": 16583870.391201476,
+        "n_transfers": 287325,
+        "unique_signers": 17853,
+        "volume_usd": 35618882.49569302,
+        "week": "2025-11-24 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.9832650005120749,
+        "hnt_volume": 15288430.749891924,
+        "n_transfers": 215026,
+        "unique_signers": 18051,
+        "volume_usd": 30626001.84339089,
+        "week": "2025-12-01 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.8842014055612988,
+        "hnt_volume": 42959027.52119954,
+        "n_transfers": 160363,
+        "unique_signers": 14287,
+        "volume_usd": 82840608.58985363,
+        "week": "2025-12-08 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.6877509661080692,
+        "hnt_volume": 17912303.84453138,
+        "n_transfers": 214003,
+        "unique_signers": 13727,
+        "volume_usd": 29889529.908834442,
+        "week": "2025-12-15 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.5354652914525702,
+        "hnt_volume": 18008707.53386002,
+        "n_transfers": 177233,
+        "unique_signers": 14671,
+        "volume_usd": 28222417.558043987,
+        "week": "2025-12-22 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.513497094537781,
+        "hnt_volume": 19560036.963071097,
+        "n_transfers": 245744,
+        "unique_signers": 16955,
+        "volume_usd": 29103273.538960323,
+        "week": "2025-12-29 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.5180954910546798,
+        "hnt_volume": 10925467.898300609,
+        "n_transfers": 203307,
+        "unique_signers": 16262,
+        "volume_usd": 16476183.504222143,
+        "week": "2026-01-05 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.374979204418622,
+        "hnt_volume": 13233929.103940431,
+        "n_transfers": 366424,
+        "unique_signers": 13418,
+        "volume_usd": 18201929.607147966,
+        "week": "2026-01-12 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.2620181586622081,
+        "hnt_volume": 7306668.816888158,
+        "n_transfers": 210994,
+        "unique_signers": 13516,
+        "volume_usd": 9058056.533111405,
+        "week": "2026-01-19 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.0634432611664848,
+        "hnt_volume": 11410315.282607703,
+        "n_transfers": 175478,
+        "unique_signers": 13924,
+        "volume_usd": 12037377.296496626,
+        "week": "2026-01-26 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 0.8599399820411527,
+        "hnt_volume": 12465840.94012458,
+        "n_transfers": 191660,
+        "unique_signers": 13662,
+        "volume_usd": 10638975.572429314,
+        "week": "2026-02-02 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 0.9998382425519712,
+        "hnt_volume": 23572687.820863985,
+        "n_transfers": 251742,
+        "unique_signers": 14062,
+        "volume_usd": 23726414.652399037,
+        "week": "2026-02-09 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.4634698656596339,
+        "hnt_volume": 30527981.855207387,
+        "n_transfers": 339065,
+        "unique_signers": 16164,
+        "volume_usd": 44475944.159858726,
+        "week": "2026-02-16 00:00:00.000 UTC"
+      },
+      {
+        "avg_price_usd": 1.4152294726629757,
+        "hnt_volume": 7486320.807600861,
+        "n_transfers": 127793,
+        "unique_signers": 10572,
+        "volume_usd": 10594490.544432025,
+        "week": "2026-02-23 00:00:00.000 UTC"
+      }
+    ],
+    "metadata": {
+      "column_names": [
+        "week",
+        "n_transfers",
+        "unique_signers",
+        "hnt_volume",
+        "volume_usd",
+        "avg_price_usd"
+      ],
+      "column_types": [
+        "timestamp(3) with time zone",
+        "bigint",
+        "bigint",
+        "double",
+        "double",
+        "double"
+      ],
+      "row_count": 150,
+      "result_set_bytes": 7200,
+      "total_row_count": 150,
+      "total_result_set_bytes": 7200,
+      "datapoint_count": 900,
+      "pending_time_millis": 1909,
+      "execution_time_millis": 122970
+    }
+  }
+}

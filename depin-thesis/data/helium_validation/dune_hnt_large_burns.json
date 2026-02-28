@@ -1,0 +1,736 @@
+{
+  "execution_id": "01KHT9DXMNFKFTQTSHRMN0G78J",
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-02-19T06:29:36.533713Z",
+  "expires_at": "2026-05-20T06:30:46.832669Z",
+  "execution_started_at": "2026-02-19T06:29:37.113425Z",
+  "execution_ended_at": "2026-02-19T06:30:46.832661Z",
+  "result": {
+    "rows": [
+      {
+        "block_time": "2025-10-06 19:34:50.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 390553.46769533,
+        "tx_id": "5aHkeoTqoixS3yDV5JwpgFuucZeKB1XcZsJnXscEhzP3BtPFjkUUY2e1XhzUoebvvdPQ2k4vRonYrXBjkrUk8mLg",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-06-07 00:00:01.000 UTC",
+        "from_owner": "J2PeDhhZtmYHfnxPbfgttxYg9XAvv98Zo3RhfqiLgeSv",
+        "hnt_burned": 323882.00669582,
+        "tx_id": "4V6mGJbr637sqsUe3W5nJ5yEUtKpEC8DRF3oKYRJRbgpYRLUckDjG1k6Cdq3JHgdKEjrJ5MB1ox3UPzXeBtCwv4",
+        "tx_signer": "TUKvijKsEnMusYKPgA8itNYAaCtkxSuSKp2weTppK7y"
+      },
+      {
+        "block_time": "2025-08-21 19:09:25.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 304542.71058102,
+        "tx_id": "3FH9z2PWYK8FMbhd1SNqFwGAjtyHq9G7cPvHPT9hiGSYWjztxbR4TQWbjktyt1tMxHVtcjqSHsS1rXp76cC1N9Vm",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-06-03 02:11:47.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 301117.38095714,
+        "tx_id": "eTCifdnYDopNc9Bmxzi4nkQrXd7MkgK7JsunJJE3acwS1svDisnrsfbgnno4qB5AozRpUhpHovgiyZNaTtSyWHY",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-10-27 17:48:28.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 236208.00269159,
+        "tx_id": "WjLFRsu8H9TtRMEsJJBPtMuMznBJ84xpcps4Yf4YhtNsQna6u8WA62MZ5d5YYx7skipqzeF9ZyhHxghbSW39TjQ",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-11-10 18:49:28.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 195710.5485463,
+        "tx_id": "2iTuZWXUGV65wqiPyQHqfN79QWtMNf9mZMYjFkXKp4wsvfkTY24KKJmViwsWytKd1CRCoz1opbFHM26NbPehF8e",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-10-06 17:41:30.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 188858.64232195,
+        "tx_id": "4WtCKMXhQhzujjWRUxrqS189G5X5xQbawWvbm6oEhQrbgMQp5hFnrj6jrffB8zQnZNQ14XKvKabKx4sae6PA12kV",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-04-05 15:55:31.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 176494.62265361,
+        "tx_id": "3zw43xciQChBAf9TRwsJUGfSpRKmSdc27jGeXWpW6QuPmPYEZLRhRdfLBKDrJD7UVo513wMvw9qxNSutYjjh8ZS1",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-03-01 04:45:03.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 122170.22752665,
+        "tx_id": "5UttJjVCfaNctLdfYUT8vHMJFnDbDX1Y2BB1iz9xF3DUk8v6a82frRpAQ7Qzo34kzdr6ZztiU6TPMF3R2YRBMNEi",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2023-09-13 00:41:56.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 100790.78509071,
+        "tx_id": "4UDwg6veoZjai3zoz6KKpkBPMTYWut8AB6pXbmFQC15Aij1HL8FgxoH798TFVX3x6hYvwXPgMG1Z8wA3XR5iuVXY",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-11-20 04:31:14.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 99432.56722165,
+        "tx_id": "4YKAAfb5EZtDXtcwDqPsHnAE9PAaxAY99UZHKZXWKS6Vr8GXrZp3nqbtDaTe4L8gsJJaLkthbBace6Dqub42arGa",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2024-11-09 07:00:26.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 71994.683098,
+        "tx_id": "2X7VT95RarnRMnJExHAwkk6zRhsMamPxkW8QFhNNM3L3tzX4QX6mr8BTLVt1jwwjyKAnpE351zF9DFC2aV4pNdsB",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-09-29 16:51:20.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 70023.53093055,
+        "tx_id": "J2jCgyyS2NedcjSXwBRf3VtjRv1i4zqrHjnH8UrfsuCBYFjhX38bvoYNa1L9b6BwVUiVNU69yqFyQAdiaA6GinF",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-09-16 02:01:59.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 64636.77249987,
+        "tx_id": "4xmDQX7a5bbXEU8DrP1dVhMhbVtJkeKtZW8qYxxR7qEHgayL3zVf7V4TmNYQtotp2XyuhUHEmLHNNTke87eFqUtg",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-09-22 13:22:36.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 62714.04820579,
+        "tx_id": "2VSmvUcSBuBSWUxnWFHYaH68Vy818aFfhHXr7tGJKpEH8HFY1DF3RwcVU32iod5tsLQCZt3eaU56MfdbGjHTWCQV",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2026-02-08 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 61453.91314308,
+        "tx_id": "3qQpbBbSgCCBfq9ouPY5m1PvwBfomb9W2qqmJzbHNkFAfyFcsr1md1ox9q3XMaLdGjDWUiuoV4jbrQTBJh51hyJE",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-09-03 19:18:34.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 61097.44731382,
+        "tx_id": "giYniEsVBGt6Nskh6CR1FDGAEnfogrF9UTxB75Uwm2tTN4pN89u5GwJDxsTAoUtY9mJRqzCatrb8L2js3hNENUV",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-09-03 18:04:14.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 58903.59391471,
+        "tx_id": "DLZ7AUw4twfp2TRjy2SNzjHB4chGeBM42Be7jocMA7wbSjYZHNXt1Z4PjkhSzVXwMuxciezd79pJP4vq1jRT2vJ",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2026-02-07 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 58479.15831481,
+        "tx_id": "44LQSDgVw2xkkbXRxBjSBLBzbnhxvx3VvSe8VCzxum9TKYA8GuWHoownvaRkTUtjTg8T6gAC63Gyp59MTveT4Y6H",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-02-12 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 52464.28070527,
+        "tx_id": "4KSJsqEWhCeJc4DDHBTVx9KocRWJFSZVvx8yq51iZ9NmRrsBdNTqbhayGezn2wTSjQkmTGphVAvqheKE5cMVb2ew",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-02-11 16:00:13.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 51453.11623777,
+        "tx_id": "4GWhnrnxRJvmFpeJFSkhBf8xpoYCz6tiS3DUYrtQ7hJMqEQPFin7NfS7V2PpNniCU1to7VdeDA8gL5S7GY8XnjjN",
+        "tx_signer": "cronjz7v2xsWdXr8BVz38ihi5DTWPihGZKuRr6vSPEU"
+      },
+      {
+        "block_time": "2026-02-10 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 50082.61950718,
+        "tx_id": "2mtjPQTjR4uuys8QVbqhryTAjJmeLWihagbRaeJuP5VKPnUreY5Tz822KF9Z8XLxeyMGHugz4GocD5JDNLaLbuiC",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-02-06 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 49501.94550055,
+        "tx_id": "5kqTirZYBcmuoG9XoRbn32sR4HM69Q9QgKVEaqi9TMA53jcr3DXqhf4Us8pb9HznDmt5pMgRjPNCCrgq9ngnKtRd",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-08-25 15:31:42.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 48106.57355608,
+        "tx_id": "ni3hCg56HaYPhP6SSBE9ifXbx7FTNH7sZAHrSNU4QieaxVB3cSknvLZHykoVXzCeGXPMECCZGyHthUMRijx7Wzq",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2026-02-13 16:00:05.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 48079.25155623,
+        "tx_id": "4VweeyCxsqiMQMNJf9YAGNPawfNjtaMTrBttUFeKsrD5JTmxM2SiP9DAsxTKtwUk7vqEBHB6TjVm6kVG7cVVuVcD",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2024-07-08 18:56:46.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 48005.16952838,
+        "tx_id": "nAA3oimS1uQUdT97KaWganLVRfSQXFvLs2XuAe7fayg7UUwcg9vG1V96rHv2NiiKVBRdpbmduLkFsNbp8YDdV1N",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2026-02-15 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 47554.79278847,
+        "tx_id": "3YcUoRoxBMk3q3BTPvk2y7XinvVaqpHhygqzS8kL44R23vVrrikuMPo5zKcj123LVjo2kkt2Me3TsScJzBp2ySwX",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-02-02 22:18:14.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 47513.99640824,
+        "tx_id": "5y1RxgVeakFunKabDqTVa38Vi6gLtLPM3zYd2erxHbm1MeAxyjbAZzR6qJmbEREfNckFcCq6KEVxwr7rRduoXMr8",
+        "tx_signer": "TUKvijKsEnMusYKPgA8itNYAaCtkxSuSKp2weTppK7y"
+      },
+      {
+        "block_time": "2026-02-09 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 46720.00750861,
+        "tx_id": "5rQGLmk3HGSnzbBYjF6aJ3shZqkUTahiyhXFyUt941M1UQrJqsE1oHznQL1dz7b9EfDE6iUMY8jz1rowmciq33zj",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-10-21 16:00:09.000 UTC",
+        "from_owner": "FDEQKnHJCVAoqGzjGJZymQ1JvwKozMUHgJsj1rf6z6n1",
+        "hnt_burned": 45000.20065674,
+        "tx_id": "3SBGiK3D8b3dbr1XF3wNRvNoeCMN1vCLC8LyvPo8yXx8NpXhaZT3ErDvtHaAJ8q31hbLn8XGppBotamcZGDjWG3P",
+        "tx_signer": "cronjz7v2xsWdXr8BVz38ihi5DTWPihGZKuRr6vSPEU"
+      },
+      {
+        "block_time": "2026-02-14 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 44962.68921089,
+        "tx_id": "2kGxkdEThJ7YsDejmF1aPBr8jArwnNZtdYPJ75B5fdQAqikLKC6bTTYh22H9KAFBciH2S1JRFeKu4MNnK76XJKdj",
+        "tx_signer": "cronjz7v2xsWdXr8BVz38ihi5DTWPihGZKuRr6vSPEU"
+      },
+      {
+        "block_time": "2026-02-05 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 44180.81158618,
+        "tx_id": "2EhEt55Kkv9gwktwZZJtNf5L8V32AVZv436vK5HTr636BvQMydbirVcY3jHd6iDA4mUrgrMcxtEyZQbGeE7H5mMs",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-09-27 17:27:01.000 UTC",
+        "from_owner": "mobMc6Q18xT78cRiExgVbhadEKHiTUm6ZDnSZn2cU8h",
+        "hnt_burned": 41999,
+        "tx_id": "AW28ktFjEdj8eXFLALSuqaoog9qFdo3u3qZ1LT8RvZynpEFkJNmsitaQ242AMa1NkHcnJquaKCXL4TvPYqmCVg8",
+        "tx_signer": "mobMc6Q18xT78cRiExgVbhadEKHiTUm6ZDnSZn2cU8h"
+      },
+      {
+        "block_time": "2026-02-01 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 39209.43473681,
+        "tx_id": "5f3tgcTpK2bKswX2vGmYedpYkezYXKCck1KXJTWeBWC8TuZD9d2Q4P8M1rgkQs8rd68aypMgLT2sdeZgwvR2neeS",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-10-05 21:08:01.000 UTC",
+        "from_owner": "mobMc6Q18xT78cRiExgVbhadEKHiTUm6ZDnSZn2cU8h",
+        "hnt_burned": 38000,
+        "tx_id": "5YDHYHHRRin5Q3jY1UNrRf1uYWpUaZ2iuMuf84vsxMn5CpFQf8sjETZaU2ZMqRbdgbP9QQUjXeRNDB6mRNG2ATZE",
+        "tx_signer": "mobMc6Q18xT78cRiExgVbhadEKHiTUm6ZDnSZn2cU8h"
+      },
+      {
+        "block_time": "2025-08-22 14:23:50.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 36360.43128328,
+        "tx_id": "66fdT63bSbrYVF24khtKzA7WVNBMNVafPxjCK5kdJbTq6XW6Piqe379vNi3v4BeEB1a8PPgJxQVufNpvtToAkrzk",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-08-29 16:56:32.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 36104.24175852,
+        "tx_id": "H24dnTBh16VEaQ3he9AAcH4y2aRA5o7cJnHMJCosDfyQUgHN7NeQNfYDtraCGTCNeLHnHhf1RYaaNSjsap69izi",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2026-02-04 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 35587.17459422,
+        "tx_id": "3dPK2xNzXDfRF2SZyoPvLUj56tz4iWvtpc7bvZN8gPJj1sHJnGpeFP6tqLWmjYWPdRKC4vesN1hzqwZvs15T3BPy",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-10-24 16:00:01.000 UTC",
+        "from_owner": "FDEQKnHJCVAoqGzjGJZymQ1JvwKozMUHgJsj1rf6z6n1",
+        "hnt_burned": 35135.4644705,
+        "tx_id": "5Q3dhG9YAc1VUuik9o2Pq5atwkjisXfhAiRyZA51xs1XvaXEfYaHDnsv51yTJ3LAqeEUZJMmFiSNT6qDLy9TgGHQ",
+        "tx_signer": "cronjz7v2xsWdXr8BVz38ihi5DTWPihGZKuRr6vSPEU"
+      },
+      {
+        "block_time": "2023-10-02 19:51:43.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 33897.05920965,
+        "tx_id": "3UaTnmo8QwimCuagjpqFsm4r8JuNMgkf5SQQdBngnQRHottyuMHgMgxv8JAMyLSf6dBhTew6NKpKhij16DTADsN7",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2026-02-17 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 33530.07710989,
+        "tx_id": "3RpoNkgSYFL6JtEfCasGe4V4yhLKLZvwXteNu3xuu1gjiJtVwDUrghS2TcVNsG4PoHquoBSK29VFRHNnS9afuP6k",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-31 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 33260.61518109,
+        "tx_id": "3aomnXy8KEGTPKfLTFUM5MwatYvYzupQqBBecP34tzXGihp6fLZCgY6wY1sNTLEs2HjZZXZuL7647v3JMN1mY1Yg",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-02 23:05:51.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 32675.02089971,
+        "tx_id": "CY1PSaWxLzYnEWuq3i8e4zWce3KfuYsuB2Y67rHA879H3ZE45LvzZds8Kwb1y8uXnx41mtbxjNLd4dnsthFUzYg",
+        "tx_signer": "cronjz7v2xsWdXr8BVz38ihi5DTWPihGZKuRr6vSPEU"
+      },
+      {
+        "block_time": "2025-10-23 16:59:54.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 30842.67825789,
+        "tx_id": "QcsrnvNnbGZFeNeEkQUMq1PFGXLNqwBqWSnP7YHD8m4d6jqoxD4CLzhPyty7HvAN8iuUGEyQGwi5sRWdPNUC4MF",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2026-02-16 16:00:09.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 29910.65820243,
+        "tx_id": "2sSsjCTqqJhjzZJebuxPLwEdpmoc6aTWnx9N7hgy9pZLvRmhbX2qvpUgKUKK3PQyLTvbNgqAzWiFHYiAEF9WwmGv",
+        "tx_signer": "Gu86ERAK3Ba6XuPxjZUnqRPFVeMisryzM1LgRxuTWGD1"
+      },
+      {
+        "block_time": "2026-02-18 16:00:05.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 29364.46979683,
+        "tx_id": "4ot7NfAa71qqxaEJzkDSPSBFQypLmz2FDPFb5VaaRJsZRxCziGcBqGCXvw7JkEd9zmngoAHP88iAp7H58KdgDhGm",
+        "tx_signer": "TUKvijKsEnMusYKPgA8itNYAaCtkxSuSKp2weTppK7y"
+      },
+      {
+        "block_time": "2026-01-30 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 27892.22690432,
+        "tx_id": "2Q6x73WWi2PmBP8KUiEH7yRYxYqQxemWqCUo3RvV4pzebg3nTUVd5QBozQn2j9LmgqzPbygm24HSHyXVMHvAGMAj",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-25 16:00:11.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 27034.41614983,
+        "tx_id": "4TDfobqRDFjEZTQCmsSLj6VbR2SMLA7kBdn3xz4SsaKodPnvFkiPtUZSrVnMCLZj5dp5mvEiBKJHXSNG3fGDgvg8",
+        "tx_signer": "Gu86ERAK3Ba6XuPxjZUnqRPFVeMisryzM1LgRxuTWGD1"
+      },
+      {
+        "block_time": "2026-01-18 16:00:08.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 26498.96676345,
+        "tx_id": "4hEDZ79KtBuRJ1TrpcjRr7kdmY149QKVMgMG3ShvtdYQwxPDCLw19YF4LukPNhhLTgy6q3c6Cjc9rkwHSyLQmbGd",
+        "tx_signer": "Gu86ERAK3Ba6XuPxjZUnqRPFVeMisryzM1LgRxuTWGD1"
+      },
+      {
+        "block_time": "2026-01-28 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 26226.41022566,
+        "tx_id": "TKqfY362p2Hf2FKHBp4Hr4TsGJd5teW2n2RENFpgjnXgzXTDiBsCk4bBdm7GLvy3G2MHW3Jba94WtaH9juyTeFY",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-29 16:00:18.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 26174.91029219,
+        "tx_id": "31iJY6z32e5i5pDLaxY9UdBvoegDekoDRw5LeS5Dewoqpq7ZpD8pZ7FQ8Rmfe3yUpccv4xsLwd2Yafe7dJw9ieyx",
+        "tx_signer": "TUKvijKsEnMusYKPgA8itNYAaCtkxSuSKp2weTppK7y"
+      },
+      {
+        "block_time": "2026-01-24 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 25572.78049991,
+        "tx_id": "3BxyXK4CmDaWqtYqwW9GN5rFBkf7PJx1MMYLcwTymSg93defciJacxy5f5iJE2hqUrhbd7fHAWKqdadq7U8KrPv6",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-23 16:00:08.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 25370.45426819,
+        "tx_id": "3sYQNnFD6aGVpPbeGBxKE6MKdWTf8zWZTyfTdaExQxqT3hNqfP8ACpoaYRkmybU2kFYTRysTT1Bw3UiVGmEcKv9c",
+        "tx_signer": "cronjz7v2xsWdXr8BVz38ihi5DTWPihGZKuRr6vSPEU"
+      },
+      {
+        "block_time": "2024-05-16 19:32:05.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 24985.83873373,
+        "tx_id": "3QAY98vsr6Ttt6VK7Se28K6uF46xoXAQzDVAZE29KLsCAFbfgzsd289gY8929JxoFRN3gg8LYNcEVJoFmZHvjynN",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2023-06-15 22:14:40.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 24985.05102292,
+        "tx_id": "36KCAwnrT35ZhtsRrNogE66hSXoi1sgy3zQLDqqYzbwa9ZqPWpqnuhcQQuTXJz6GNGajbeHv1fQd95MS318zMMhW",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2024-04-22 23:33:23.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 24866.98058058,
+        "tx_id": "5dHVuQ5jpqM4iz81Yi7reEWTC9Vh1JFnC8BvCGtCR6uhpTYkFdtHmuX9uageJ2UCuVkY1XZq46Z9PU4Uk6W4GwmN",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2026-01-20 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 24234.09968596,
+        "tx_id": "4wjaB5m6hM2yGMn13Lv4VQaTGkhtdLSQM69gTTVCGj7fwPPfm78WBqjYWkihgY8Dstr87NQFqZdBuifoGzkphXJc",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-11 16:00:03.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 23702.26356849,
+        "tx_id": "e2FQAiZXsYZHX47Mn9u6rTQLg39JtdLDgosEibXEVsYc7KeLyZnkTP6NYL69NqvMAKxMAZwRryFjJL3ubFKBjAa",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-22 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 23438.39134131,
+        "tx_id": "2afpGgJ26aeJMxHAYxtoaf2jK4MjL6occWGSt7zvb7eX7EZkCG6kYjJqUZ4ZsHZQsDfpw34Ajo1g3187efLkFCk1",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-19 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 22813.26229706,
+        "tx_id": "5VoqPRAeftYDWwsAcinWaaiYoEsoHbKUfHx9D9UmRA9Mm8sgrf45Jz8p2HeZaJ7YuJTMEMLrpt5rmn6bA2k4J7jq",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-10 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 22620.48744321,
+        "tx_id": "5emiY3Na38CiqVRC11kVCBX9zhdvoWPFhDgFq7nLbG8DZoHQ91KHLUaRZV9z1rbGBTuWgFQ2FArDnZWucHhAhbTB",
+        "tx_signer": "cronjz7v2xsWdXr8BVz38ihi5DTWPihGZKuRr6vSPEU"
+      },
+      {
+        "block_time": "2026-01-03 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 22454.43408984,
+        "tx_id": "3AbTcg6cBnwEvZgPx4jnUBL5hZLhJjbFY5B7kWBKWr5sySW642GvwnHNhoDLcsJkQbrZCEnNmbjKfJBXEE2mtHWP",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-17 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 22411.04154612,
+        "tx_id": "2Gp7Yx3JSx6MH5WSLKwmv3feNtA65tH8LnyrddGvukT9XnQkjT2pNNHvYjKvCq7UdpeNqHTCCjei1N6AWoXHvrzz",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-21 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 22361.05240852,
+        "tx_id": "2eGjcPU3s3EUZdMCK7aSeWoXs3tynEDiTY7GwyDSHuaVJHFrmEvKqH5Mc7Zcf7yQ7zAFHndwnGepCJfLHs57GaWZ",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-21 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 21915.2151123,
+        "tx_id": "42ZuzSsubLTXZ3EetdMcM4mnqHwxw1vPQsrRDdMgca1konfhE1BF4KCDrgNi9xStonYSkC4fgy6TvUHFRhSRh23C",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-04 16:00:17.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 21428.64352375,
+        "tx_id": "4EnL68R6XgSehqW2ajhEXFMuXc7uTrSRZHhcF2vgW3uHkj8fzZsKu6EQTFXMS9gZy2YUcSbgGkHGEMQNEdaCEKWU",
+        "tx_signer": "TUKvijKsEnMusYKPgA8itNYAaCtkxSuSKp2weTppK7y"
+      },
+      {
+        "block_time": "2026-02-03 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 21414.02482983,
+        "tx_id": "5jhPqmPZoQzkCKSYXqGhyCww6PikzQqnv8kHSUSxBNWReF9CEnnR3867DrakBsjvB1tKoekNtwDRdNwerTKiAAj9",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-16 16:00:08.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 21194.84259782,
+        "tx_id": "4nnsF9RBNFEfcMb42Q3GBE9wdZixAXh2Q9WKZa9nVfbC5RC8UbukhxGnt3SUzpgo2ZVoeGdHC4TJxcXcmTirbGwh",
+        "tx_signer": "cronjz7v2xsWdXr8BVz38ihi5DTWPihGZKuRr6vSPEU"
+      },
+      {
+        "block_time": "2026-01-12 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 21184.13161111,
+        "tx_id": "4TKERpynA5g3EHdeVc9tD1PhUFHxLviwjFZnpUUG3BEhQM9U6Jf3G7BZAtyq4owBA5AwzUvqi6mVfSHgPe1HGUMM",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-31 18:00:00.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 21171.39170187,
+        "tx_id": "2DqejfXu7tPvJH32WEn9NTYn7RSh8qjpYBkL418BzQWFBoxx2qxHMo1piNphbvv8LdPqwpq8ERgwzfRsTHdB6GJb",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-31 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 21053.75531187,
+        "tx_id": "tQV9My2ompxQuMseLnn8CDLG2hvn13RngfemTbj3sUvJxdVEWNRF4CEcJWEsXvkoUsdctrKMuSDk2FnxU9R4yc2",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-01 18:00:00.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 20855.84618667,
+        "tx_id": "3gJKtHVyfLBFtkS3PYWUnbZjFx4NzDHKN2KGw2eU7awSV3DCk2gdkswqSk8tbM3zQryYzKprVJEnXgxiXVQXUNex",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-27 18:00:00.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 20837.2308655,
+        "tx_id": "4ySR6pWWotCodQ8sQ2vPYCtw4aJjuvBVY5FRiUzRn92XqHV7fLhbd6kL7kJbpHth3f5CqS2Dp8icnGnU5U286wbY",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-26 18:00:00.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 20719.79812956,
+        "tx_id": "2QbqWC68BcqfvdE7xkDwdyk6UbbujYCn8mMt3RkmC2MdhvBeJP4fsvxpZNd4ZpQsLw7DFuTcfmzY9UySGA6zQJaa",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-27 16:00:02.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 20708.26763431,
+        "tx_id": "3qShELNrePHzEZKU6M2DF63N7RCV9WqPz8mk972WdGUHLc84doGJ1YSTHSeMWyzpWGxwRfHPDt6ogDo3UABfzAVd",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-25 18:00:09.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 20522.8669468,
+        "tx_id": "2QY4jYKsMsCntdTQpasisxrV85Wj5gmaTYy4Wa8oEXMUx9YZPggLqoJVQzXBzT3SjYB9cpFeVX1baC4cSNDrpZg7",
+        "tx_signer": "cronjz7v2xsWdXr8BVz38ihi5DTWPihGZKuRr6vSPEU"
+      },
+      {
+        "block_time": "2025-12-28 16:00:12.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 20518.39664755,
+        "tx_id": "2mTtuVqVPEmoKAwRnG3EHTUba61LyiEHADde3xSvdcNbFxb4AXaVjPK7An7kHh97zp4UbDCA8WHBYvH7XYTEA23t",
+        "tx_signer": "TUKvijKsEnMusYKPgA8itNYAaCtkxSuSKp2weTppK7y"
+      },
+      {
+        "block_time": "2026-01-08 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 20500.97690853,
+        "tx_id": "3qLzwLicEX6vSK9u4J5VJ8TNfskfN35RUeAJuBMc2DgUTp7VubXFCgpD95GK1Y26gMnZbBztHrLovZufcYhCut92",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-15 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 20498.77079621,
+        "tx_id": "2irDA7BkcKsRGkEYbjZAS2x8LQLEadLGuteChhgM8HVCb51SzPKHrFQSpLsydVTB5EBXRxCjNVzZr3cdruHC7Fyz",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-24 18:00:00.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 20487.83926267,
+        "tx_id": "2TRT38CGWULLMahKrc1AeJjURk7vQPKnSKgke77MNCQfgDvgoUfoxsqUXwXuUzXJkK7A64Qn8L8osKg1LEcdtZCt",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-28 18:00:01.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 20441.7986734,
+        "tx_id": "33csozhYEwJUkM7UbEHzr3LpycBnw4TgL73eoK8qhah7h3VE1qRhYSgq8pgFUA1TP2MzYQ6DgheJA6qiUKrTQD7Z",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-29 18:00:00.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 20384.03618276,
+        "tx_id": "3kQGZKRLLUTjNw4x7dLHzNWxQ1S2SQKhJhnn4ERPYEN7kcJineJygXKCTisHCWUf7eb5LGhpRobpZFaEZ5mV7WMz",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-27 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 20382.89503279,
+        "tx_id": "5mghmjiP5zciTkXzuk1n4hEHrJ2qLXVGL1piZ1BJy8RosRysvCsoT2nwp4zjpjqo94WAkxXbywiZuNiu4S1GxDEc",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-30 18:00:00.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 20287.88231752,
+        "tx_id": "4Yph1o8Uiv4uy6DvrAWuvp8HNpRxWuY6qL16JmG616JwhHcxexDk4DpdUJUhjkAqUzhgKBAaeZ51y4XNiRHKLDF",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-24 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 20249.39294147,
+        "tx_id": "2JJSjGnB1C7SJPtp7w3ArmVA9trbgdq9xp43kZCaKhGTv2xrPcEDsSyXS4BvB1khoT6QoQYkzAhw7PkqF8jXfgMz",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-20 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 19846.9720564,
+        "tx_id": "4yws5iahBJQcmSc42tDSF2WqVy1y5y3Xz2WWjkeruLNNvKeDWDFpuhRqxyJFHjojUEY5WYqWo58R4uCSDQ4rHsHv",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-14 16:00:10.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 19832.7358418,
+        "tx_id": "sL3Lmbh7XyB51KkRuSMRj6WT2DzHeGftrc77tuFghnYCKEs36WLe3MYBdRFC1UGtojd7SmHhFVcF9Hm9W5vigzf",
+        "tx_signer": "TUKvijKsEnMusYKPgA8itNYAaCtkxSuSKp2weTppK7y"
+      },
+      {
+        "block_time": "2026-01-09 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 19710.02952017,
+        "tx_id": "3M6tkvukEqqBuUqpxBJgWHj2eChqJHuwMMBbvCsMY4cqChiW6eSLemUSjXcrvvhfzvL6XLhZLvbiMBBpd13ANGNS",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-07-16 05:29:21.000 UTC",
+        "from_owner": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g",
+        "hnt_burned": 19587.17866702,
+        "tx_id": "3KNnfzHXdqekZ9eEygEwmU2G3pug5NdbavHgBAqaHC6VxVdv3aFGFsmv3zuwBA4ftrnbtEPM4G7Ei9qEKfBpCzH2",
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "block_time": "2025-12-21 18:00:00.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 19430.9791733,
+        "tx_id": "4asw39f3QE2KgUe5LVkGtusAWsCHR1Tnk5uhVs1S8xsP5ee8mMVgWrifQy1L8CC4YpH2xiZq3uhEEucRi3gfXAQZ",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-01 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 19385.62029337,
+        "tx_id": "55skakA98pKPzkcpEsNiCR2CXycvUPbSrX78UNhRNCTFuza6JMeW3RVwRRTZuaiheyfutKnVWU3bbeXD2KEBtATe",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2026-01-13 16:00:00.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 19231.79944078,
+        "tx_id": "oaS8kWZNeS2Q5fwJyu8rJGR6popMnUceE37QhBeKa5CmpXoVx8joLxFFoobHWc2twq64aYowU1sx4CZvvaXkbrp",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-23 18:00:00.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 19218.67555793,
+        "tx_id": "2GHdZkHf6krNxTCUJBMQZf49rZYE9bncugaJq4QWZg1XA42Xo5x4yCHxLZsAS7k71RnBYoNXpjgzyWDYgPbM5Lhn",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-30 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 19040.26105907,
+        "tx_id": "5DzzvUGbRLyyfP3xgYeyHxuxkD6mC1PCWNyp7EYaMZkpSMi8BqQwaxMpm3mK4d8o9SWMh9bxoEeTNU5FLPUH1ANc",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-23 16:00:01.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 19030.50253964,
+        "tx_id": "3TmsZd41zfNJxmGcCTx82bWPr8SmsTLb3cNT35VMsZwP4rAEqqbinufoLV7ZAvY1uYZavcxb15hSFe2JMD6A1Doz",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-20 18:00:00.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 18879.92703853,
+        "tx_id": "4k8kA8gpSvo4cSpAhE89ayvGDrQj3YkKmWf9ssqeHv7fYLzrum9QAv218MnscLNQd1WjYQVE5eBYPSi9prE14d3d",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-19 18:00:00.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 18878.27085432,
+        "tx_id": "2JUZEuatEVvQVRZ6uVzDj1RCJnaiVtQu72T4BPjZnA4YNMAnYqhkGVBvwDkH83uFHUm22nWxatvLiSuUigxvmQXt",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-18 18:00:12.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 18877.1532763,
+        "tx_id": "U7MynPQkjkouQ5xDvskZw9HzonVHdD8ykPcyYZkBKKSmmw6NkTHyGgUGQmhLphVicwKeQr2rDkagS9BjvpYm8MS",
+        "tx_signer": "cronjz7v2xsWdXr8BVz38ihi5DTWPihGZKuRr6vSPEU"
+      },
+      {
+        "block_time": "2025-12-22 18:00:00.000 UTC",
+        "from_owner": "2j65rdW1jZvrEUx1xzC9ctcVbDW9smw2TUMhp3REFhNR",
+        "hnt_burned": 18874.36860827,
+        "tx_id": "2CWLbJ4GDgBTJzPkfgvSqQPgEyTrAivBSPXypVgMZhXX8bsnccohiSdGupL3MaKZNvpwz7CkeSE6fqritM6VHXkp",
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "block_time": "2025-12-14 16:00:42.000 UTC",
+        "from_owner": "EsNPf1Beanrb96PmPqLD7V2RGhNrv4UV4nwJamF6ncr3",
+        "hnt_burned": 18623.01118858,
+        "tx_id": "2ZERPrvPfrPsBsrx3XNht291RyWE1KBhV1jjsGECuyQy4ktDMUMpigV1QhTskCq1uvRkgcm3NHTwwkx9NzdDmfbc",
+        "tx_signer": "cronjz7v2xsWdXr8BVz38ihi5DTWPihGZKuRr6vSPEU"
+      }
+    ],
+    "metadata": {
+      "column_names": [
+        "block_time",
+        "tx_id",
+        "tx_signer",
+        "hnt_burned",
+        "from_owner"
+      ],
+      "column_types": [
+        "timestamp(3) with time zone",
+        "varchar",
+        "varchar",
+        "double",
+        "varchar"
+      ],
+      "row_count": 100,
+      "result_set_bytes": 19107,
+      "total_row_count": 100,
+      "total_result_set_bytes": 19107,
+      "datapoint_count": 500,
+      "pending_time_millis": 579,
+      "execution_time_millis": 69719
+    }
+  }
+}

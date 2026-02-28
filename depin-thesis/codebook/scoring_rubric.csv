@@ -1,0 +1,9 @@
+lens_id,lens_name,score_0_absent,score_1_minimal,score_2_partial,score_3_exemplary
+kantian_publicity,Kantian Publicity,No public governance docs,Rules exist but hard to find,Public rules + rationale,Public rules + deliberation + justification
+rawlsian_fairness,Rawlsian Fairness,No floor-raising mechanism,Basic airdrop only,Graduated fee tiers or grants,Systematic equity mechanisms + measured outcomes
+pettit_contestation,Pettit Contestation,No appeals or checks,Informal complaints possible,Formal appeal mechanism exists,Independent arbitration + veto rights
+ostrom_polycentricity,Ostrom Polycentricity,Single decision center,Advisory subcommittees,Functional subDAOs with budgets,Nested governance with local autonomy
+hayek_knowledge,Hayek Knowledge,Fixed parameters,Admin-adjusted parameters,Automated price signals,Demand-coupled mechanisms + edge feedback
+nussbaum_capability,Nussbaum Capability,No participant development,Documentation exists,Training/mentorship programs,Measured capability gains + support infra
+floridi_integrity,Floridi Integrity,No privacy consideration,Privacy policy exists,Contextual data controls,Systematic information-flow governance
+appiah_cosmopolitan,Appiah Cosmopolitan,"Single-language, single-region",Multi-language docs,Active localization + outreach,Measured cross-cultural participation

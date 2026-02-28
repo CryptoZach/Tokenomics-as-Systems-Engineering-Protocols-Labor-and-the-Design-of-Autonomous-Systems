@@ -1,0 +1,60 @@
+{
+  "collection_date": "2026-02-24",
+  "protocols_attempted": ["HNT", "RENDER", "AKT", "DIMO", "IoTeX", "HONEY", "GRASS", "WXM", "ANYONE", "FIL"],
+  "protocols_succeeded": ["RENDER", "AKT", "DIMO", "IOTX", "GRASS"],
+  "protocols_failed": {
+    "HNT": "Not indexed in Dune tokens_solana.transfers table (0 transfers in 30 days); Solscan/Birdeye/Solana RPC all rate-limited or 403. HNT likely uses non-standard SPL program after Helium L1→Solana migration.",
+    "HONEY": "Dune Solana query returned 0 holders (prior expansion attempt)",
+    "WXM": "Dune Arbitrum query returned 0 holders (prior expansion attempt)",
+    "ANYONE": "Dune Ethereum query returned 0 holders (prior expansion attempt)",
+    "FIL": "Filfox API returned 400, Spacescope returned 404. No public miner power distribution API accessible."
+  },
+  "data_source": {
+    "RENDER": "Dune Analytics inline query (tokens_solana.transfers, net_transfer method)",
+    "AKT": "Cosmos LCD API (rest.cosmos.directory/akash/cosmos/staking/v1beta1/validators)",
+    "DIMO": "Dune Analytics inline query (erc20_polygon.evt_Transfer, net_transfer method) — collected in prior expansion phase",
+    "IOTX": "Dune Analytics inline query (erc20_ethereum.evt_Transfer, net_transfer method) — collected in prior expansion phase",
+    "GRASS": "Dune Analytics inline query (tokens_solana.transfers, net_transfer method) — collected in prior expansion phase"
+  },
+  "exclusions": {
+    "evm_exchange_addresses_excluded": [
+      "0x28c6c06298d514db089934071355e5743bf21d60 (Binance 14)",
+      "0x21a31ee1afc51d94c2efccaa2092ad1028285549 (Binance 15)",
+      "0xdfd5293d8e347dfe59e90efd55b2956a1343963d (Binance 16)",
+      "0x56eddb7aa87536c09ccc2793473599fd21a8b17f (Binance 17)",
+      "0xa9d1e08c7793af67e9d92fe308d5697fb81d3e43 (Coinbase 2)",
+      "0x503828976d22510aad0201ac7ec88293211d23da (Coinbase 3)",
+      "0xf977814e90da44bfa03b6295a0616a897441acec (Binance 8)",
+      "0x47ac0fb4f2d84898e4d9e7b4dab3c24507a6d503 (Binance cold)",
+      "0xbe0eb53f46cd790cd13851d5eff43d12404d33e8 (Binance cold 2)",
+      "0x0000000000000000000000000000000000000000 (Null)",
+      "0x000000000000000000000000000000000000dead (Dead)"
+    ],
+    "solana_exchange_addresses_excluded": [
+      "5tzFkiKscjHsFKSoztMttaT2nJJRHNtMma1KUpBBkP8K (Binance)",
+      "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM (Binance 2)",
+      "2ojv9BAiHUrvsm9gxDe7fJSzbNZSJcxZvf8dqmWGHG8S (Coinbase)",
+      "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA (Token program)",
+      "11111111111111111111111111111111 (System program)"
+    ],
+    "cosmos_exclusions": "AKT: 170 unbonded/jailed validators excluded; only BOND_STATUS_BONDED validators included"
+  },
+  "snapshot_dates": {
+    "RENDER": "2026-02-24",
+    "AKT": "2026-02-24",
+    "DIMO": "2026-02-01",
+    "IOTX": "2026-02-01",
+    "GRASS": "2026-02-01"
+  },
+  "methodology": "Top-1000 holders via Dune net_transfer (EVM/Solana) or Cosmos LCD staking API (AKT). Exchange hot/cold wallets excluded. Null/dead addresses excluded. Balances exceeding 2x total supply flagged as overflow. AKT uses delegated PoS validator voting power (not individual delegator balances). DIMO and IoTeX flagged as concentrated_by_design (top1 share >50%).",
+  "results_summary": {
+    "defi_n": 7,
+    "defi_hhi_range": "0.0276–0.1735",
+    "defi_hhi_mean": 0.0926,
+    "depin_n": 5,
+    "depin_hhi_range": "0.0370–0.3881",
+    "depin_hhi_mean": 0.1884,
+    "claim_supported": true,
+    "claim": "DePIN governance concentration (mean HHI=0.1884) exceeds DeFi benchmarks (mean HHI=0.0926)"
+  }
+}

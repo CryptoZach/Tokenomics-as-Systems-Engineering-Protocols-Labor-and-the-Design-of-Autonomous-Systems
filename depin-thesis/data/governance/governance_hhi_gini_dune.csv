@@ -1,0 +1,6 @@
+protocol,token,chain,hhi,gini,top1_share,top10_share,top50_share,n_holders_queried,total_supply_queried,note
+Uniswap,UNI,ethereum,0.030062,0.6584,0.1063,0.4506,0.7626,200,5792283533.05,
+Compound,COMP,ethereum,0.028689,0.6352,0.1127,0.3988,0.7466,200,133910669.0,
+MakerDAO,MKR,ethereum,0.026908,0.6626,0.1021,0.4169,0.7662,200,12881209.6,
+Aave,AAVE,ethereum,0.1,0.95,0.1,1.0,1.0,200,1.1579208923731622e+60,
+Livepeer,LPT,,,,,,,0,,Query failed

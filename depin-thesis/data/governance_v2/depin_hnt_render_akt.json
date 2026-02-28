@@ -1,0 +1,39 @@
+[
+  {
+    "protocol": "Helium",
+    "token": "HNT",
+    "chain": "solana",
+    "hhi": null,
+    "gini": null,
+    "n_holders": 0,
+    "method": "no_data",
+    "note": "Dune query returned no results"
+  },
+  {
+    "protocol": "Render",
+    "token": "RENDER",
+    "chain": "solana",
+    "hhi": 0.09271,
+    "gini": 0.9313,
+    "top1_share": 0.2374,
+    "top10_share": 0.5943,
+    "top50_share": 0.8541,
+    "n_holders": 998,
+    "supply_coverage": 0.9657,
+    "method": "net_transfer"
+  },
+  {
+    "protocol": "Akash",
+    "token": "AKT",
+    "chain": "cosmos",
+    "hhi": 0.036976,
+    "gini": 0.6664,
+    "top1_share": 0.0997,
+    "top10_share": 0.522,
+    "top50_share": 0.9184,
+    "n_holders": 100,
+    "supply_coverage": 0.4264,
+    "method": "validator_staking",
+    "note": "HHI computed on bonded validator voting power (delegated PoS)"
+  }
+]

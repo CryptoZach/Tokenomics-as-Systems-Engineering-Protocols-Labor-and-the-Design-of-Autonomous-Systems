@@ -1,0 +1,31 @@
+{
+  "execution_id": "01KHTJEVS3NH21KJKYKYRYSG3J",
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-02-19T09:07:24.581541Z",
+  "expires_at": "2026-05-20T09:09:03.007481Z",
+  "execution_started_at": "2026-02-19T09:07:26.081525Z",
+  "execution_ended_at": "2026-02-19T09:09:03.007473Z",
+  "result": {
+    "rows": [],
+    "metadata": {
+      "column_names": [
+        "month",
+        "honey_burned",
+        "honey_minted"
+      ],
+      "column_types": [
+        "timestamp(3) with time zone",
+        "double",
+        "double"
+      ],
+      "row_count": 0,
+      "result_set_bytes": 0,
+      "total_row_count": 0,
+      "total_result_set_bytes": 0,
+      "datapoint_count": 0,
+      "pending_time_millis": 1499,
+      "execution_time_millis": 96925
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "execution_id": "01KHT9BJKG1D19PCNYCPH3BMWK",
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-02-19T06:28:19.697568Z",
+  "expires_at": "2026-05-20T06:29:23.962856Z",
+  "execution_started_at": "2026-02-19T06:28:21.839111Z",
+  "execution_ended_at": "2026-02-19T06:29:23.962845Z",
+  "result": {
+    "rows": [
+      {
+        "first_mint": "2023-04-18 19:32:48.000 UTC",
+        "last_mint": "2025-09-10 00:47:16.000 UTC",
+        "n_mints": 45,
+        "total_hnt_minted": 145495065.34738567,
+        "tx_signer": "hprdnjkbziK8NqhThmAn5Gu4XqrBbctX8du4PfJdgvW"
+      },
+      {
+        "first_mint": "2023-09-23 00:00:05.000 UTC",
+        "last_mint": "2026-02-18 00:00:10.000 UTC",
+        "n_mints": 2331,
+        "total_hnt_minted": 28144914.440825887,
+        "tx_signer": "cronjz7v2xsWdXr8BVz38ihi5DTWPihGZKuRr6vSPEU"
+      },
+      {
+        "first_mint": "2023-04-19 00:00:01.000 UTC",
+        "last_mint": "2023-09-27 00:00:10.000 UTC",
+        "n_mints": 413,
+        "total_hnt_minted": 9214505.009389354,
+        "tx_signer": "4XHeYFrhxqrsuuPvZU8tvMbw9RoDHMFEBes1XsFipNBS"
+      },
+      {
+        "first_mint": "2025-03-24 00:00:01.000 UTC",
+        "last_mint": "2026-02-09 00:00:00.000 UTC",
+        "n_mints": 305,
+        "total_hnt_minted": 2655100.9825698705,
+        "tx_signer": "TUKvijKsEnMusYKPgA8itNYAaCtkxSuSKp2weTppK7y"
+      },
+      {
+        "first_mint": "2025-03-08 00:00:24.000 UTC",
+        "last_mint": "2026-02-17 00:00:31.000 UTC",
+        "n_mints": 217,
+        "total_hnt_minted": 1957608.1700507596,
+        "tx_signer": "Gu86ERAK3Ba6XuPxjZUnqRPFVeMisryzM1LgRxuTWGD1"
+      },
+      {
+        "first_mint": "2023-04-23 00:00:02.000 UTC",
+        "last_mint": "2023-06-24 00:00:02.000 UTC",
+        "n_mints": 61,
+        "total_hnt_minted": 1619853.2696236805,
+        "tx_signer": "6Tr4TF1J5JhEZYs2jFMYTCXa2jn6qSwt9EpiFvsW1gzS"
+      },
+      {
+        "first_mint": "2024-12-06 18:33:06.000 UTC",
+        "last_mint": "2024-12-06 18:33:06.000 UTC",
+        "n_mints": 1,
+        "total_hnt_minted": 1300000,
+        "tx_signer": "AWofQNYEnbQniPbyHNiVfrjy3i6PK7xZRUcHVfu7crCs"
+      },
+      {
+        "first_mint": "2025-11-18 00:00:01.000 UTC",
+        "last_mint": "2026-02-16 00:00:00.000 UTC",
+        "n_mints": 228,
+        "total_hnt_minted": 1264931.5068483,
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "first_mint": "2025-08-25 00:00:01.000 UTC",
+        "last_mint": "2025-11-13 00:00:02.000 UTC",
+        "n_mints": 84,
+        "total_hnt_minted": 466027.39725990006,
+        "tx_signer": "ceo22R2F3n2d6JGhn7CCd3gBPD6KLuFsvBs6Y2R7nae"
+      },
+      {
+        "first_mint": "2025-05-23 00:00:01.000 UTC",
+        "last_mint": "2025-05-31 00:00:01.000 UTC",
+        "n_mints": 25,
+        "total_hnt_minted": 267921.9960531,
+        "tx_signer": "azoth8aXgVxeuKCiKqWwi139QYzEfCBeGUy4WAZsNQu"
+      },
+      {
+        "first_mint": "2025-06-27 01:48:17.000 UTC",
+        "last_mint": "2025-07-03 01:34:05.000 UTC",
+        "n_mints": 10,
+        "total_hnt_minted": 108292.25547549999,
+        "tx_signer": "GtBcUSWUi9h6XD6z84p66hGDJfoc3BvdWgoTpdj1Y3gL"
+      },
+      {
+        "first_mint": "2023-05-26 00:00:30.000 UTC",
+        "last_mint": "2023-05-26 00:00:30.000 UTC",
+        "n_mints": 2,
+        "total_hnt_minted": 82208.04192213,
+        "tx_signer": "M5zcSWuqE8cFxpRXFQJUY1D6x4Dzv6zaADYELmJmhre"
+      },
+      {
+        "first_mint": "2023-12-24 02:25:19.000 UTC",
+        "last_mint": "2025-05-07 00:53:36.000 UTC",
+        "n_mints": 6,
+        "total_hnt_minted": 66742.40124515,
+        "tx_signer": "devXCnFPU71StPEFNnGRf4iqXoRpYkNsGEg9m757ktP"
+      },
+      {
+        "first_mint": "2023-12-21 00:16:05.000 UTC",
+        "last_mint": "2023-12-21 00:16:41.000 UTC",
+        "n_mints": 3,
+        "total_hnt_minted": 42627.44217379,
+        "tx_signer": "45NuC1tpS8HvLtRqEGoBV1ebmAvbLAuKHpNk9rSuWQ2D"
+      },
+      {
+        "first_mint": "2024-05-07 00:17:47.000 UTC",
+        "last_mint": "2024-05-07 00:18:12.000 UTC",
+        "n_mints": 3,
+        "total_hnt_minted": 41401.31586217,
+        "tx_signer": "devHjE3Hz9jYucDoDhbMnMhedczdt7yts3qkiKDzfeN"
+      }
+    ],
+    "metadata": {
+      "column_names": [
+        "tx_signer",
+        "n_mints",
+        "total_hnt_minted",
+        "first_mint",
+        "last_mint"
+      ],
+      "column_types": [
+        "varchar",
+        "bigint",
+        "double",
+        "timestamp(3) with time zone",
+        "timestamp(3) with time zone"
+      ],
+      "row_count": 15,
+      "result_set_bytes": 1131,
+      "total_row_count": 15,
+      "total_result_set_bytes": 1131,
+      "datapoint_count": 75,
+      "pending_time_millis": 2141,
+      "execution_time_millis": 62123
+    }
+  }
+}

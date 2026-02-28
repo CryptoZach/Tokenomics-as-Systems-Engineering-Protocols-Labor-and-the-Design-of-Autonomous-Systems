@@ -1,0 +1,143 @@
+{
+  "s2r": {
+    "month_1_s2r": 0.0129,
+    "month_6_s2r": 0.0625,
+    "month_12_s2r": 0.0318,
+    "month_24_s2r": 0.0098,
+    "month_34_s2r": 2.0597,
+    "first_parity_month": 30,
+    "logistic_L": 1.5046,
+    "logistic_k": 0.7056,
+    "logistic_t0": 27.79
+  },
+  "emission": {
+    "helium_total_supply": 223000000.0,
+    "helium_circulating": 186321438.090597,
+    "helium_pct_issued": 0.8355,
+    "helium_mean_daily_issuance": 184782.0,
+    "helium_issuance_std_weekly": 11844570.0,
+    "helium_half2_vs_half1_ratio": 0.127,
+    "mesh_total_supply": 1000000000,
+    "mesh_operator_pool": 400000000,
+    "mesh_base_emission_daily": 109589,
+    "mesh_pid_min_daily": 54795,
+    "mesh_pid_max_daily": 219178
+  },
+  "price": {
+    "hnt_mean_price": 2.5564,
+    "hnt_daily_vol": 0.054397,
+    "hnt_annual_vol": 1.0393,
+    "hnt_autocorr_lag1": -0.0296,
+    "ou_kappa": 3.5194,
+    "ou_sigma": 0.054397,
+    "mesh_initial_price": 0.1,
+    "mesh_ou_kappa": 2.8156,
+    "mesh_ou_sigma": 0.048957
+  },
+  "governance": {
+    "real_hhi_min": 0.0276,
+    "real_hhi_max": 0.3881,
+    "real_hhi_mean": 0.1325,
+    "real_gini_min": 0.6664,
+    "real_gini_max": 0.9831,
+    "real_gini_mean": 0.8907,
+    "protocols": [
+      {
+        "name": "Uniswap",
+        "hhi": 0.1144,
+        "gini": 0.8737,
+        "top1": 0.3316,
+        "category": "defi"
+      },
+      {
+        "name": "Compound",
+        "hhi": 0.0276,
+        "gini": 0.8584,
+        "top1": 0.1441,
+        "category": "defi"
+      },
+      {
+        "name": "MakerDAO",
+        "hhi": 0.0454,
+        "gini": 0.8985,
+        "top1": 0.1142,
+        "category": "defi"
+      },
+      {
+        "name": "Aave",
+        "hhi": 0.0517,
+        "gini": 0.881,
+        "top1": 0.1907,
+        "category": "defi"
+      },
+      {
+        "name": "Curve",
+        "hhi": 0.1735,
+        "gini": 0.8973,
+        "top1": 0.4087,
+        "category": "defi"
+      },
+      {
+        "name": "Optimism",
+        "hhi": 0.1312,
+        "gini": 0.8851,
+        "top1": 0.334,
+        "category": "defi"
+      },
+      {
+        "name": "The Graph",
+        "hhi": 0.1045,
+        "gini": 0.9181,
+        "top1": 0.2931,
+        "category": "defi"
+      },
+      {
+        "name": "Render",
+        "hhi": 0.0927,
+        "gini": 0.9313,
+        "top1": 0.2374,
+        "category": "depin"
+      },
+      {
+        "name": "Akash",
+        "hhi": 0.037,
+        "gini": 0.6664,
+        "top1": 0.0997,
+        "category": "depin"
+      },
+      {
+        "name": "DIMO",
+        "hhi": 0.3049,
+        "gini": 0.9378,
+        "top1": 0.5479,
+        "category": "depin"
+      },
+      {
+        "name": "IoTeX",
+        "hhi": 0.3881,
+        "gini": 0.9831,
+        "top1": 0.6133,
+        "category": "depin"
+      },
+      {
+        "name": "Grass",
+        "hhi": 0.1193,
+        "gini": 0.9571,
+        "top1": 0.3115,
+        "category": "depin"
+      }
+    ],
+    "defi_n": 7,
+    "defi_hhi_min": 0.0276,
+    "defi_hhi_max": 0.1735,
+    "defi_hhi_mean": 0.0926,
+    "defi_gini_mean": 0.8874,
+    "depin_n": 5,
+    "depin_hhi_min": 0.037,
+    "depin_hhi_max": 0.3881,
+    "depin_hhi_mean": 0.1884,
+    "depin_gini_mean": 0.8951,
+    "mesh_target_gini": 0.7296,
+    "mesh_target_hhi": 0.0166
+  }
+}

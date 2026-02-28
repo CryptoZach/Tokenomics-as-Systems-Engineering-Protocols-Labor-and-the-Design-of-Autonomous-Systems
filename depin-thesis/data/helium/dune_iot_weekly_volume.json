@@ -1,0 +1,1086 @@
+{
+  "execution_id": "01KJEXXQW3BQC9PHA3MXPTD3EX",
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-02-27T06:52:35.076212Z",
+  "expires_at": "2026-05-28T06:56:05.706689Z",
+  "execution_started_at": "2026-02-27T06:53:38.934281Z",
+  "execution_ended_at": "2026-02-27T06:56:05.706678Z",
+  "result": {
+    "rows": [
+      {
+        "iot_volume": 15156088855.45348,
+        "n_transfers": 183141,
+        "unique_signers": 30491,
+        "volume_usd": null,
+        "week": "2023-04-17 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 4429070763.92322,
+        "n_transfers": 380989,
+        "unique_signers": 54825,
+        "volume_usd": null,
+        "week": "2023-04-24 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2834995761.455114,
+        "n_transfers": 318227,
+        "unique_signers": 54437,
+        "volume_usd": null,
+        "week": "2023-05-01 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2379644015.1557097,
+        "n_transfers": 276940,
+        "unique_signers": 49297,
+        "volume_usd": null,
+        "week": "2023-05-08 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2486731457.0177093,
+        "n_transfers": 245744,
+        "unique_signers": 47776,
+        "volume_usd": null,
+        "week": "2023-05-15 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2728868797.7948503,
+        "n_transfers": 217834,
+        "unique_signers": 45531,
+        "volume_usd": null,
+        "week": "2023-05-22 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3019926527.959341,
+        "n_transfers": 210644,
+        "unique_signers": 41574,
+        "volume_usd": null,
+        "week": "2023-05-29 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3145485336.09704,
+        "n_transfers": 177773,
+        "unique_signers": 36597,
+        "volume_usd": null,
+        "week": "2023-06-05 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2764556521.330937,
+        "n_transfers": 162050,
+        "unique_signers": 36683,
+        "volume_usd": null,
+        "week": "2023-06-12 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2327443786.7148128,
+        "n_transfers": 160704,
+        "unique_signers": 34056,
+        "volume_usd": null,
+        "week": "2023-06-19 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2451221310.559157,
+        "n_transfers": 183609,
+        "unique_signers": 35634,
+        "volume_usd": null,
+        "week": "2023-06-26 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3135793741.6626005,
+        "n_transfers": 164851,
+        "unique_signers": 36193,
+        "volume_usd": null,
+        "week": "2023-07-03 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3377346240.7597895,
+        "n_transfers": 203313,
+        "unique_signers": 38790,
+        "volume_usd": null,
+        "week": "2023-07-10 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2339910774.982777,
+        "n_transfers": 157661,
+        "unique_signers": 32280,
+        "volume_usd": null,
+        "week": "2023-07-17 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2760675647.606293,
+        "n_transfers": 184000,
+        "unique_signers": 34682,
+        "volume_usd": null,
+        "week": "2023-07-24 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3130160265.482407,
+        "n_transfers": 201572,
+        "unique_signers": 38994,
+        "volume_usd": null,
+        "week": "2023-07-31 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2661449521.5492797,
+        "n_transfers": 139894,
+        "unique_signers": 31095,
+        "volume_usd": null,
+        "week": "2023-08-07 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2397967001.1127768,
+        "n_transfers": 129150,
+        "unique_signers": 28110,
+        "volume_usd": null,
+        "week": "2023-08-14 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 1538083586.011181,
+        "n_transfers": 124101,
+        "unique_signers": 27525,
+        "volume_usd": null,
+        "week": "2023-08-21 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 1725869882.2188234,
+        "n_transfers": 142084,
+        "unique_signers": 31226,
+        "volume_usd": null,
+        "week": "2023-08-28 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 1943334894.0532231,
+        "n_transfers": 127308,
+        "unique_signers": 27832,
+        "volume_usd": null,
+        "week": "2023-09-04 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 1688737026.7153423,
+        "n_transfers": 132185,
+        "unique_signers": 23144,
+        "volume_usd": null,
+        "week": "2023-09-11 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 1943343479.1822333,
+        "n_transfers": 122259,
+        "unique_signers": 22953,
+        "volume_usd": null,
+        "week": "2023-09-18 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 1914671566.52809,
+        "n_transfers": 154331,
+        "unique_signers": 27510,
+        "volume_usd": null,
+        "week": "2023-09-25 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2359119368.6168766,
+        "n_transfers": 124748,
+        "unique_signers": 22796,
+        "volume_usd": null,
+        "week": "2023-10-02 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 1591120641.257742,
+        "n_transfers": 138563,
+        "unique_signers": 24852,
+        "volume_usd": null,
+        "week": "2023-10-09 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2061585590.4050775,
+        "n_transfers": 145112,
+        "unique_signers": 24359,
+        "volume_usd": null,
+        "week": "2023-10-16 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2135943982.6138442,
+        "n_transfers": 186383,
+        "unique_signers": 28538,
+        "volume_usd": null,
+        "week": "2023-10-23 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2721160841.5163684,
+        "n_transfers": 210399,
+        "unique_signers": 31080,
+        "volume_usd": null,
+        "week": "2023-10-30 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3005875262.8532195,
+        "n_transfers": 223363,
+        "unique_signers": 34734,
+        "volume_usd": null,
+        "week": "2023-11-06 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2805062527.615463,
+        "n_transfers": 199996,
+        "unique_signers": 33706,
+        "volume_usd": null,
+        "week": "2023-11-13 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2986144225.7639627,
+        "n_transfers": 218452,
+        "unique_signers": 33848,
+        "volume_usd": null,
+        "week": "2023-11-20 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3057212927.808033,
+        "n_transfers": 248114,
+        "unique_signers": 37513,
+        "volume_usd": null,
+        "week": "2023-11-27 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 6058441787.445915,
+        "n_transfers": 411580,
+        "unique_signers": 59314,
+        "volume_usd": null,
+        "week": "2023-12-04 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 9690681136.295692,
+        "n_transfers": 513461,
+        "unique_signers": 62777,
+        "volume_usd": null,
+        "week": "2023-12-11 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 12747131880.87453,
+        "n_transfers": 509500,
+        "unique_signers": 62687,
+        "volume_usd": null,
+        "week": "2023-12-18 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 4837190487.964726,
+        "n_transfers": 348627,
+        "unique_signers": 50210,
+        "volume_usd": null,
+        "week": "2023-12-25 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 4343236987.463435,
+        "n_transfers": 322216,
+        "unique_signers": 47857,
+        "volume_usd": null,
+        "week": "2024-01-01 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 4330961477.829106,
+        "n_transfers": 350876,
+        "unique_signers": 52242,
+        "volume_usd": null,
+        "week": "2024-01-08 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3236813186.276182,
+        "n_transfers": 355988,
+        "unique_signers": 46358,
+        "volume_usd": null,
+        "week": "2024-01-15 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3475830885.7563705,
+        "n_transfers": 367400,
+        "unique_signers": 51107,
+        "volume_usd": null,
+        "week": "2024-01-22 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3123091367.8302794,
+        "n_transfers": 361360,
+        "unique_signers": 52458,
+        "volume_usd": null,
+        "week": "2024-01-29 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 5643974521.014153,
+        "n_transfers": 339056,
+        "unique_signers": 49762,
+        "volume_usd": null,
+        "week": "2024-02-05 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 4119730759.954394,
+        "n_transfers": 442748,
+        "unique_signers": 62469,
+        "volume_usd": null,
+        "week": "2024-02-12 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3008465510.3520207,
+        "n_transfers": 339681,
+        "unique_signers": 49385,
+        "volume_usd": 1929157.038644278,
+        "week": "2024-02-19 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 4158702843.898067,
+        "n_transfers": 431343,
+        "unique_signers": 62396,
+        "volume_usd": 9525555.817708526,
+        "week": "2024-02-26 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 4061870322.1064816,
+        "n_transfers": 367138,
+        "unique_signers": 55135,
+        "volume_usd": 8821683.909074845,
+        "week": "2024-03-04 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 4347376112.6278,
+        "n_transfers": 335732,
+        "unique_signers": 49857,
+        "volume_usd": 8620151.50263696,
+        "week": "2024-03-11 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2973271902.9783416,
+        "n_transfers": 298779,
+        "unique_signers": 43546,
+        "volume_usd": 4849319.037901007,
+        "week": "2024-03-18 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2946961921.6461997,
+        "n_transfers": 327984,
+        "unique_signers": 49561,
+        "volume_usd": 4466031.249208472,
+        "week": "2024-03-25 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2863702042.348948,
+        "n_transfers": 265104,
+        "unique_signers": 40949,
+        "volume_usd": 3816521.7708745706,
+        "week": "2024-04-01 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2681748784.9185104,
+        "n_transfers": 237866,
+        "unique_signers": 36705,
+        "volume_usd": 3357582.801452838,
+        "week": "2024-04-08 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3110609950.500943,
+        "n_transfers": 236643,
+        "unique_signers": 33289,
+        "volume_usd": 2977340.7965244376,
+        "week": "2024-04-15 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2863683154.5398674,
+        "n_transfers": 272651,
+        "unique_signers": 37216,
+        "volume_usd": 2659254.103188778,
+        "week": "2024-04-22 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3742482406.3107944,
+        "n_transfers": 271611,
+        "unique_signers": 37770,
+        "volume_usd": 4475825.4922282295,
+        "week": "2024-04-29 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2799993914.603976,
+        "n_transfers": 246262,
+        "unique_signers": 35478,
+        "volume_usd": 2979885.1704647443,
+        "week": "2024-05-06 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2656645521.675673,
+        "n_transfers": 239256,
+        "unique_signers": 34352,
+        "volume_usd": 2671075.046369495,
+        "week": "2024-05-13 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2964650654.7593975,
+        "n_transfers": 252359,
+        "unique_signers": 35001,
+        "volume_usd": 2789635.16568932,
+        "week": "2024-05-20 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2695333484.3647523,
+        "n_transfers": 236845,
+        "unique_signers": 34258,
+        "volume_usd": 2294989.2561845994,
+        "week": "2024-05-27 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3086344187.144346,
+        "n_transfers": 228960,
+        "unique_signers": 32946,
+        "volume_usd": 2471473.5036072084,
+        "week": "2024-06-03 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2932489796.2825646,
+        "n_transfers": 215873,
+        "unique_signers": 30697,
+        "volume_usd": 2071633.378498642,
+        "week": "2024-06-10 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3005546420.4438343,
+        "n_transfers": 194113,
+        "unique_signers": 28886,
+        "volume_usd": 2066987.3521463089,
+        "week": "2024-06-17 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2909596846.7817,
+        "n_transfers": 199507,
+        "unique_signers": 29352,
+        "volume_usd": 1976176.4393727775,
+        "week": "2024-06-24 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3150269067.744337,
+        "n_transfers": 213736,
+        "unique_signers": 30589,
+        "volume_usd": 2093155.1719959602,
+        "week": "2024-07-01 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2574347997.8802853,
+        "n_transfers": 182009,
+        "unique_signers": 27781,
+        "volume_usd": 1551498.0552999682,
+        "week": "2024-07-08 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3003895013.782285,
+        "n_transfers": 238041,
+        "unique_signers": 34478,
+        "volume_usd": 2340739.3048078027,
+        "week": "2024-07-15 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3056955663.2991977,
+        "n_transfers": 238130,
+        "unique_signers": 32734,
+        "volume_usd": 2983207.3802609686,
+        "week": "2024-07-22 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2602362688.8129153,
+        "n_transfers": 218131,
+        "unique_signers": 30690,
+        "volume_usd": 2353526.273273439,
+        "week": "2024-07-29 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3114215686.379761,
+        "n_transfers": 249459,
+        "unique_signers": 36840,
+        "volume_usd": 3127474.1675257892,
+        "week": "2024-08-05 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3250714516.8902435,
+        "n_transfers": 239620,
+        "unique_signers": 34272,
+        "volume_usd": 4093568.2074221615,
+        "week": "2024-08-12 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2350324302.7962494,
+        "n_transfers": 214479,
+        "unique_signers": 31256,
+        "volume_usd": 2947997.635347961,
+        "week": "2024-08-19 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2695507458.269221,
+        "n_transfers": 246358,
+        "unique_signers": 34690,
+        "volume_usd": 3355964.7551653916,
+        "week": "2024-08-26 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2848727472.261308,
+        "n_transfers": 248852,
+        "unique_signers": 33685,
+        "volume_usd": 3918840.4935327545,
+        "week": "2024-09-02 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2493608738.669611,
+        "n_transfers": 210409,
+        "unique_signers": 30835,
+        "volume_usd": 3399411.371764562,
+        "week": "2024-09-09 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2149514602.788776,
+        "n_transfers": 200385,
+        "unique_signers": 30204,
+        "volume_usd": 2640788.970934759,
+        "week": "2024-09-16 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2198833569.2813954,
+        "n_transfers": 222877,
+        "unique_signers": 32762,
+        "volume_usd": 2863157.8427910726,
+        "week": "2024-09-23 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2313959562.0862484,
+        "n_transfers": 214896,
+        "unique_signers": 31350,
+        "volume_usd": 2916416.9155675573,
+        "week": "2024-09-30 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2189385069.8861704,
+        "n_transfers": 190011,
+        "unique_signers": 28416,
+        "volume_usd": 2488017.532173082,
+        "week": "2024-10-07 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2230007015.244196,
+        "n_transfers": 191123,
+        "unique_signers": 30327,
+        "volume_usd": 2302630.103391158,
+        "week": "2024-10-14 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 5291759001.5984,
+        "n_transfers": 201684,
+        "unique_signers": 29223,
+        "volume_usd": 6167317.047180301,
+        "week": "2024-10-21 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2518910704.7135487,
+        "n_transfers": 215911,
+        "unique_signers": 31418,
+        "volume_usd": 2811377.758311488,
+        "week": "2024-10-28 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3638114645.904141,
+        "n_transfers": 268264,
+        "unique_signers": 40588,
+        "volume_usd": 3987373.6519108037,
+        "week": "2024-11-04 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3249671042.6374655,
+        "n_transfers": 245405,
+        "unique_signers": 38948,
+        "volume_usd": 3561639.4627306554,
+        "week": "2024-11-11 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3713083949.7598047,
+        "n_transfers": 241764,
+        "unique_signers": 38640,
+        "volume_usd": 4069540.0089367707,
+        "week": "2024-11-18 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 4538315377.502375,
+        "n_transfers": 309762,
+        "unique_signers": 43288,
+        "volume_usd": 4779759.244054208,
+        "week": "2024-11-25 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 5665431314.078754,
+        "n_transfers": 338397,
+        "unique_signers": 45588,
+        "volume_usd": 7366485.376594976,
+        "week": "2024-12-02 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 6438329006.535954,
+        "n_transfers": 235362,
+        "unique_signers": 33515,
+        "volume_usd": 8389272.797821907,
+        "week": "2024-12-09 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2433694993.881923,
+        "n_transfers": 209866,
+        "unique_signers": 31485,
+        "volume_usd": 2987837.04537168,
+        "week": "2024-12-16 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3119385684.5738034,
+        "n_transfers": 211599,
+        "unique_signers": 29595,
+        "volume_usd": 2872775.139688505,
+        "week": "2024-12-23 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 4103807041.9224186,
+        "n_transfers": 219594,
+        "unique_signers": 33502,
+        "volume_usd": 3989127.939975333,
+        "week": "2024-12-30 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 1944146446.4342208,
+        "n_transfers": 167207,
+        "unique_signers": 27408,
+        "volume_usd": 1635066.9601581343,
+        "week": "2025-01-06 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2565454904.137103,
+        "n_transfers": 182335,
+        "unique_signers": 31747,
+        "volume_usd": 1814235.7737128746,
+        "week": "2025-01-13 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 2841475173.462255,
+        "n_transfers": 177980,
+        "unique_signers": 29272,
+        "volume_usd": 1812509.3672947052,
+        "week": "2025-01-20 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 3911997477.5885153,
+        "n_transfers": 223149,
+        "unique_signers": 35983,
+        "volume_usd": 2279546.46802487,
+        "week": "2025-01-27 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 5194197033.105081,
+        "n_transfers": 83825,
+        "unique_signers": 18163,
+        "volume_usd": 685157.2766168468,
+        "week": "2025-02-03 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 1038452703.8026415,
+        "n_transfers": 55122,
+        "unique_signers": 11888,
+        "volume_usd": 541048.967772393,
+        "week": "2025-02-10 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 680341894.0332178,
+        "n_transfers": 41881,
+        "unique_signers": 9305,
+        "volume_usd": 368246.8960406668,
+        "week": "2025-02-17 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 955408919.7132035,
+        "n_transfers": 55274,
+        "unique_signers": 8877,
+        "volume_usd": 447742.6573242851,
+        "week": "2025-02-24 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 661991880.1765559,
+        "n_transfers": 37562,
+        "unique_signers": 5838,
+        "volume_usd": 301969.7157587306,
+        "week": "2025-03-03 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 505670408.3989076,
+        "n_transfers": 25810,
+        "unique_signers": 4111,
+        "volume_usd": 210047.73847383683,
+        "week": "2025-03-10 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 417973042.14997405,
+        "n_transfers": 16065,
+        "unique_signers": 3710,
+        "volume_usd": 176106.08541879785,
+        "week": "2025-03-17 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 933945941.2264553,
+        "n_transfers": 22441,
+        "unique_signers": 3432,
+        "volume_usd": 458205.31095532276,
+        "week": "2025-03-24 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 247457758.87455976,
+        "n_transfers": 13029,
+        "unique_signers": 3320,
+        "volume_usd": 108529.18304237288,
+        "week": "2025-03-31 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 563576453.4874878,
+        "n_transfers": 21646,
+        "unique_signers": 3159,
+        "volume_usd": 261224.81803337325,
+        "week": "2025-04-07 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 237803153.5826995,
+        "n_transfers": 16785,
+        "unique_signers": 2723,
+        "volume_usd": 117596.71862400409,
+        "week": "2025-04-14 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 423237626.82878095,
+        "n_transfers": 31530,
+        "unique_signers": 3228,
+        "volume_usd": 221803.59607585435,
+        "week": "2025-04-21 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 737167545.6860299,
+        "n_transfers": 30253,
+        "unique_signers": 2505,
+        "volume_usd": 437845.2167991837,
+        "week": "2025-04-28 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 370930279.95625824,
+        "n_transfers": 31427,
+        "unique_signers": 2941,
+        "volume_usd": 211977.61602214436,
+        "week": "2025-05-05 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 476870067.07979774,
+        "n_transfers": 27520,
+        "unique_signers": 3749,
+        "volume_usd": 279254.0637728332,
+        "week": "2025-05-12 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 363329794.95610964,
+        "n_transfers": 16531,
+        "unique_signers": 2752,
+        "volume_usd": 222838.68590622142,
+        "week": "2025-05-19 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 327485795.5152856,
+        "n_transfers": 15545,
+        "unique_signers": 2185,
+        "volume_usd": 158204.2465364328,
+        "week": "2025-05-26 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 287231841.060578,
+        "n_transfers": 12311,
+        "unique_signers": 1725,
+        "volume_usd": 126144.77011030818,
+        "week": "2025-06-02 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 363026969.09261006,
+        "n_transfers": 16490,
+        "unique_signers": 1618,
+        "volume_usd": 155164.58699692445,
+        "week": "2025-06-09 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 289195040.34549725,
+        "n_transfers": 13596,
+        "unique_signers": 1277,
+        "volume_usd": 99762.70027177694,
+        "week": "2025-06-16 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 551552685.6649874,
+        "n_transfers": 14276,
+        "unique_signers": 1302,
+        "volume_usd": 174290.9404133763,
+        "week": "2025-06-23 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 272429018.5213757,
+        "n_transfers": 12140,
+        "unique_signers": 1367,
+        "volume_usd": 87116.50969145389,
+        "week": "2025-06-30 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 431939040.99007046,
+        "n_transfers": 26330,
+        "unique_signers": 2015,
+        "volume_usd": 184176.9430152233,
+        "week": "2025-07-07 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 571366370.8467084,
+        "n_transfers": 26563,
+        "unique_signers": 2665,
+        "volume_usd": 285323.8642709832,
+        "week": "2025-07-14 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 337583779.4222863,
+        "n_transfers": 22497,
+        "unique_signers": 2029,
+        "volume_usd": 170026.76214514778,
+        "week": "2025-07-21 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 300062261.62627536,
+        "n_transfers": 45802,
+        "unique_signers": 2921,
+        "volume_usd": 145009.75411918605,
+        "week": "2025-07-28 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 269205769.6505689,
+        "n_transfers": 14890,
+        "unique_signers": 1405,
+        "volume_usd": 110298.3060158342,
+        "week": "2025-08-04 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 270942828.4992834,
+        "n_transfers": 13583,
+        "unique_signers": 1488,
+        "volume_usd": 107658.93956458416,
+        "week": "2025-08-11 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 146571072.5201226,
+        "n_transfers": 13011,
+        "unique_signers": 1135,
+        "volume_usd": 58875.52854782047,
+        "week": "2025-08-18 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 167721369.26602945,
+        "n_transfers": 8608,
+        "unique_signers": 1072,
+        "volume_usd": 60797.02404661906,
+        "week": "2025-08-25 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 121520521.49884424,
+        "n_transfers": 8718,
+        "unique_signers": 893,
+        "volume_usd": 41644.16311633155,
+        "week": "2025-09-01 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 211374989.92338625,
+        "n_transfers": 9657,
+        "unique_signers": 1055,
+        "volume_usd": 82498.45488588694,
+        "week": "2025-09-08 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 151694613.50633597,
+        "n_transfers": 6455,
+        "unique_signers": 954,
+        "volume_usd": 59633.27876022417,
+        "week": "2025-09-15 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 140414171.38043863,
+        "n_transfers": 5552,
+        "unique_signers": 858,
+        "volume_usd": 48602.88889395144,
+        "week": "2025-09-22 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 476349684.6742961,
+        "n_transfers": 8060,
+        "unique_signers": 970,
+        "volume_usd": 180514.3016776477,
+        "week": "2025-09-29 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 297784372.0447738,
+        "n_transfers": 7424,
+        "unique_signers": 939,
+        "volume_usd": 111136.4098836135,
+        "week": "2025-10-06 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 210103927.699728,
+        "n_transfers": 5571,
+        "unique_signers": 755,
+        "volume_usd": 64155.86243158947,
+        "week": "2025-10-13 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 135888123.53262788,
+        "n_transfers": 7311,
+        "unique_signers": 654,
+        "volume_usd": 40992.9692955876,
+        "week": "2025-10-20 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 257963838.90089563,
+        "n_transfers": 9058,
+        "unique_signers": 757,
+        "volume_usd": 94451.9681655951,
+        "week": "2025-10-27 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 652369906.2546672,
+        "n_transfers": 13644,
+        "unique_signers": 4219,
+        "volume_usd": 234623.22473839668,
+        "week": "2025-11-03 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 944480122.8238894,
+        "n_transfers": 17607,
+        "unique_signers": 5967,
+        "volume_usd": 340440.28804977005,
+        "week": "2025-11-10 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 541750670.1658993,
+        "n_transfers": 10787,
+        "unique_signers": 3774,
+        "volume_usd": 171691.43200940368,
+        "week": "2025-11-17 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 456766005.8480043,
+        "n_transfers": 12385,
+        "unique_signers": 3369,
+        "volume_usd": 147934.45384276708,
+        "week": "2025-11-24 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 1206574933.8353047,
+        "n_transfers": 9389,
+        "unique_signers": 3057,
+        "volume_usd": 370838.21757943043,
+        "week": "2025-12-01 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 314728907.0090847,
+        "n_transfers": 5769,
+        "unique_signers": 2424,
+        "volume_usd": 89192.62882724068,
+        "week": "2025-12-08 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 384064552.96978915,
+        "n_transfers": 7262,
+        "unique_signers": 2173,
+        "volume_usd": 97799.69815948314,
+        "week": "2025-12-15 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 325904348.52213407,
+        "n_transfers": 5773,
+        "unique_signers": 2075,
+        "volume_usd": 75209.65191011466,
+        "week": "2025-12-22 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 500871458.9670941,
+        "n_transfers": 10390,
+        "unique_signers": 2369,
+        "volume_usd": 110508.41360380001,
+        "week": "2025-12-29 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 357416912.9984131,
+        "n_transfers": 5419,
+        "unique_signers": 2076,
+        "volume_usd": 80255.44930770046,
+        "week": "2026-01-05 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 428102266.22581387,
+        "n_transfers": 4335,
+        "unique_signers": 1674,
+        "volume_usd": 88637.01345239855,
+        "week": "2026-01-12 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 197631474.5547616,
+        "n_transfers": 4765,
+        "unique_signers": 1438,
+        "volume_usd": 36862.67919626099,
+        "week": "2026-01-19 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 244706510.25301132,
+        "n_transfers": 4840,
+        "unique_signers": 1550,
+        "volume_usd": 39459.46043299002,
+        "week": "2026-01-26 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 321034536.82960385,
+        "n_transfers": 4782,
+        "unique_signers": 1336,
+        "volume_usd": 41275.971934002846,
+        "week": "2026-02-02 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 280320017.6654213,
+        "n_transfers": 8769,
+        "unique_signers": 1167,
+        "volume_usd": 41047.459027453246,
+        "week": "2026-02-09 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 308751570.68781185,
+        "n_transfers": 12461,
+        "unique_signers": 1246,
+        "volume_usd": 69337.55769717875,
+        "week": "2026-02-16 00:00:00.000 UTC"
+      },
+      {
+        "iot_volume": 203201667.06016508,
+        "n_transfers": 7705,
+        "unique_signers": 1846,
+        "volume_usd": 43961.91924766118,
+        "week": "2026-02-23 00:00:00.000 UTC"
+      }
+    ],
+    "metadata": {
+      "column_names": [
+        "week",
+        "n_transfers",
+        "iot_volume",
+        "volume_usd",
+        "unique_signers"
+      ],
+      "column_types": [
+        "timestamp(3) with time zone",
+        "bigint",
+        "double",
+        "double",
+        "bigint"
+      ],
+      "row_count": 150,
+      "result_set_bytes": 5692,
+      "total_row_count": 150,
+      "total_result_set_bytes": 5692,
+      "datapoint_count": 750,
+      "pending_time_millis": 63858,
+      "execution_time_millis": 146772
+    }
+  }
+}

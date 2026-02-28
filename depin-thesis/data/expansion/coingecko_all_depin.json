@@ -1,0 +1,65 @@
+[
+  {
+    "protocol": "IoTeX",
+    "ticker": "IOTX",
+    "chain": "IoTeX L1 + Ethereum",
+    "coingecko_id": "iotex",
+    "status": "NOT_FOUND"
+  },
+  {
+    "protocol": "DIMO",
+    "ticker": "DIMO",
+    "chain": "Polygon",
+    "coingecko_id": "dimo",
+    "status": "NOT_FOUND"
+  },
+  {
+    "protocol": "Hivemapper",
+    "ticker": "HONEY",
+    "chain": "Solana",
+    "coingecko_id": "hivemapper",
+    "status": "NOT_FOUND"
+  },
+  {
+    "protocol": "WeatherXM",
+    "ticker": "WXM",
+    "chain": "Arbitrum",
+    "coingecko_id": "weatherxm",
+    "status": "NOT_FOUND"
+  },
+  {
+    "protocol": "Grass",
+    "ticker": "GRASS",
+    "chain": "Solana",
+    "coingecko_id": "grass",
+    "status": "NOT_FOUND"
+  },
+  {
+    "protocol": "Anyone Protocol",
+    "ticker": "ANYONE",
+    "chain": "Ethereum",
+    "coingecko_id": "anyone-protocol",
+    "status": "NOT_FOUND"
+  },
+  {
+    "protocol": "UpRock",
+    "ticker": "UPT",
+    "chain": "Solana",
+    "coingecko_id": "uprock",
+    "status": "NOT_FOUND"
+  },
+  {
+    "protocol": "Wayru",
+    "ticker": "WRU",
+    "chain": "Solana",
+    "coingecko_id": "wayru",
+    "status": "NOT_FOUND"
+  },
+  {
+    "protocol": "CUDIS",
+    "ticker": "CUDIS",
+    "chain": "Solana",
+    "coingecko_id": "cudis",
+    "status": "NOT_FOUND"
+  }
+]

@@ -1,0 +1,13 @@
+protocol,token,chain,hhi,gini,top1_share,top10_share,top50_share,n_holders,supply_coverage,total_queried,total_supply,method,note,category,snapshot_date
+Uniswap,UNI,ethereum,0.114383,0.8737,0.3316,0.4759,0.6994,990,0.798,798001269.12,1000000000.0,net_transfer,,defi,2025-01-01
+Compound,COMP,ethereum,0.027647,0.8584,0.1441,0.3164,0.6217,992,0.8598,8598447.8,10000000.0,net_transfer,,defi,2025-01-01
+MakerDAO,MKR,ethereum,0.045443,0.8985,0.1142,0.5642,0.7925,995,1.187,1160478.12,977631.0,net_transfer,,defi,2025-01-01
+Aave,AAVE,ethereum,0.051725,0.881,0.1907,0.4746,0.7601,992,0.8411,13456909.44,16000000.0,net_transfer,,defi,2025-01-01
+Curve,CRV,ethereum,0.173513,0.8973,0.4087,0.613,0.7953,993,1.039,2098746455.03,2020000000.0,net_transfer,,defi,2025-01-01
+Optimism,OP,optimism,0.131196,0.8851,0.334,0.5964,0.7427,998,0.9022,3874718184.19,4294967296.0,net_transfer,,defi,2025-01-01
+The Graph,GRT,ethereum,0.104465,0.9181,0.2931,0.6064,0.8186,993,0.9247,9986874488.76,10799706720.0,net_transfer,,defi,2025-01-01
+Render,RENDER,solana,0.09271,0.9313,0.2374,0.5943,0.8541,998,0.9657,,,net_transfer,,depin,2026-02-24
+Akash,AKT,cosmos,0.036976,0.6664,0.0997,0.522,0.9184,100,0.4264,,,validator_staking,HHI computed on bonded validator voting power (delegated PoS),depin,2026-02-24
+DIMO,DIMO,polygon,0.304944,0.9378,0.5479,0.6951,0.9202,1000,0.6179,,,net_transfer,concentrated_by_design,depin,2026-02-24
+IoTeX,IOTX,ethereum,0.388122,0.9831,0.6133,0.9171,0.9775,989,0.336,,,net_transfer,concentrated_by_design,depin,2026-02-24
+Grass,GRASS,solana,0.119301,0.9571,0.3115,0.6694,0.8832,1000,0.9946,,,net_transfer,,depin,2026-02-24

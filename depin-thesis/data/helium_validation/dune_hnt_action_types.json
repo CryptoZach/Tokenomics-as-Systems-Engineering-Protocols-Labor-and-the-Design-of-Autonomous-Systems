@@ -1,0 +1,57 @@
+{
+  "execution_id": "01KHT93NWFS6SYK2EMV1DKHEGW",
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-02-19T06:24:00.912564Z",
+  "expires_at": "2026-05-20T06:26:20.731517Z",
+  "execution_started_at": "2026-02-19T06:24:02.389464Z",
+  "execution_ended_at": "2026-02-19T06:26:20.731507Z",
+  "result": {
+    "rows": [
+      {
+        "action": "transfer",
+        "first_seen": "2023-04-18 21:15:35.000 UTC",
+        "last_seen": "2026-02-18 23:59:53.000 UTC",
+        "n_txns": 42002755,
+        "total_hnt": 8183229751.835762
+      },
+      {
+        "action": "mint",
+        "first_seen": "2023-04-18 19:32:48.000 UTC",
+        "last_seen": "2026-02-18 00:00:10.000 UTC",
+        "n_txns": 3734,
+        "total_hnt": 192727199.5766854
+      },
+      {
+        "action": "burn",
+        "first_seen": "2023-04-19 13:22:06.000 UTC",
+        "last_seen": "2026-02-18 23:36:57.000 UTC",
+        "n_txns": 1501043,
+        "total_hnt": 7538875.612261577
+      }
+    ],
+    "metadata": {
+      "column_names": [
+        "action",
+        "n_txns",
+        "total_hnt",
+        "first_seen",
+        "last_seen"
+      ],
+      "column_types": [
+        "varchar",
+        "bigint",
+        "double",
+        "timestamp(3) with time zone",
+        "timestamp(3) with time zone"
+      ],
+      "row_count": 3,
+      "result_set_bytes": 112,
+      "total_row_count": 3,
+      "total_result_set_bytes": 112,
+      "datapoint_count": 15,
+      "pending_time_millis": 1476,
+      "execution_time_millis": 138342
+    }
+  }
+}

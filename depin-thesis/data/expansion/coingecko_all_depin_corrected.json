@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Cudis",
+    "symbol": "CUDIS",
+    "price": 0.01020372,
+    "mcap": 2528188,
+    "circ": 247500000.0,
+    "total": 1000000000.0,
+    "file": "coingecko_cudis.json"
+  },
+  {
+    "name": "DIMO",
+    "symbol": "DIMO",
+    "price": 0.0107705,
+    "mcap": 4562326,
+    "circ": 423599389.3394065,
+    "total": 1000000000.0,
+    "file": "coingecko_dimo.json"
+  },
+  {
+    "name": "Grass",
+    "symbol": "GRASS",
+    "price": 0.185575,
+    "mcap": 87431471,
+    "circ": 471609204.0,
+    "total": 1000000000.0,
+    "file": "coingecko_grass.json"
+  },
+  {
+    "name": "Hivemapper",
+    "symbol": "HONEY",
+    "price": 0.00374059,
+    "mcap": 20787103,
+    "circ": 5557172031.82061,
+    "total": 6528990270.505796,
+    "file": "coingecko_hivemapper.json"
+  },
+  {
+    "name": "IoTeX",
+    "symbol": "IOTX",
+    "price": 0.00541268,
+    "mcap": 51103676,
+    "circ": 9441368979.0,
+    "total": 9441368983.0,
+    "file": "coingecko_iotex.json"
+  },
+  {
+    "name": "UpRock",
+    "symbol": "UPT",
+    "price": 0.00535802,
+    "mcap": 1211579,
+    "circ": 226134978.468417,
+    "total": 984178457.6387663,
+    "file": "coingecko_uprock.json"
+  }
+]

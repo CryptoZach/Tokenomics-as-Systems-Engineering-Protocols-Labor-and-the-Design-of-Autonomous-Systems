@@ -1,0 +1,510 @@
+{
+  "early_period": "2023-06 to 2023-08",
+  "late_period": "2025-10 to 2025-12",
+  "early_bme": 0.0349,
+  "late_bme": 1.3329,
+  "early_dc_usd_monthly": 101269.0,
+  "late_dc_usd_monthly": 1860057.0,
+  "early_hnt_price": 1.5482,
+  "late_hnt_price": 2.0545,
+  "early_hnt_emission_monthly": 2064730.0,
+  "late_hnt_emission_monthly": 673151.0,
+  "decomposition": {
+    "fee_growth_pct": 79.9,
+    "price_decline_pct": -7.8,
+    "emission_reduction_pct": 30.8,
+    "sum_check_pct": 102.9
+  },
+  "log_differences": {
+    "delta_ln_bme": 3.6433,
+    "delta_ln_dc_usd": 2.9106,
+    "delta_ln_price": 0.2829,
+    "delta_ln_emission": -1.1208
+  },
+  "counterfactuals": {
+    "late_fees_early_price": 1.7847,
+    "early_fees_late_price": 0.0732,
+    "late_fees_early_emissions": 0.4385,
+    "fee_growth_alone": 0.5819
+  },
+  "multipliers": {
+    "dc_usd_growth_x": 18.4,
+    "price_decline_x": 1.33,
+    "emission_decline_x": 0.33,
+    "bme_growth_x": 38.2
+  },
+  "data_sources": {
+    "price": "Dune Analytics avg_price_usd from weekly HNT volume (149 weeks)",
+    "burns": "Dune Analytics usd_burned from weekly HNT burn transactions (149 weeks)",
+    "emissions": "Dune Analytics hnt_issued from weekly mint transactions (149 weeks)"
+  },
+  "methodology": "Log-difference attribution: ln(BME) = ln(DC_USD) - ln(P) - ln(E). Early anchor = 3-month average (Jun\u2013Aug 2023, post-migration settling). Late anchor = 3-month average (Oct\u2013Dec 2025, recent stable period). Shares computed as component \u0394ln / total \u0394ln(BME).",
+  "monthly_data": [
+    {
+      "month": "2023-05",
+      "dc_burn_usd": 53178.18624835281,
+      "hnt_burned": 37203.976377720006,
+      "hnt_issued": 2877910.7287665,
+      "hnt_price_avg": 1.444307751524219,
+      "n_weeks": 5,
+      "bme": 0.012927425442993495,
+      "bme_check": 0.012793708770076054
+    },
+    {
+      "month": "2023-06",
+      "dc_burn_usd": 92587.7831577776,
+      "hnt_burned": 71870.07407308002,
+      "hnt_issued": 2311991.7069297,
+      "hnt_price_avg": 1.292738118652947,
+      "n_weeks": 4,
+      "bme": 0.03108578368065286,
+      "bme_check": 0.03097824848010981
+    },
+    {
+      "month": "2023-07",
+      "dc_burn_usd": 112081.34490330581,
+      "hnt_burned": 72053.93550401,
+      "hnt_issued": 2709349.62225834,
+      "hnt_price_avg": 1.572299385713038,
+      "n_weeks": 5,
+      "bme": 0.026594550556362107,
+      "bme_check": 0.026310738460909144
+    },
+    {
+      "month": "2023-08",
+      "dc_burn_usd": 99137.45638482348,
+      "hnt_burned": 55059.95693993001,
+      "hnt_issued": 1172848.37284255,
+      "hnt_price_avg": 1.7796876424665802,
+      "n_weeks": 4,
+      "bme": 0.04694550311434126,
+      "bme_check": 0.04749546208461046
+    },
+    {
+      "month": "2023-09",
+      "dc_burn_usd": 198229.3023927282,
+      "hnt_burned": 138659.61773966998,
+      "hnt_issued": 1170114.90582548,
+      "hnt_price_avg": 1.4476948599060422,
+      "n_weeks": 4,
+      "bme": 0.1185008558128314,
+      "bme_check": 0.11702059673480766
+    },
+    {
+      "month": "2023-10",
+      "dc_burn_usd": 136470.5473571133,
+      "hnt_burned": 91159.69196911002,
+      "hnt_issued": 1457589.42145787,
+      "hnt_price_avg": 1.5020938894145774,
+      "n_weeks": 5,
+      "bme": 0.06254140612377167,
+      "bme_check": 0.06233136624303819
+    },
+    {
+      "month": "2023-11",
+      "dc_burn_usd": 64331.02695019099,
+      "hnt_burned": 28255.12133921001,
+      "hnt_issued": 1169064.3166243602,
+      "hnt_price_avg": 2.2742938811004367,
+      "n_weeks": 4,
+      "bme": 0.024169005021721875,
+      "bme_check": 0.0241955498876697
+    },
+    {
+      "month": "2023-12",
+      "dc_burn_usd": 280249.9340751879,
+      "hnt_burned": 39470.21949226,
+      "hnt_issued": 1174176.9427070701,
+      "hnt_price_avg": 6.535065931535498,
+      "n_weeks": 4,
+      "bme": 0.033615222762985994,
+      "bme_check": 0.03652262614240749
+    },
+    {
+      "month": "2024-01",
+      "dc_burn_usd": 494640.00383632886,
+      "hnt_burned": 75591.64508131999,
+      "hnt_issued": 1458899.04534835,
+      "hnt_price_avg": 6.938172265924027,
+      "n_weeks": 5,
+      "bme": 0.051814171324836615,
+      "bme_check": 0.04886736458128789
+    },
+    {
+      "month": "2024-02",
+      "dc_burn_usd": 352739.8277613149,
+      "hnt_burned": 39884.53892558999,
+      "hnt_issued": 1176518.4879665999,
+      "hnt_price_avg": 8.635428218485739,
+      "n_weeks": 4,
+      "bme": 0.03390047783653891,
+      "bme_check": 0.03471937222395202
+    },
+    {
+      "month": "2024-03",
+      "dc_burn_usd": 271940.0256951757,
+      "hnt_burned": 38746.98740138998,
+      "hnt_issued": 1168652.35297317,
+      "hnt_price_avg": 7.427668326383121,
+      "n_weeks": 4,
+      "bme": 0.03315527265470669,
+      "bme_check": 0.03132818926268114
+    },
+    {
+      "month": "2024-04",
+      "dc_burn_usd": 206106.6862640328,
+      "hnt_burned": 46282.87552218999,
+      "hnt_issued": 1456479.68079263,
+      "hnt_price_avg": 5.014527056955939,
+      "n_weeks": 5,
+      "bme": 0.03177722019232181,
+      "bme_check": 0.02822004303279845
+    },
+    {
+      "month": "2024-05",
+      "dc_burn_usd": 201008.49846440443,
+      "hnt_burned": 43621.289081990006,
+      "hnt_issued": 1166944.56225543,
+      "hnt_price_avg": 4.5678200720071604,
+      "n_weeks": 4,
+      "bme": 0.03738077239734533,
+      "bme_check": 0.03770988484675243
+    },
+    {
+      "month": "2024-06",
+      "dc_burn_usd": 103348.65769093952,
+      "hnt_burned": 28152.09118884999,
+      "hnt_issued": 1162966.4278670298,
+      "hnt_price_avg": 3.544067670956626,
+      "n_weeks": 4,
+      "bme": 0.024207140046581654,
+      "bme_check": 0.025074694860339728
+    },
+    {
+      "month": "2024-07",
+      "dc_burn_usd": 198201.85585618706,
+      "hnt_burned": 59588.71443433004,
+      "hnt_issued": 1447673.66048698,
+      "hnt_price_avg": 4.133341209233426,
+      "n_weeks": 5,
+      "bme": 0.041161703815406236,
+      "bme_check": 0.033123466868916145
+    },
+    {
+      "month": "2024-08",
+      "dc_burn_usd": 51897.036430411805,
+      "hnt_burned": 7798.537059320004,
+      "hnt_issued": 1158532.3802128602,
+      "hnt_price_avg": 6.590982034231628,
+      "n_weeks": 4,
+      "bme": 0.006731393263162104,
+      "bme_check": 0.006796483296482612
+    },
+    {
+      "month": "2024-09",
+      "dc_burn_usd": 386920.5587417097,
+      "hnt_burned": 52544.07411230998,
+      "hnt_issued": 1453050.29700071,
+      "hnt_price_avg": 7.546235175189393,
+      "n_weeks": 5,
+      "bme": 0.03616122182471451,
+      "bme_check": 0.03528668194829842
+    },
+    {
+      "month": "2024-10",
+      "dc_burn_usd": 171969.58394139126,
+      "hnt_burned": 26187.76823404998,
+      "hnt_issued": 1176221.3200046,
+      "hnt_price_avg": 6.587315979549854,
+      "n_weeks": 4,
+      "bme": 0.022264320318515874,
+      "bme_check": 0.02219494623497088
+    },
+    {
+      "month": "2024-11",
+      "dc_burn_usd": 998730.4835332502,
+      "hnt_burned": 159517.36916893988,
+      "hnt_issued": 1163405.9733866001,
+      "hnt_price_avg": 6.320735475726496,
+      "n_weeks": 4,
+      "bme": 0.13711238623315217,
+      "bme_check": 0.1358155200889627
+    },
+    {
+      "month": "2024-12",
+      "dc_burn_usd": 91637.20747030588,
+      "hnt_burned": 12491.574637070002,
+      "hnt_issued": 3115643.86177506,
+      "hnt_price_avg": 7.635934676388442,
+      "n_weeks": 5,
+      "bme": 0.004009307607434067,
+      "bme_check": 0.0038517831814265185
+    },
+    {
+      "month": "2025-01",
+      "dc_burn_usd": 42871.86699717817,
+      "hnt_burned": 9519.84532534999,
+      "hnt_issued": 1491692.52254846,
+      "hnt_price_avg": 4.763252271786266,
+      "n_weeks": 4,
+      "bme": 0.0063819085913804485,
+      "bme_check": 0.006033780410789781
+    },
+    {
+      "month": "2025-02",
+      "dc_burn_usd": 492901.8250950217,
+      "hnt_burned": 149134.42552896996,
+      "hnt_issued": 1504867.85874772,
+      "hnt_price_avg": 3.5269057864747313,
+      "n_weeks": 4,
+      "bme": 0.09910134279369393,
+      "bme_check": 0.09286845085074225
+    },
+    {
+      "month": "2025-03",
+      "dc_burn_usd": 570971.7742361083,
+      "hnt_burned": 200362.27616959994,
+      "hnt_issued": 1876521.8341112603,
+      "hnt_price_avg": 3.074505864573229,
+      "n_weeks": 5,
+      "bme": 0.10677321868972206,
+      "bme_check": 0.09896592582451945
+    },
+    {
+      "month": "2025-04",
+      "dc_burn_usd": 52219.4871881113,
+      "hnt_burned": 14623.805918370002,
+      "hnt_issued": 1497415.63003024,
+      "hnt_price_avg": 3.6329418555885904,
+      "n_weeks": 4,
+      "bme": 0.009766029968629804,
+      "bme_check": 0.009599128235383706
+    },
+    {
+      "month": "2025-05",
+      "dc_burn_usd": 137848.73016214411,
+      "hnt_burned": 36801.70678974994,
+      "hnt_issued": 1500394.67756638,
+      "hnt_price_avg": 3.8853010564817194,
+      "n_weeks": 4,
+      "bme": 0.02452801742101739,
+      "bme_check": 0.023646810918969797
+    },
+    {
+      "month": "2025-06",
+      "dc_burn_usd": 2156067.475169731,
+      "hnt_burned": 708896.5833679195,
+      "hnt_issued": 1883509.26410923,
+      "hnt_price_avg": 2.5517968764927472,
+      "n_weeks": 5,
+      "bme": 0.3763701070528999,
+      "bme_check": 0.448588861737332
+    },
+    {
+      "month": "2025-07",
+      "dc_burn_usd": 339329.45082801324,
+      "hnt_burned": 107932.08377053001,
+      "hnt_issued": 1464385.69567752,
+      "hnt_price_avg": 3.240291278357376,
+      "n_weeks": 4,
+      "bme": 0.07370468319181007,
+      "bme_check": 0.07151251048019311
+    },
+    {
+      "month": "2025-08",
+      "dc_burn_usd": 1250286.4656857324,
+      "hnt_burned": 532886.12717089,
+      "hnt_issued": 613509.73193233,
+      "hnt_price_avg": 2.7505306286698215,
+      "n_weeks": 4,
+      "bme": 0.8685862659301178,
+      "bme_check": 0.7409204611310978
+    },
+    {
+      "month": "2025-09",
+      "dc_burn_usd": 1120838.0024214322,
+      "hnt_burned": 456180.58448052016,
+      "hnt_issued": 776712.3287665,
+      "hnt_price_avg": 2.493778598168771,
+      "n_weeks": 5,
+      "bme": 0.5873224456279488,
+      "bme_check": 0.5786617221536464
+    },
+    {
+      "month": "2025-10",
+      "dc_burn_usd": 2304023.959319331,
+      "hnt_burned": 975288.0335729893,
+      "hnt_issued": 621369.8630132,
+      "hnt_price_avg": 2.2052497603760868,
+      "n_weeks": 4,
+      "bme": 1.5695773027091127,
+      "bme_check": 1.6814308897947294
+    },
+    {
+      "month": "2025-11",
+      "dc_burn_usd": 1224875.0863031342,
+      "hnt_burned": 545145.0401986805,
+      "hnt_issued": 621369.8630132,
+      "hnt_price_avg": 2.237458560069947,
+      "n_weeks": 4,
+      "bme": 0.8773277763345593,
+      "bme_check": 0.8810217194303258
+    },
+    {
+      "month": "2025-12",
+      "dc_burn_usd": 2051270.6171253165,
+      "hnt_burned": 1205193.1228729698,
+      "hnt_issued": 776712.3287665,
+      "hnt_price_avg": 1.7208359516343918,
+      "n_weeks": 5,
+      "bme": 1.551659576186903,
+      "bme_check": 1.5346992809089648
+    },
+    {
+      "month": "2026-01",
+      "dc_burn_usd": 867652.181851388,
+      "hnt_burned": 685183.45800417,
+      "hnt_issued": 621369.8630132,
+      "hnt_price_avg": 1.3046340288254,
+      "n_weeks": 4,
+      "bme": 1.1026982459070667,
+      "bme_check": 1.0703030805177032
+    },
+    {
+      "month": "2026-02",
+      "dc_burn_usd": 707231.1031167797,
+      "hnt_burned": 777042.2810043195,
+      "hnt_issued": 377260.2739723,
+      "hnt_price_avg": 1.0952239623334779,
+      "n_weeks": 3,
+      "bme": 2.059698130477881,
+      "bme_check": 1.7116593595702867
+    }
+  ],
+  "notes": "April 2023 excluded (one-time Solana migration issuance of 145M HNT). BME and S2R are used interchangeably in this analysis (same formula). The usd_burned field from Dune represents DC burn revenue at $0.00001/DC \u00d7 HNT price at burn time.",
+  "corrections": [
+    {
+      "issue": "counterfactual_bme",
+      "old_value": 0.34,
+      "old_context": "Compared against headline bme_onchain=2.06",
+      "new_value_usd_consistent": 0.3441,
+      "new_context_usd": "Consistent with bme_usd=1.7117",
+      "new_value_onchain_consistent": 0.4141,
+      "new_context_onchain": "Consistent with bme_onchain=2.0597",
+      "explanation": "The 0.34 counterfactual was computed via the USD-implied path (dc_burn_usd / price / start_emissions) but compared against the on-chain headline BME of 2.06. It is internally consistent with bme_usd=1.71, not bme_onchain=2.06. The on-chain equivalent counterfactual is 0.41. Additionally, the user assumed Feb 2026 emissions were ~700K, but they are actually 377K (partial month data + further emission schedule decline), making the emission ratio 4.97x not 2.71x."
+    },
+    {
+      "issue": "emission_cut_pct",
+      "old_value": "58%",
+      "verified": true,
+      "explanation": "The 58% is a phase-average comparison: pre-halving average (Mar-Jul 2025) = 1,644,445 HNT/mo vs halving transition average (Aug-Sep 2025) = 695,111 HNT/mo. Per-week comparison Jul\u2192Aug = 58.1% reduction. Exceeds 50% because: (1) months have 4 or 5 weeks, affecting monthly totals; (2) the halving may not align exactly to month boundaries; (3) SubDAO emission allocation mechanics."
+    },
+    {
+      "issue": "endpoint_bme_closure",
+      "explanation": "The BME does NOT close from the stated components because the code uses two different calculations: bme_onchain = hnt_burned / hnt_issued (headline), and the decomposition uses dc_burn_usd / (avg_price \u00d7 hnt_issued). These diverge because avg_price_usd (volume-weighted transfer price from Dune) differs from the burn-weighted average price implicit in dc_burn_usd / hnt_burned. For Feb 2026: burn-weighted price = $0.9102, transfer-avg price = $1.0952. Also note Feb 2026 is a PARTIAL MONTH (3 weeks of data, pulled 2026-02-19).",
+      "bme_onchain": 2.0597,
+      "bme_usd_implied": 1.7117,
+      "gap_pct": 20.3
+    }
+  ],
+  "monthly_emissions_around_halving": {
+    "2025-06": {
+      "hnt_issued": 1883509.0,
+      "n_weeks": 5,
+      "per_week": 376702.0,
+      "source": "Dune Analytics: weekly HNT mint transactions"
+    },
+    "2025-07": {
+      "hnt_issued": 1464386.0,
+      "n_weeks": 4,
+      "per_week": 366096.0,
+      "source": "Dune Analytics: weekly HNT mint transactions"
+    },
+    "2025-08": {
+      "hnt_issued": 613510.0,
+      "n_weeks": 4,
+      "per_week": 153377.0,
+      "source": "Dune Analytics: weekly HNT mint transactions"
+    },
+    "2025-09": {
+      "hnt_issued": 776712.0,
+      "n_weeks": 5,
+      "per_week": 155342.0,
+      "source": "Dune Analytics: weekly HNT mint transactions"
+    },
+    "2025-10": {
+      "hnt_issued": 621370.0,
+      "n_weeks": 4,
+      "per_week": 155342.0,
+      "source": "Dune Analytics: weekly HNT mint transactions"
+    }
+  },
+  "endpoint_arithmetic": {
+    "months": [
+      "2025-12",
+      "2026-01",
+      "2026-02"
+    ],
+    "values": [
+      {
+        "dc_burn_usd": 2051270.62,
+        "hnt_burned_onchain": 1205193.0,
+        "hnt_burned_usd_implied": 1192020.0,
+        "hnt_price_avg": 1.7208,
+        "hnt_price_at_burn": 1.702,
+        "hnt_issued": 776712.0,
+        "n_weeks": 5,
+        "bme_onchain": 1.5517,
+        "bme_usd_implied": 1.5347,
+        "closure_check": "1,192,020 / 776,712 = 1.5347"
+      },
+      {
+        "dc_burn_usd": 867652.18,
+        "hnt_burned_onchain": 685183.0,
+        "hnt_burned_usd_implied": 665054.0,
+        "hnt_price_avg": 1.3046,
+        "hnt_price_at_burn": 1.2663,
+        "hnt_issued": 621370.0,
+        "n_weeks": 4,
+        "bme_onchain": 1.1027,
+        "bme_usd_implied": 1.0703,
+        "closure_check": "665,054 / 621,370 = 1.0703"
+      },
+      {
+        "dc_burn_usd": 707231.1,
+        "hnt_burned_onchain": 777042.0,
+        "hnt_burned_usd_implied": 645741.0,
+        "hnt_price_avg": 1.0952,
+        "hnt_price_at_burn": 0.9102,
+        "hnt_issued": 377260.0,
+        "n_weeks": 3,
+        "bme_onchain": 2.0597,
+        "bme_usd_implied": 1.7117,
+        "closure_check": "645,741 / 377,260 = 1.7117"
+      }
+    ]
+  },
+  "revised_decomposition": {
+    "twelve_month": {
+      "method": "USD-consistent (bme_usd = dc_burn_usd / (price \u00d7 issued))",
+      "start_bme_usd": 0.099,
+      "end_bme_usd": 1.7117,
+      "fee_growth_pct": 7.5,
+      "price_decline_pct": 36.2,
+      "emission_reduction_pct": 56.3,
+      "sum_check_pct": 100.0,
+      "counterfactual_no_halving": 0.3441
+    },
+    "full_period": {
+      "method": "USD-consistent (bme_usd = dc_burn_usd / (price \u00d7 issued))",
+      "start_bme_usd": 0.0349,
+      "end_bme_usd": 1.3657,
+      "fee_growth_pct": 79.4,
+      "price_decline_pct": -7.7,
+      "emission_reduction_pct": 30.6,
+      "sum_check_pct": 102.2
+    }
+  },
+  "recommended_fix": "Use bme_usd = dc_burn_usd / (avg_price \u00d7 hnt_issued) consistently as the headline BME metric. This ensures the three-component log decomposition sums to exactly 100% and counterfactuals are internally consistent. The trade-off: Feb 2026 BME = 1.71 instead of 2.06. Alternatively, note both metrics and report the residual explicitly.",
+  "verification_date": "2026-02-24"
+}

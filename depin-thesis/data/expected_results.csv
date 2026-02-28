@@ -1,0 +1,46 @@
+claim_id,paper,section,metric,protocol,value,unit,tolerance,notes
+hhi_compound,1,5.2,HHI,Compound,0.028,,0.005,Feb 2026 snapshot
+hhi_makerdao,1,5.2,HHI,MakerDAO,0.045,,0.005,Feb 2026 snapshot
+hhi_aave,1,5.2,HHI,Aave,0.052,,0.005,Feb 2026 snapshot
+hhi_thegraph,1,5.2,HHI,The Graph,0.105,,0.010,Feb 2026 snapshot
+hhi_uniswap,1,5.2,HHI,Uniswap,0.114,,0.010,Feb 2026 snapshot
+hhi_optimism,1,5.2,HHI,Optimism,0.131,,0.010,Feb 2026 snapshot
+hhi_curve,1,5.2,HHI,Curve,0.174,,0.010,Feb 2026 snapshot; veCRV not captured
+hhi_akash,1,5.2,HHI,Akash,0.037,,0.005,Feb 2026 snapshot; validator staking (Cosmos)
+hhi_render,1,5.2,HHI,Render,0.093,,0.010,Feb 2026 snapshot; Solana SPL token
+hhi_anyone,1,5.2,HHI,Anyone,0.034,,0.005,Feb 2026 snapshot
+hhi_grass,1,5.2,HHI,Grass,0.119,,0.010,Feb 2026 snapshot; Solana SPL token
+hhi_dimo,1,5.2,HHI,DIMO,0.305,,0.010,Feb 2026 snapshot; Polygon
+hhi_iotex,1,5.2,HHI,IoTeX,0.388,,0.010,Ethereum ERC-20 representation only
+hhi_weatherxm,1,5.2,HHI,WeatherXM,0.593,,0.010,Feb 2026 snapshot; Arbitrum
+gini_range_low,1,5.2,Gini,sector,0.67,,0.02,Minimum across sample (Akash; validator-based)
+gini_range_high,1,5.2,Gini,sector,0.98,,0.01,Maximum across sample (IoTeX)
+gini_render,1,5.2,Gini,Render,0.93,,0.02,Feb 2026 snapshot
+gini_akash,1,5.2,Gini,Akash,0.67,,0.02,Feb 2026 snapshot; validator staking
+gini_compound,1,5.2,Gini,Compound,0.86,,0.02,Feb 2026 snapshot
+gini_makerdao,1,5.2,Gini,MakerDAO,0.90,,0.02,Feb 2026 snapshot
+gini_curve,1,5.2,Gini,Curve,0.90,,0.02,Feb 2026 snapshot
+gini_anyone,1,5.2,Gini,Anyone,0.79,,0.02,Feb 2026 snapshot
+gini_grass,1,5.2,Gini,Grass,0.96,,0.02,Feb 2026 snapshot
+gini_dimo,1,5.2,Gini,DIMO,0.94,,0.02,Feb 2026 snapshot
+gini_iotex,1,5.2,Gini,IoTeX,0.98,,0.01,Feb 2026 snapshot
+gini_weatherxm,1,5.2,Gini,WeatherXM,0.97,,0.01,Feb 2026 snapshot
+top1_compound,1,5.2,top_1_share,Compound,0.144,,0.010,14.4%
+top1_curve,1,5.2,top_1_share,Curve,0.409,,0.010,40.9%
+top1_dimo,1,5.2,top_1_share,DIMO,0.548,,0.010,54.8%
+top1_iotex,1,5.2,top_1_share,IoTeX,0.613,,0.010,61.3%
+top1_weatherxm,1,5.2,top_1_share,WeatherXM,0.764,,0.010,76.4%
+s2r_helium_start,2,5.1,S2R,Helium,0.013,,0.005,May 2023 (post-Solana migration)
+s2r_helium_peak,2,5.1,S2R,Helium,2.060,,0.10,Feb 2026 (burns at 2x issuance)
+s2r_helium_parity_month,2,5.1,S2R_month,Helium,2025-10,,exact,First month S2R > 1.0
+s2r_helium_parity_value,2,5.1,S2R,Helium,1.570,,0.10,Oct 2025 S2R value
+s2r_helium_aug25,2,5.1,S2R,Helium,0.869,,0.05,Aug 2025 post-halving
+s2r_helium_sep25,2,5.1,S2R,Helium,0.587,,0.05,Sep 2025 (HIP-147 month)
+s2r_dimo,2,5.2.1,S2R,DIMO,4.24,,0.50,Recent period; Developer License burns
+s2r_filecoin,2,5.2.2,S2R,Filecoin,0.0002,,0.001,Approximate; gas burns negligible vs issuance
+burn_concentration,2,5.1.2,top5_burn_share,Helium,0.90,,0.05,Top-5 DC signers ~90% of total burns
+observation_months,2,5.1,N_months,Helium,34,,exact,May 2023 to Feb 2026 inclusive
+n_protocols,2,3.5,N_protocols,all,13,,exact,Full taxonomy universe
+n_protocols_hhi,1,5.2,N_protocols_measured,sector,12,,exact,Livepeer excluded from HHI
+n_defi_benchmarks,1,5.2,N_defi,sector,7,,exact,UNI COMP MKR AAVE CRV OP GRT
+n_depin_measured,1,5.2,N_depin,sector,5,,exact,Render Akash Grass DIMO IoTeX

@@ -1,0 +1,11 @@
+{
+  "queries_run": 5,
+  "queries_total": 5,
+  "results": {
+    "hnt_action_types": 3,
+    "hnt_burn_signers": 30,
+    "hnt_mint_signers": 15,
+    "hnt_large_burns": 100,
+    "hnt_oct2025_daily": 93
+  }
+}

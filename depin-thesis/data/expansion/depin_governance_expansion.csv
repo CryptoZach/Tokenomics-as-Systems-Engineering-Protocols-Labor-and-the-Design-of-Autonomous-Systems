@@ -1,0 +1,7 @@
+protocol,token,chain,hhi,gini,top1_share,top10_share,top50_share,n_holders,supply_coverage,method,note
+DIMO,DIMO,polygon,0.304944,0.9378,0.5479,0.6951,0.9202,1000,0.6179,net_transfer,
+WeatherXM,WXM,arbitrum,,,,,,0,,no_data,Insufficient data (0 holders)
+Anyone Protocol,ANYONE,ethereum,,,,,,0,,no_data,Insufficient data (0 holders)
+IoTeX,IOTX,ethereum,0.388122,0.9831,0.6133,0.9171,0.9775,989,0.336,net_transfer,
+Hivemapper,HONEY,solana,,,,,,0,,no_data,Insufficient data (0 holders)
+Grass,GRASS,solana,0.119301,0.9571,0.3115,0.6694,0.8832,1000,0.9946,net_transfer,

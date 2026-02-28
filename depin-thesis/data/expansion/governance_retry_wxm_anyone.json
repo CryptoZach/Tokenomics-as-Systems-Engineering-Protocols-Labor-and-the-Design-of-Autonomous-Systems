@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "WeatherXM",
+    "token": "WXM",
+    "chain": "arbitrum",
+    "hhi": 0.5928,
+    "gini": 0.9724,
+    "top1_share": 0.7642,
+    "top10_share": 0.9412,
+    "n_holders": 999,
+    "supply_coverage": 0.5632,
+    "method": "net_transfer"
+  },
+  {
+    "protocol": "Anyone Protocol",
+    "token": "ANYONE",
+    "chain": "ethereum",
+    "hhi": 0.033759,
+    "gini": 0.7897,
+    "top1_share": 0.1192,
+    "top10_share": 0.4479,
+    "n_holders": 999,
+    "supply_coverage": 0.8531,
+    "method": "net_transfer"
+  }
+]

@@ -1,0 +1,246 @@
+{
+  "execution_id": "01KHT9893N94BJ8TQ3HHG7HZCA",
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-02-19T06:26:31.670139Z",
+  "expires_at": "2026-05-20T06:28:07.663426Z",
+  "execution_started_at": "2026-02-19T06:26:33.245202Z",
+  "execution_ended_at": "2026-02-19T06:28:07.663415Z",
+  "result": {
+    "rows": [
+      {
+        "first_burn": "2023-06-15 22:07:22.000 UTC",
+        "last_burn": "2026-02-15 03:16:37.000 UTC",
+        "n_burns": 178,
+        "total_hnt_burned": 3246913.561157779,
+        "tx_signer": "Bi5JuJDjan77e6bDB7bENdi3RHEZUGru2AGRTT6ERo8g"
+      },
+      {
+        "first_burn": "2025-11-18 00:00:01.000 UTC",
+        "last_burn": "2026-02-18 19:11:25.000 UTC",
+        "n_burns": 39141,
+        "total_hnt_burned": 2101949.637904037,
+        "tx_signer": "tasky4vvRkVDT1vqsf37wb2auJ9aMyD4MaokZz94ZQ8"
+      },
+      {
+        "first_burn": "2025-03-24 00:00:01.000 UTC",
+        "last_burn": "2026-02-18 19:10:35.000 UTC",
+        "n_burns": 24122,
+        "total_hnt_burned": 656519.575146672,
+        "tx_signer": "TUKvijKsEnMusYKPgA8itNYAaCtkxSuSKp2weTppK7y"
+      },
+      {
+        "first_burn": "2025-01-30 00:12:14.000 UTC",
+        "last_burn": "2026-02-18 00:18:50.000 UTC",
+        "n_burns": 324380,
+        "total_hnt_burned": 592735.4151418696,
+        "tx_signer": "cronjz7v2xsWdXr8BVz38ihi5DTWPihGZKuRr6vSPEU"
+      },
+      {
+        "first_burn": "2025-03-08 00:00:24.000 UTC",
+        "last_burn": "2026-02-18 00:17:43.000 UTC",
+        "n_burns": 32666,
+        "total_hnt_burned": 149938.58696495945,
+        "tx_signer": "Gu86ERAK3Ba6XuPxjZUnqRPFVeMisryzM1LgRxuTWGD1"
+      },
+      {
+        "first_burn": "2025-09-27 17:19:46.000 UTC",
+        "last_burn": "2025-10-05 21:08:01.000 UTC",
+        "n_burns": 3,
+        "total_hnt_burned": 80000,
+        "tx_signer": "mobMc6Q18xT78cRiExgVbhadEKHiTUm6ZDnSZn2cU8h"
+      },
+      {
+        "first_burn": "2023-06-19 06:36:36.000 UTC",
+        "last_burn": "2023-12-14 14:00:04.000 UTC",
+        "n_burns": 10,
+        "total_hnt_burned": 38192.44666041,
+        "tx_signer": "4VHs6TzfobKzR1Jb5qc1fCnRQwiMPRYcs9hctTSQBkHi"
+      },
+      {
+        "first_burn": "2023-09-28 20:29:54.000 UTC",
+        "last_burn": "2025-10-16 20:47:08.000 UTC",
+        "n_burns": 63,
+        "total_hnt_burned": 36364.96340919,
+        "tx_signer": "3G41vVrfs2FhCiUjUm1GKpsWMcrFBcUtM3Q63J673hpe"
+      },
+      {
+        "first_burn": "2023-06-26 23:03:26.000 UTC",
+        "last_burn": "2023-11-28 01:43:50.000 UTC",
+        "n_burns": 33,
+        "total_hnt_burned": 34709.698386389995,
+        "tx_signer": "8BdSx4QUCvJ7AVn8coankmgkPP4MSyhVGCMNkkyNBRrk"
+      },
+      {
+        "first_burn": "2023-04-28 22:58:35.000 UTC",
+        "last_burn": "2025-07-16 23:56:01.000 UTC",
+        "n_burns": 149,
+        "total_hnt_burned": 30605.204675650006,
+        "tx_signer": "Hz1rSV7d9KmWjD9A5HKDwm7RWZ2nrTL2wCLAP8mk13EW"
+      },
+      {
+        "first_burn": "2023-04-26 18:21:57.000 UTC",
+        "last_burn": "2026-02-14 10:23:38.000 UTC",
+        "n_burns": 122,
+        "total_hnt_burned": 27273.415057249986,
+        "tx_signer": "HGqNY3uHsLVdqo8mTKXfMjeq2QJLXggJcbvRK6nHZWNZ"
+      },
+      {
+        "first_burn": "2023-04-20 05:08:49.000 UTC",
+        "last_burn": "2023-09-23 00:30:46.000 UTC",
+        "n_burns": 157,
+        "total_hnt_burned": 23948.411253879996,
+        "tx_signer": "3A4qJN7Jo6Twh2AHpKcU7HtTeGbmNhFDDGv6eF8QgXux"
+      },
+      {
+        "first_burn": "2025-05-09 00:00:02.000 UTC",
+        "last_burn": "2025-11-18 22:55:19.000 UTC",
+        "n_burns": 439,
+        "total_hnt_burned": 21783.05870523,
+        "tx_signer": "hprdnjkbziK8NqhThmAn5Gu4XqrBbctX8du4PfJdgvW"
+      },
+      {
+        "first_burn": "2025-03-24 04:46:23.000 UTC",
+        "last_burn": "2025-09-09 06:05:16.000 UTC",
+        "n_burns": 313,
+        "total_hnt_burned": 16718.503772829998,
+        "tx_signer": "HRvWMx3UA1x35V6nF9u1Z1sJ8nBxXgixwsSn2pQRYyjb"
+      },
+      {
+        "first_burn": "2023-04-19 19:24:14.000 UTC",
+        "last_burn": "2024-11-04 03:20:25.000 UTC",
+        "n_burns": 19,
+        "total_hnt_burned": 16386.49936246,
+        "tx_signer": "5SY4veZq7QEnWtr9PpAj45LBRPg3wZ5HRKFj6y15P24M"
+      },
+      {
+        "first_burn": "2025-08-25 00:00:01.000 UTC",
+        "last_burn": "2025-11-13 00:19:56.000 UTC",
+        "n_burns": 16486,
+        "total_hnt_burned": 15506.389657670003,
+        "tx_signer": "ceo22R2F3n2d6JGhn7CCd3gBPD6KLuFsvBs6Y2R7nae"
+      },
+      {
+        "first_burn": "2023-07-04 15:24:33.000 UTC",
+        "last_burn": "2023-07-04 15:28:24.000 UTC",
+        "n_burns": 2,
+        "total_hnt_burned": 7596.6647914,
+        "tx_signer": "6e4mVD9w3spe9Geb8h9yMofssBQkGBAn7HcJB4rnKjYt"
+      },
+      {
+        "first_burn": "2023-06-09 10:52:38.000 UTC",
+        "last_burn": "2024-09-06 00:48:01.000 UTC",
+        "n_burns": 23,
+        "total_hnt_burned": 5934.66107593,
+        "tx_signer": "8XtMrefTFib1JoJpHM3m7HvZXVkbWoKVBiuehPt7DEJu"
+      },
+      {
+        "first_burn": "2023-04-20 07:39:06.000 UTC",
+        "last_burn": "2024-05-31 12:30:36.000 UTC",
+        "n_burns": 22,
+        "total_hnt_burned": 5306.258325690001,
+        "tx_signer": "B6XEeDTd8XHMtbuWycrV56oXVKzFam7ydBjRucJPEb5e"
+      },
+      {
+        "first_burn": "2025-05-22 07:55:24.000 UTC",
+        "last_burn": "2025-07-14 14:49:46.000 UTC",
+        "n_burns": 338,
+        "total_hnt_burned": 4998.773376370002,
+        "tx_signer": "6jibBcyV81M5v1wd3tU5uUeYtYsY5GthNCErGHx1LNSf"
+      },
+      {
+        "first_burn": "2023-05-22 18:07:36.000 UTC",
+        "last_burn": "2026-01-17 20:41:36.000 UTC",
+        "n_burns": 32,
+        "total_hnt_burned": 4755.026186940001,
+        "tx_signer": "5Fz4KK5S3iRQZC6ELST9wzTa1dRymu9awAA4fsfPePVg"
+      },
+      {
+        "first_burn": "2023-10-24 21:42:43.000 UTC",
+        "last_burn": "2026-01-21 02:01:48.000 UTC",
+        "n_burns": 417,
+        "total_hnt_burned": 4311.552361669999,
+        "tx_signer": "GtBcUSWUi9h6XD6z84p66hGDJfoc3BvdWgoTpdj1Y3gL"
+      },
+      {
+        "first_burn": "2023-06-05 05:50:56.000 UTC",
+        "last_burn": "2024-03-14 17:42:53.000 UTC",
+        "n_burns": 15,
+        "total_hnt_burned": 4150.378339020001,
+        "tx_signer": "DZszdfc5oUsXbf3awtwne9qJiWKcC9Zbe3hpqiCWRvVZ"
+      },
+      {
+        "first_burn": "2025-02-25 16:06:39.000 UTC",
+        "last_burn": "2026-02-18 18:12:45.000 UTC",
+        "n_burns": 310,
+        "total_hnt_burned": 4016.716802619996,
+        "tx_signer": "hPowhWccY2JyG2QeaNDMhpBpToZiDymy4hxoyiyvdrs"
+      },
+      {
+        "first_burn": "2023-05-19 13:39:00.000 UTC",
+        "last_burn": "2023-10-19 03:13:36.000 UTC",
+        "n_burns": 14,
+        "total_hnt_burned": 3748.9214972299997,
+        "tx_signer": "FRedSJDLU94UHKbgDgXd6JaTqd3a7rzS4HULMSGSVtc7"
+      },
+      {
+        "first_burn": "2023-08-16 13:53:25.000 UTC",
+        "last_burn": "2024-09-16 12:14:53.000 UTC",
+        "n_burns": 19,
+        "total_hnt_burned": 3282.34748211,
+        "tx_signer": "AEdePPegPK5PkkVdVWM4WNTYkfjD6UQqo9cypXBkvnh1"
+      },
+      {
+        "first_burn": "2023-08-29 10:55:27.000 UTC",
+        "last_burn": "2025-01-14 07:27:42.000 UTC",
+        "n_burns": 46,
+        "total_hnt_burned": 3182.84233079,
+        "tx_signer": "6mAzyYJUbuQNECoApGxXrtg3bYJdKoxwVdY62VSTT1M8"
+      },
+      {
+        "first_burn": "2023-05-01 11:29:03.000 UTC",
+        "last_burn": "2026-02-01 09:23:26.000 UTC",
+        "n_burns": 57,
+        "total_hnt_burned": 3137.262832370001,
+        "tx_signer": "42EfE3eymTy4ofXeAswGBiYQyTW6KfzSnQRNSVqozFSq"
+      },
+      {
+        "first_burn": "2025-05-06 16:48:11.000 UTC",
+        "last_burn": "2025-08-02 15:46:13.000 UTC",
+        "n_burns": 1925,
+        "total_hnt_burned": 3012.950371349999,
+        "tx_signer": "HBRsFKh24eUUvGF7oaqBD1kQvYZBm8qGB8GzqMXUUMsz"
+      },
+      {
+        "first_burn": "2023-05-06 21:50:35.000 UTC",
+        "last_burn": "2025-04-06 07:24:00.000 UTC",
+        "n_burns": 21,
+        "total_hnt_burned": 2678.44394098,
+        "tx_signer": "HKcAPCywXRDiW8a2s8fbuZjBpWFs5fwVvn9axaoNxqoJ"
+      }
+    ],
+    "metadata": {
+      "column_names": [
+        "tx_signer",
+        "n_burns",
+        "total_hnt_burned",
+        "first_burn",
+        "last_burn"
+      ],
+      "column_types": [
+        "varchar",
+        "bigint",
+        "double",
+        "timestamp(3) with time zone",
+        "timestamp(3) with time zone"
+      ],
+      "row_count": 30,
+      "result_set_bytes": 2273,
+      "total_row_count": 30,
+      "total_result_set_bytes": 2273,
+      "datapoint_count": 150,
+      "pending_time_millis": 1575,
+      "execution_time_millis": 94418
+    }
+  }
+}

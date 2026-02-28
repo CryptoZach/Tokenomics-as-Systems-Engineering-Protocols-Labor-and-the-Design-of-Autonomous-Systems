@@ -1,0 +1,122 @@
+[
+  {
+    "protocol": "GEODNET",
+    "ticker": "GEOD",
+    "chain": "solana",
+    "sink_type": "Revenue-driven buy-back-and-burn (80% of fiat subscription revenue)",
+    "burn_mechanism": "Buy-back-and-burn: RTK data consumers pay in fiat (USD subscriptions); the GEODNET Foundation uses 80% of revenue to buy GEOD on open market and burn to dead wallet. Unlike Helium DC burns, consumers never touch GEOD directly. Station operators earn GEOD for providing GNSS corrections. Migrated from Polygon to Solana in 2025 (GIP-7).",
+    "s2r_status": "active_burn",
+    "s2r_computed": 0.379,
+    "notes": "Feb 2026 on-chain: 801,941 GEOD burned / 2,114,872 minted = S2R 0.379. Polygon activity = 0 (fully migrated). Messari reported ~0.75 by end-2025; Feb 2026 mid-month data shows lower ratio. ARR $7.3M (Dec 2025). 21,521 active stations in 148+ countries. Net-positive (burns > emissions) projected 2026-2027."
+  },
+  {
+    "protocol": "Hivemapper",
+    "ticker": "HONEY",
+    "chain": "solana",
+    "sink_type": "Map credit burn (HONEY burned when clients consume map data via Map Credits)",
+    "burn_mechanism": "Burn-and-mint: clients purchase Map Credits with HONEY (burned); contributors earn HONEY for dashcam imagery",
+    "s2r_status": "active_burn",
+    "s2r_computed": null,
+    "notes": "MIP-7 introduced map credit pricing; burn data queryable on Solana"
+  },
+  {
+    "protocol": "DIMO",
+    "ticker": "DIMO",
+    "chain": "polygon",
+    "sink_type": "Data marketplace burn (DIMO tokens burned for marketplace access)",
+    "burn_mechanism": "License burn: developers burn DIMO to access vehicle data via DIMO Developer License; stake required for data consumers",
+    "s2r_status": "early_burn",
+    "s2r_computed": 4.24,
+    "notes": "Marketplace launched 2024; burn volumes likely small"
+  },
+  {
+    "protocol": "IoTeX",
+    "ticker": "IOTX",
+    "chain": "iotex_l1",
+    "sink_type": "Gas fee burn (similar to EIP-1559)",
+    "burn_mechanism": "Transaction fees partially burned on IoTeX L1; staking locks reduce circulating supply",
+    "s2r_status": "active_burn",
+    "s2r_computed": null,
+    "notes": "IoTeX L1 has native burn; not queryable via standard Dune tables"
+  },
+  {
+    "protocol": "WeatherXM",
+    "ticker": "WXM",
+    "chain": "arbitrum",
+    "sink_type": "Data subscription burn (WXM burned for weather data access)",
+    "burn_mechanism": "Data consumers burn WXM to access weather API/data marketplace; station operators earn WXM for verified weather data",
+    "s2r_status": "early_burn",
+    "s2r_computed": null,
+    "notes": "Data marketplace active; burn volumes growing but small relative to emissions"
+  },
+  {
+    "protocol": "Grass",
+    "ticker": "GRASS",
+    "chain": "solana",
+    "sink_type": "Token staking (no confirmed burn mechanism)",
+    "burn_mechanism": "GRASS tokens staked for network access; no confirmed burn-and-mint; primarily emission-based rewards for bandwidth sharing",
+    "s2r_status": "no_burn",
+    "s2r_computed": null,
+    "notes": "Revenue model is data sales (AI companies buy scraped data); token capture mechanism is indirect via staking"
+  },
+  {
+    "protocol": "Anyone Protocol",
+    "ticker": "ANYONE",
+    "chain": "ethereum",
+    "sink_type": "Stake/lock for relay operation",
+    "burn_mechanism": "Relay operators stake ANYONE tokens; bandwidth consumers may pay in ANYONE; no confirmed burn mechanism",
+    "s2r_status": "no_burn",
+    "s2r_computed": null,
+    "notes": "Privacy/VPN relay; token economics still evolving"
+  },
+  {
+    "protocol": "UpRock",
+    "ticker": "UPT",
+    "chain": "solana",
+    "sink_type": "Unclear/early-stage",
+    "burn_mechanism": "Bandwidth contributors earn UPT; enterprise clients purchase proxy access; token burn/buyback details not public",
+    "s2r_status": "unknown",
+    "s2r_computed": null,
+    "notes": "Early-stage protocol; tokenomics may not be fully deployed"
+  },
+  {
+    "protocol": "Wayru",
+    "ticker": "WRU",
+    "chain": "solana",
+    "sink_type": "Service payment",
+    "burn_mechanism": "WiFi users pay for connectivity; operators earn WRU; burn mechanism unclear from public docs",
+    "s2r_status": "unknown",
+    "s2r_computed": null,
+    "notes": "Community WiFi focused on Latin America; limited tokenomics disclosure"
+  },
+  {
+    "protocol": "WiFiDabba",
+    "ticker": "N/A",
+    "chain": "polygon",
+    "sink_type": "N/A",
+    "burn_mechanism": "No public token; centralized service model with blockchain backend for payments",
+    "s2r_status": "no_token",
+    "s2r_computed": null,
+    "notes": "India-focused community WiFi; may use Polygon for micropayments but no governance token"
+  },
+  {
+    "protocol": "CUDIS",
+    "ticker": "CUDIS",
+    "chain": "solana",
+    "sink_type": "Data marketplace (planned)",
+    "burn_mechanism": "Users earn CUDIS for health data from smart ring; data consumers may burn/stake CUDIS for access; mechanism details limited",
+    "s2r_status": "unknown",
+    "s2r_computed": null,
+    "notes": "Early-stage wearable DePIN; tokenomics likely not mature"
+  },
+  {
+    "protocol": "ROVR",
+    "ticker": "ROVR",
+    "chain": "solana",
+    "sink_type": "Unknown",
+    "burn_mechanism": "Autonomous delivery network; token economics not well documented",
+    "s2r_status": "unknown",
+    "s2r_computed": null,
+    "notes": "Very early stage; limited public information on burn mechanism"
+  }
+]

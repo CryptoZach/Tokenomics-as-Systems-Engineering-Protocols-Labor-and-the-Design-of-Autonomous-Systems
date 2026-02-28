@@ -1,0 +1,1622 @@
+[
+  {
+    "moniker": "Tedcrypto.io \ud83e\uddf8 | TedLotto",
+    "tokens_akt": 1.0014,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1qyz8u385vfpmq6e0k22uh7q2ct59723c3wk4e0"
+  },
+  {
+    "moniker": "cosmosrescue",
+    "tokens_akt": 317820.088019,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1qx9knjqah8s0l4rhwmapsd6cuah4948jy0gf0t"
+  },
+  {
+    "moniker": "kava_labs",
+    "tokens_akt": 8125511.87305,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1qvsus5qg8yhre7k2c78xkkw4nvqqgev7zw5wzs"
+  },
+  {
+    "moniker": "PathrockNetwork",
+    "tokens_akt": 3820.590201,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1qd4und55vysszr35r0ynas09jguclt6ucqa72c"
+  },
+  {
+    "moniker": "Valnodes - Carbon Neutral Staking",
+    "tokens_akt": 3695.672087,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1qwpnhmdlfj6gfyh0e29fjudh0ytfe5l7tjttul"
+  },
+  {
+    "moniker": "Vitwit (Previously Witval)",
+    "tokens_akt": 843575.30797,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1qwlcuf2c2dhtgy8z5y7xxqev96km0n5mw30ls2"
+  },
+  {
+    "moniker": "stakezone",
+    "tokens_akt": 2524578.948632,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1q07u5g9s5cy5d3tj923v0nt870x073elpuqwg2"
+  },
+  {
+    "moniker": "Dual Stacking",
+    "tokens_akt": 1.9998,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1qn7gt8h5c760yvk6nxml3zrkq2dm9z5fpdd7yh"
+  },
+  {
+    "moniker": "eol",
+    "tokens_akt": 234.459949,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1q4dtjvcp9epdgnkkhlhjy6s90ju2w3a358h4f8"
+  },
+  {
+    "moniker": "Stakecito",
+    "tokens_akt": 2183102.746023,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7q8v8c3u"
+  },
+  {
+    "moniker": "Yurbason",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1qmtxk0avazeg2n2tzhsntmklsfpx9263zkmsyq"
+  },
+  {
+    "moniker": "Bro_n_Bro",
+    "tokens_akt": 52330.364903,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1ptmv9vpk2426psak97lz0u2vcts7qn7mwf73nl"
+  },
+  {
+    "moniker": "SmartNodes \ud83d\udee1\ufe0f Slash Protected",
+    "tokens_akt": 1025541.3894,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1phskre56344dtx5k0ph9sp8n4lsjlrlg8v0242"
+  },
+  {
+    "moniker": "Defi Dojo Validation",
+    "tokens_akt": 9909.856657,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1pue4fy89yk98t6l00a8zn23l5ra6ttlhe55v3m"
+  },
+  {
+    "moniker": "CLOSED - PLEASE REDELEGATE",
+    "tokens_akt": 5859.317683,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1zq96fn7etffj3aw7pfcxnuv6qm0uepqeyvcag5"
+  },
+  {
+    "moniker": "allway",
+    "tokens_akt": 3.744993,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1zrzzf42sxamex46kxx3sluva78c6cj5arvvaja"
+  },
+  {
+    "moniker": "SkyNet | Validators",
+    "tokens_akt": 86167.139133,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1zfcmwh56kmz4wqqg2t8pxrm228dx2c6hzh0ewm"
+  },
+  {
+    "moniker": "rednet_node",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1zjuarwfd9qd2ea850cjj33zdalpvn2e49x5n7m"
+  },
+  {
+    "moniker": "DLINODES.COM",
+    "tokens_akt": 6.402924,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1znssy9gdsrqgw7aetdyzr0s73y0a06ujs6qtpn"
+  },
+  {
+    "moniker": "Praetor App",
+    "tokens_akt": 1143786.726443,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1zn3efzs3dlxc8vz6yq2axrv68c8wqacxcuxt5t"
+  },
+  {
+    "moniker": "DO NOT DELEGATE HERE",
+    "tokens_akt": 60.797981,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1z5xmrfmxy8kw5l5f0cu9s96qc7v7pu7qmr42wa"
+  },
+  {
+    "moniker": "OnePiece",
+    "tokens_akt": 91.479773,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1zafuwpreasxnyanw9au7d8tlrs8rfj6zwzzcv3"
+  },
+  {
+    "moniker": "Cosmonaut Stakes \ud83e\udd16",
+    "tokens_akt": 258679.9738,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1rzauu3undh97yvdnj7wu2wwstm9wj8hee30rk0"
+  },
+  {
+    "moniker": "Sikka",
+    "tokens_akt": 2396175.155231,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1rwf9jukr8z0w0s9tqr7pyd23j8645whuqy3twe"
+  },
+  {
+    "moniker": "CroutonDigital",
+    "tokens_akt": 2282.684131,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1r0q2udxrttayt207ymw0t8msa94rd898276ryu"
+  },
+  {
+    "moniker": "EllioTrades",
+    "tokens_akt": 67850.723162,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1rjfspq8f4c2fjs2jr62uk6jrt0gzwmzf9t8ml7"
+  },
+  {
+    "moniker": "Sir Francis Node | 100% Carbon Compensated",
+    "tokens_akt": 1.81436,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1r54mdzv86dsymcestg0ur84wdsq5yfkpj8msaw"
+  },
+  {
+    "moniker": "SpacePotato",
+    "tokens_akt": 792520.12343,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1r4sevyvum9ppqlw75t6h0ex9j4j9dzydu8hczm"
+  },
+  {
+    "moniker": "AGE Network",
+    "tokens_akt": 8212.670303,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1reeywehc76ndcd3gkzaz3yasdk7nfxc0x7x4dc"
+  },
+  {
+    "moniker": "stakingfun",
+    "tokens_akt": 24.21803,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1yxzqkcj22xs0smcdgmanleet4rygyg73s8u6j9"
+  },
+  {
+    "moniker": "TRGCapital",
+    "tokens_akt": 0.999811,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1yv25k24cm078asju4mnl75w6jw3x5vfdscxhgw"
+  },
+  {
+    "moniker": "0% fee - CryptoStacking",
+    "tokens_akt": 0.999901,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1yddunpgahyjz4dtls7zz2swehncrqjeg5ffwf5"
+  },
+  {
+    "moniker": "16psyche",
+    "tokens_akt": 5446545.21441,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1ysywap8nllx5fn9had5qhywktnweuquvl4h85t"
+  },
+  {
+    "moniker": "Cosmic Validator | Auto Compound",
+    "tokens_akt": 244599.602187,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1ycv5n4fe0c5z22nr74t6v5g37glwc6vt6sjyft"
+  },
+  {
+    "moniker": "nebulamtltest",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1yuecj4z88cphj39jkc2dxhh3n2a6rau4ke2uun"
+  },
+  {
+    "moniker": "brane226",
+    "tokens_akt": 0.010202,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper19fnncfd0r7lful5mdgdpt5n9cck0jmwz7twnsp"
+  },
+  {
+    "moniker": "a41",
+    "tokens_akt": 0.001,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper19d22cfzw4t00ghv8j0thw32s40ndkegn37u2ge"
+  },
+  {
+    "moniker": "Bi23",
+    "tokens_akt": 517520.400672,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper19c28jnc6ylf0mlmme3xde74cwhunxac3m95778"
+  },
+  {
+    "moniker": "Nocturnal Labs",
+    "tokens_akt": 4748938.269148,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper196yqn478czwsumlrfdxz4vphmy6wwz0c6nz0ae"
+  },
+  {
+    "moniker": "MoveMove",
+    "tokens_akt": 2.000174,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1960sjvehrqxeyu9ypvg6uuluuwh5h2zft5da3r"
+  },
+  {
+    "moniker": "EmanAK",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper196jclpcrsncefwkj3kywa0pjfu8llu9dmxtl3f"
+  },
+  {
+    "moniker": "Relotis",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1975xzz85vmyrg7sqplx8l3h63g2upw9x3vxgky"
+  },
+  {
+    "moniker": "ECO Stake \ud83c\udf31 | REStake.app",
+    "tokens_akt": 3838408.437031,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1xgnd8aach3vawsl38snpydkng2nv8a4kqgs8hf"
+  },
+  {
+    "moniker": "[Sunsetting, please redelegate] Informal Systems",
+    "tokens_akt": 384090.044832,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1x20lytyf6zkcrv5edpkfkn8sz578qg5sjyfzx8"
+  },
+  {
+    "moniker": "toy",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1xvf23sasm0k63kd6052uhrjsgajjud50xmjzzc"
+  },
+  {
+    "moniker": "DefiGeek",
+    "tokens_akt": 21366.460158,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1xd2rr2f9lk2gkqwzflt5hmfqmcgg9qqx3d2yyz"
+  },
+  {
+    "moniker": "ValidatorNode",
+    "tokens_akt": 287176.994448,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1x0sdgtmvdl8d6mp85sqlsh63l07jkg3fz5uaz6"
+  },
+  {
+    "moniker": "Akash Af",
+    "tokens_akt": 253100.560965,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1xsgse9yump2j35nfut2tkwh7mdtca5ll6952qw"
+  },
+  {
+    "moniker": "Arcturian Tech",
+    "tokens_akt": 252275.315025,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1xjpsdlucnx6cusqtamevgmacuswyw28tqayt2y"
+  },
+  {
+    "moniker": "Girnaar-Nodes",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1xjd69qd0xgg79mdf3alpt8msjzh2rffzvncytl"
+  },
+  {
+    "moniker": "Onboarding",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper189gv0sqgmh54fc6kqkp2pc7ljsmx585zfcwshd"
+  },
+  {
+    "moniker": "HashKey Cloud",
+    "tokens_akt": 10316.50667,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper189w9p64x4lmwnap07kelrx7xsnnf0annk5fyp9"
+  },
+  {
+    "moniker": "Coinage x DAIC",
+    "tokens_akt": 692452.925825,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper18xmxazt7zjhhvzv7u49fs8hjy4w7l4dyvvxpuf"
+  },
+  {
+    "moniker": "Goatlabs",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper18guwytqq9qt8vukxlpna7qlwfmqpqm89ykq2jh"
+  },
+  {
+    "moniker": "Cosmostation",
+    "tokens_akt": 10538789.726569,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfkkw8gz"
+  },
+  {
+    "moniker": "kano",
+    "tokens_akt": 98487.677708,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper18d4et6jv6v3wwytkphjlyta74ky2umxqgp4qel"
+  },
+  {
+    "moniker": "TRGC",
+    "tokens_akt": 3.4997,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper18jvh3ad87mzyud008256dz8df7svhy3c7j5kd8"
+  },
+  {
+    "moniker": "ALTER | pathrocknetwork",
+    "tokens_akt": 286081.307342,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper18jukq0lpnhx5xtrwtmm9mj3xlfcfh5eg3k0kfn"
+  },
+  {
+    "moniker": "SNZPool",
+    "tokens_akt": 2.206489,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper18ntmup9k7nhsmrlv0ejj4rudl0eyjmex8qqc52"
+  },
+  {
+    "moniker": "Antrix Validators",
+    "tokens_akt": 2914.0,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper18u5gqc8c2hsm76xem8q4x9cx933c68gphd5dtx"
+  },
+  {
+    "moniker": " polkachu.com",
+    "tokens_akt": 2022210.815764,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pz5w0ry"
+  },
+  {
+    "moniker": "Dune",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1gpl0seev92u9gxkcwflxz6tdzjcf8vsn2mq6xn"
+  },
+  {
+    "moniker": "BTCS Inc. (Nasdaq: BTCS)",
+    "tokens_akt": 16546.278644,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1g9kggelx2h05lrmrla44dye59a77t4axqzlufy"
+  },
+  {
+    "moniker": "\tEZ Staking",
+    "tokens_akt": 634823.66373,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1gjtvly9lel6zskvwtvlg5vhwpu9c9wawua3kt9"
+  },
+  {
+    "moniker": "cotu",
+    "tokens_akt": 252.09152,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1g5qqaxu89qk54ex3zh6tus0a8ta2sj4fuejw9a"
+  },
+  {
+    "moniker": "Saxon",
+    "tokens_akt": 10.9989,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1g4fadr6lxydlann2dv20ndl268uvhypkcjzs9a"
+  },
+  {
+    "moniker": "DLINODES.COM#2",
+    "tokens_akt": 76.993362,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1gk47yl8y7ll5g0mdpuepx55hmw0r55es3y72k0"
+  },
+  {
+    "moniker": "KiKi Finance",
+    "tokens_akt": 70.307011,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1gcmu9hnfu7nlnyw34psq4acywezqp27y4ut02n"
+  },
+  {
+    "moniker": "Block Producer",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1fp47lt8t92nqrn39l8y8epsexwpk276t5l2mq4"
+  },
+  {
+    "moniker": "\u2705 CryptoCrew Validators",
+    "tokens_akt": 192213.226789,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1f9f5eccuuhzdw4uwde92ee40eke9fadhvez88g"
+  },
+  {
+    "moniker": "Dora Factory Closed",
+    "tokens_akt": 212.146323,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1fgk908aaksc8c5jvtj5ut6ctuctm6rd52wpjyg"
+  },
+  {
+    "moniker": "pospool",
+    "tokens_akt": 0.599944,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1fgcdddccnnmxxlkr77dknm0pduwh9lx7kuv693"
+  },
+  {
+    "moniker": "Neta DAO",
+    "tokens_akt": 36471.753696,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1f2jpv5sc6ur6yurq5w0t2chphrznpy8l86yse9"
+  },
+  {
+    "moniker": "Colossus",
+    "tokens_akt": 817501.678124,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1f0yyaa2ex29wgmh6an0fmdyputjnh9q4ve6een"
+  },
+  {
+    "moniker": "validatortest",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1f53fp8kk470f7k26yr5gztd9npzpczqvl786a5"
+  },
+  {
+    "moniker": "[ block pane ]",
+    "tokens_akt": 55933.078835,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1fkq09h2hutmd8nueyxgpt6qlpxa4nvf3jz8x63"
+  },
+  {
+    "moniker": "Crypto Lab Tech",
+    "tokens_akt": 75335.778456,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1fcwhweq2qtd5aj702v4pj0apfxt8nrgp7x3vc7"
+  },
+  {
+    "moniker": "WeStaking",
+    "tokens_akt": 513336.523788,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1f6eqjk9zjc7tkzmvdjnz589w0c4sjfx5hd9z3n"
+  },
+  {
+    "moniker": "acheron",
+    "tokens_akt": 4777.126839,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1f6uwd3rsv2h08ckvyyp3jugydrunqrvqe9trjr"
+  },
+  {
+    "moniker": "MoHeng Network",
+    "tokens_akt": 15.051555,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper129c0geltptycthu0738qlwpsqrdr992pq6dpc6"
+  },
+  {
+    "moniker": "MedasDigital",
+    "tokens_akt": 1.9998,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1288njyd0ldqm409r3cps80l66sxvwkndkfznhf"
+  },
+  {
+    "moniker": "VALIDATOR HUB",
+    "tokens_akt": 1e-06,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper128nkl26er3p98qw034mntd2ad6ugm5wd9l4djp"
+  },
+  {
+    "moniker": "Nodeify",
+    "tokens_akt": 357448.138321,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper12f02azela2tuz7nv3mpurhumtcr9ut6gj765zh"
+  },
+  {
+    "moniker": "Stakin by The Tie",
+    "tokens_akt": 181361.473032,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper12fnzqmnja37mf2y9m6r3dleq5n3jkz7pfkpzmy"
+  },
+  {
+    "moniker": "BlueFrenDAO",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper12vpxnug6ltl6323ytxpj7z8wrqswk46jxvmm34"
+  },
+  {
+    "moniker": "pfakno",
+    "tokens_akt": 0.08,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper124za8hsypswt4pw9t0v82q7c0vgg6qxyeejyca"
+  },
+  {
+    "moniker": "Passage",
+    "tokens_akt": 5001.462338,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper127tw5pjx0u63u5q27su9jpa659xk6ny5qfc64f"
+  },
+  {
+    "moniker": "Cypher Core",
+    "tokens_akt": 236717.459225,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1t2ek3whhllrlkq44phrc729kpw7dg9wkfguwsr"
+  },
+  {
+    "moniker": "Dweb.net",
+    "tokens_akt": 0.001,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1tt53juuu8g2ux67vgqzu9lkhfn9w6z739jfupq"
+  },
+  {
+    "moniker": "nodesforall",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1t5uh6ntqmlqe23zmcumgkds2hrtaqt34df7kqh"
+  },
+  {
+    "moniker": "Rockaway Staking",
+    "tokens_akt": 11.029099,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1thl5syhmscgnj7whdyrydw3w6vy800444lk8r5"
+  },
+  {
+    "moniker": "Nodeasy.com",
+    "tokens_akt": 678.22373,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1t6v7jmqtrsgjzlkgnpq7ttqg9aj9laq2uup0df"
+  },
+  {
+    "moniker": "EthicalNode",
+    "tokens_akt": 154102.825301,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1turxcqzc9khzly8xtp8zddlw49f25hchyhy0yg"
+  },
+  {
+    "moniker": "decomm",
+    "tokens_akt": 47612.124995,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1tuhcm32j4dphqvvt359mquhsa56t78msjd4f5c"
+  },
+  {
+    "moniker": "NexuSecurus",
+    "tokens_akt": 7721.450354,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1ta3zed9p4q2ynnpgrw7m63wqd9e4xg2pg2z7dm"
+  },
+  {
+    "moniker": "gunray",
+    "tokens_akt": 24.322396,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1t7gsxesaqkqxd8vleclsenvk8x3ysql3wptfzg"
+  },
+  {
+    "moniker": "Ping",
+    "tokens_akt": 289450.987208,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1vgstlgtsx4w80gphwgre0fcvc04lcnaelukvll"
+  },
+  {
+    "moniker": "Inactive: pls undelegate",
+    "tokens_akt": 118.253756,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1vksj7nqkd89uvc4kh8f5mh4f3235megmu583u9"
+  },
+  {
+    "moniker": "akash-producer-0",
+    "tokens_akt": 94.310208,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1drmer02fpdd0ux0lkph58luacwjl7r27us43m3"
+  },
+  {
+    "moniker": "euroakash",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1dyvz5tag36p4rk3lhj6spklz46mkvwjueuxm38"
+  },
+  {
+    "moniker": "trustednode",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1dxd6pstx528ke6wajpd97nddhstrp2008tdtct"
+  },
+  {
+    "moniker": "StakeLab.zone",
+    "tokens_akt": 562102.820172,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1dgxdep80th2qm8xxk8h3j3g93npsd3a8jg60gz"
+  },
+  {
+    "moniker": "StakeCapital",
+    "tokens_akt": 46.627264,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1dgd0mtak0wjggxf8usuuuxddc4krer8zk7h457"
+  },
+  {
+    "moniker": "O_Gnome",
+    "tokens_akt": 14.835292,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1dw26dwgtc9ts6t29pxaef67r59rqxhqmhjhvzv"
+  },
+  {
+    "moniker": "Entoro Digital Vault",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1dsalx7mlg00mqepnhk4309wmjemh8wxa9wlquz"
+  },
+  {
+    "moniker": "she-painted-fire-across-the-sky",
+    "tokens_akt": 17710.216546,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1d4wurq9pk9ez72vrly83x5ekl6ccna3ned43jj"
+  },
+  {
+    "moniker": "Psycho Node",
+    "tokens_akt": 44566.172881,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1d4sctjlcqjrfkxpp0a5hwsntfhzy7mz2lhujx8"
+  },
+  {
+    "moniker": "w3m",
+    "tokens_akt": 566.9433,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1dkfgwdnhn6t3pd970g3jt9ae4jye0rz0whpcuv"
+  },
+  {
+    "moniker": "Hoss Army ",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1wytxluj5u6609xdezff5kmdznmlqsm4hqewjvw"
+  },
+  {
+    "moniker": "MOVING TO NAKANODO.XYZ",
+    "tokens_akt": 722.707586,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1w9dlqy4nuykafvmv4l8p2gm0axpur6kuvtzspc"
+  },
+  {
+    "moniker": "[DECOMISSIONED] AUDIT.one",
+    "tokens_akt": 3125.840468,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1w8mk3f4dwgheq0fjlezrqg9a49gwazasfkl492"
+  },
+  {
+    "moniker": "Bit Cat\ud83d\udc31",
+    "tokens_akt": 5184.319121,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1wjd35e4ymmpfn2gnqju88qlcjtk5vlqgnd20gh"
+  },
+  {
+    "moniker": "Domination Finance",
+    "tokens_akt": 531.43414,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1wh2mmlp5lyle64lv0twvctdhz6eftxyhqs4cqs"
+  },
+  {
+    "moniker": "OmniFlix Network",
+    "tokens_akt": 1916354.317258,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1wuzqc83rdzfxxremcg9v6lt9adxfpz82au7pn5"
+  },
+  {
+    "moniker": "Vixello",
+    "tokens_akt": 229162.317558,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper10qfhy5upgaarnjmnv86h2h6yyuxc3aytw0ygac"
+  },
+  {
+    "moniker": "NorthCap",
+    "tokens_akt": 214928.285797,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper10px26ltrkmfpwhszvxlswe3l746a7e00jwryzr"
+  },
+  {
+    "moniker": "Kleomedes",
+    "tokens_akt": 429023.548765,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper10xzfwyvguf6eepfewjlptwzz2ylh37a25xzeqt"
+  },
+  {
+    "moniker": "ChainLayer",
+    "tokens_akt": 323655.94016,
+    "status": "BOND_STATUS_UNBONDING",
+    "operator": "akashvaloper10xv3mmp66rf95w0js8mc7ckm6dlwgcsmz76txt"
+  },
+  {
+    "moniker": "notional",
+    "tokens_akt": 1942.412566,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1083svrca4t350mphfv9x45wq9asrs60c0k5a63"
+  },
+  {
+    "moniker": "#coaction",
+    "tokens_akt": 188.365202,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper10gg3tglqzkugjxf2nwl5588nlm5je4enwzvys6"
+  },
+  {
+    "moniker": "",
+    "tokens_akt": 2e-06,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper102m9y6tnfndg262vc8uyktpd6wgr6fpzlw6z2k"
+  },
+  {
+    "moniker": "c29r3",
+    "tokens_akt": 519249.222142,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper10tl28erpf6sk3t5kjpu50t0dww3nhgprur62cx"
+  },
+  {
+    "moniker": "chainvibes",
+    "tokens_akt": 429190.297424,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper10wq46f8du234aqtlucv7h9jtrfuxmcnttf90s2"
+  },
+  {
+    "moniker": "DEHAZELABS",
+    "tokens_akt": 5.9994,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper10skjt34trte66rpeuyjl78ekgpanzw9tdj8vmp"
+  },
+  {
+    "moniker": "NosNode\ud83d\udd2e",
+    "tokens_akt": 74741.206248,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper10jm8fvdyqlj78w0j5nawc76wsn4pqmdxahs9aa"
+  },
+  {
+    "moniker": "PLEASE REDELEGATE",
+    "tokens_akt": 14259.256021,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper105nkdqgkj3hpgqss0elcec2t72ujg09w5mzhm8"
+  },
+  {
+    "moniker": "ascendex",
+    "tokens_akt": 0.100001,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper104v85kxgw4zkuzf8wg836zpnhzqm4qksay7dn9"
+  },
+  {
+    "moniker": "Easy 2 Stake",
+    "tokens_akt": 274872.118315,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper10he324nv3ujvgt23af4g9x6cs6lwz9nez5c24a"
+  },
+  {
+    "moniker": "BoxedCloud.net",
+    "tokens_akt": 2173.989511,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper10ef3kahuyrjf8zgjclfynm3mpuvtu9xma3n2d6"
+  },
+  {
+    "moniker": "BearsNode",
+    "tokens_akt": 99.99,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper10uuge9xg28e032dx0zjeq77w2kuvuch6jx0kdx"
+  },
+  {
+    "moniker": "PanteraStaking",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper10lvm5jm97d72xg8s9xfpf9trl30cu3ne7087n2"
+  },
+  {
+    "moniker": "Deactivated. Pls Re-delegate",
+    "tokens_akt": 3872.512212,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1sqrcxk0zxx6uwpjl5ylug2pd467vyxzt4sqze7"
+  },
+  {
+    "moniker": "closed",
+    "tokens_akt": 0.499951,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1sr60s8zfusga0r0kjmxqqvxt0kk4503wf373wk"
+  },
+  {
+    "moniker": "Oldcat - airdrop DHK every month",
+    "tokens_akt": 147767.304784,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1s9q9ewnpr3jd89lnrme3yjnqdadhpzxdz3q7lf"
+  },
+  {
+    "moniker": "Nosce",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1sxxm7n0pmy7ywkqzlv62m5yjxxn6rqmm2lzrlp"
+  },
+  {
+    "moniker": "NoDumpNode",
+    "tokens_akt": 809409.811027,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1sfdl2s9h6mh8k2c7vjw2l4fx69vyt4xelpmnzk"
+  },
+  {
+    "moniker": " AutoStake \ud83d\udee1\ufe0f Slash Protected",
+    "tokens_akt": 2056124.011049,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1strxz39h5fapp7zvn5mvf8xm0ea9aajqjstv6g"
+  },
+  {
+    "moniker": "RydOne",
+    "tokens_akt": 1.0,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1stth5578c4zejfsjq4zeme329nfa9cr8k3ghff"
+  },
+  {
+    "moniker": "Stake Shark",
+    "tokens_akt": 255696.613349,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1snzwjhgtdxnp8jl539fu33457d9y5ye0prpk78"
+  },
+  {
+    "moniker": "Kalia Network",
+    "tokens_akt": 286217.241412,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1skc28275u3dzwggtj8vmlqw3xpl86ry0r9tc5p"
+  },
+  {
+    "moniker": "kooltek68",
+    "tokens_akt": 1566.523466,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper13th3pfkmjqpdegvz9c569y0ashwmyp3cn3e6jc"
+  },
+  {
+    "moniker": "PLEASE REDELEGATE-CLOSED",
+    "tokens_akt": 9339.243201,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1355pqth2726cxvv6uevl5rvfq2ud9eypcryuue"
+  },
+  {
+    "moniker": "",
+    "tokens_akt": 2397.038739,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1340p98mw30khq58kk0tm04hjmsvf04nuryjv6d"
+  },
+  {
+    "moniker": "Unity Farms",
+    "tokens_akt": 373628.583545,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper136ygq80ek84ffdse9x585jlkycjundwdh492a3"
+  },
+  {
+    "moniker": "CosmosMan | AiC DAO",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper13af4j2av5a0g3nf79gy96dyuppnsmcm0fe7wz3"
+  },
+  {
+    "moniker": "GATA HUB",
+    "tokens_akt": 167729.29339,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1jr62umvv72q233e2ew8fkaf0x9yhzfqef42kak"
+  },
+  {
+    "moniker": "cznode",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1jy7ej9t6r8q5dyjrst88nt9rjgkdltgx97wfvd"
+  },
+  {
+    "moniker": "5.0 Validator | Airdrop",
+    "tokens_akt": 561715.728176,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1j9pajxv4x5ye7wvdcj57g6mvtnsmk9ztgz0htr"
+  },
+  {
+    "moniker": "Quasarch",
+    "tokens_akt": 1374666.037767,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1j94vrql3d06065hg3geauf6mpy3efsylxfvp5g"
+  },
+  {
+    "moniker": "Let's Node!",
+    "tokens_akt": 49.995,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1jtnvqq2knzdu7vs4d60segud98kvjxszn2jnlx"
+  },
+  {
+    "moniker": "black lodge",
+    "tokens_akt": 2e-06,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1jdq7efmzmc8smscwmaw77vul7wptww74uqtkk9"
+  },
+  {
+    "moniker": "europlots",
+    "tokens_akt": 1114496.592884,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1jwchhtn7m0esyt6jgzrgv4ltsyy2kvrxsv0l4u"
+  },
+  {
+    "moniker": "SpiderNode",
+    "tokens_akt": 0.999801,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1j3mhfp0p6unpz0na2ju30wkadtfwzdrexzw092"
+  },
+  {
+    "moniker": "Infer Network",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1j5ptpplget8ufw5gnryzc2fnjgtrm77ytn5d4d"
+  },
+  {
+    "moniker": "Octopos",
+    "tokens_akt": 8.1647,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1jhraz4ftxl2pd37knmeua7wjxghmlskwlytnxf"
+  },
+  {
+    "moniker": "Baset",
+    "tokens_akt": 404.356697,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1jet63mn67rgq3jkkexxfkzyt8h6n7gzy74hyvh"
+  },
+  {
+    "moniker": "BridgeTower",
+    "tokens_akt": 2441.621065,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1nxnpgzwfm25pf2dyqzs7c9st6s8rcenlt82uyz"
+  },
+  {
+    "moniker": "moniker-from-the-guide",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1n8nmxznt0nn5dj6exf50l5nzqllfaqvd8nz4tm"
+  },
+  {
+    "moniker": "ushakov",
+    "tokens_akt": 14800.644336,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1nd8fjym90f6lqu25xkhqxp7h9f8fx0hq2we4vd"
+  },
+  {
+    "moniker": "EllioTrades NEW",
+    "tokens_akt": 452684.858675,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1nd7sgg7g5xa38zp27mfqf2vz7x6d9f4npt9ptt"
+  },
+  {
+    "moniker": "TheDigitalEmpireV2",
+    "tokens_akt": 0.999901,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1nwrjn0hq759qs6ycnksjausywtlhnwn6eyhsdf"
+  },
+  {
+    "moniker": "SHEA Staking",
+    "tokens_akt": 4.464453,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1n0pkctnrr08cpsucre9xgu3dmrwvmq5c4aadvg"
+  },
+  {
+    "moniker": "greendino",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1ns3cr0um838r2nqt7vkds95def4a0jencr3f42"
+  },
+  {
+    "moniker": "jazza",
+    "tokens_akt": 484.800801,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1n3yw73gr5c0t98z0jy44cyls9eeftuvqdf305z"
+  },
+  {
+    "moniker": "0base.vc",
+    "tokens_akt": 6054.651262,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4cyw7r4"
+  },
+  {
+    "moniker": "yokinfx",
+    "tokens_akt": 9.5491,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1nuwu2h5ltfywskzymtdaykmvq60dg7s7w7tqxn"
+  },
+  {
+    "moniker": "Dorminik",
+    "tokens_akt": 176846.88968,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1nuhgd0660umrvkrghvycsqaqrelt4yygrlzles"
+  },
+  {
+    "moniker": "ontologi",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper159n02ny2k0gevzhfjtl4nemzl2kxaz78qfdm0c"
+  },
+  {
+    "moniker": "Chainflow",
+    "tokens_akt": 430.178948,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper158294p92kq0u372y26r3ps8veafx02j37ltvke"
+  },
+  {
+    "moniker": "secondary06 (Operated by Imperator.co)",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper15gpe5xrs90l9zl7u6rca5utnj0v0mrwy3nzxdn"
+  },
+  {
+    "moniker": "Bitoven",
+    "tokens_akt": 197726.385814,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper153a3745hrcswmsdx7wwaqqva7lkreu5pa5ccfx"
+  },
+  {
+    "moniker": "TeamFox",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper15nfzgcs8upfz0586prlt67m9xfe0gkz83s6d7y"
+  },
+  {
+    "moniker": "MANTRA",
+    "tokens_akt": 6268.504432,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper15hkyzzjpsshnxj7ghjtzfvcwkcl93wzvwk5fkl"
+  },
+  {
+    "moniker": "UNDELEGATE FROM HERE",
+    "tokens_akt": 6712.806267,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper14qmuhtfqr234j6kt5zjlemjm64q3dwvw25qwqq"
+  },
+  {
+    "moniker": "WolfEdge",
+    "tokens_akt": 0.999903,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper149j3pd4fnnm7xuke76hshhd8rsmkkgsdgdrg46"
+  },
+  {
+    "moniker": "REDELEGATE, CLOSING Akash Blockscope \ud83c\udf31 server",
+    "tokens_akt": 3.592653,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper14gqv6la50g80ax4m3gft9snhpfwe8upynnl7pw"
+  },
+  {
+    "moniker": " Lavender.Five Nodes \ud83d\udc1d",
+    "tokens_akt": 1795338.766403,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57ztqs903"
+  },
+  {
+    "moniker": "DO_NOT_DELEGATE_HERE",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper14s4tlmlvy0vsps05csf8l80m7nqxmau3dfh330"
+  },
+  {
+    "moniker": "w3coins",
+    "tokens_akt": 18471.66605,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper14jz04wwvwkpjzezq8zvrl5yv4qq3p5lqct7plh"
+  },
+  {
+    "moniker": "karukera",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper14j8cfrgz9tzk7z6l6wgq07xj2m8anjqvq0x35a"
+  },
+  {
+    "moniker": " REDELEGATE ELSEWHERE - SHUTTING DOWN",
+    "tokens_akt": 1.100093,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper145v4ru4wssh32ds2e29yr7qkjnd2kf40e9j6vx"
+  },
+  {
+    "moniker": "Forbole",
+    "tokens_akt": 5777815.755284,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper14kn0kk33szpwus9nh8n87fjel8djx0y0uzn073"
+  },
+  {
+    "moniker": "Saxon_Kava",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper14c3jre26jl5hg5dsvq584ex2ypxl4e9h6a4ed5"
+  },
+  {
+    "moniker": "exinpool",
+    "tokens_akt": 76.087499,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper146697wektfxcjnjx8ep5036cqw84u35rrs6ufc"
+  },
+  {
+    "moniker": "jetlife",
+    "tokens_akt": 440.037491,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1466v4vuvm6uqkyc9nzqh270qvlstzswjqxn29m"
+  },
+  {
+    "moniker": "Cloudmos",
+    "tokens_akt": 2752297.803116,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper14mt78hz73d9tdwpdvkd59ne9509kxw8yj7qy8f"
+  },
+  {
+    "moniker": "Meria",
+    "tokens_akt": 1190654.344721,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper14mdu3xwpdr4qkayuv0aut5j6l9lgegc4hnvm9e"
+  },
+  {
+    "moniker": "Ariel Akash Insider | Powered by NextNet.Works",
+    "tokens_akt": 441.613891,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1ky0ldz7hcza3h6hxf6grvcq25qyhu3drhzlxlw"
+  },
+  {
+    "moniker": "\u22a4\u22a5",
+    "tokens_akt": 770.255456,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1kg99k8wd67r0ffxwavgnxup7yk46rvtty4r9ha"
+  },
+  {
+    "moniker": "Atomstaking",
+    "tokens_akt": 313107.492982,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1kgnqwn259lalyx8p0yxdvvh0f65vczx4ngcmw8"
+  },
+  {
+    "moniker": "monolith",
+    "tokens_akt": 1862.015706,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1ksfwd5h3tcd9kk8seftpavvdfdgkvvv2wux25h"
+  },
+  {
+    "moniker": "Stakewolle.com | Auto-compound",
+    "tokens_akt": 178132.424098,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1ksu368eh54vcqzruqk42dsnx88hvk8px09ws7q"
+  },
+  {
+    "moniker": "\ud83c\udd72\ud83c\udd7e\ud83c\udd86 \ud83c\udd7b\ud83c\udd74\ud83c\udd85\ud83c\udd74\ud83c\udd7b \ud83d\udc2e",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1k4gdre9z7j7z5lu54ryz6u0y42mw4v5futc43w"
+  },
+  {
+    "moniker": "akashbest",
+    "tokens_akt": 2.499753,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1kkvudch7d8k6sh2jphuwpqhpdhq4ckth9jd0yx"
+  },
+  {
+    "moniker": "POSTHUMAN \ud83e\uddec StakeDrop",
+    "tokens_akt": 278204.232083,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk"
+  },
+  {
+    "moniker": "HEXXAGON",
+    "tokens_akt": 9.999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1hgh0pgpjmvcfsyl3qg7axux0fx4q469mf90265"
+  },
+  {
+    "moniker": "Anonstake",
+    "tokens_akt": 1543.701037,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1htn7qxhassswa4lu4d0r4vwszgt53djmnduw9a"
+  },
+  {
+    "moniker": "Architect Nodes",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1hvhyunq7qvykzvrcnhjj4xnkcla58xuscv406a"
+  },
+  {
+    "moniker": "Exidio",
+    "tokens_akt": 13841.615758,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1hw6k6zlcwka5fakdj96gex420czeepaqxndt4p"
+  },
+  {
+    "moniker": "Blocc Dynamics",
+    "tokens_akt": 724389.423407,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1h0lfv7axpx6h6xz0k54q3vkvmlw2yp93cknhum"
+  },
+  {
+    "moniker": "Jormungand | 0y",
+    "tokens_akt": 4419036.936949,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1hme3yu8c93jnhv74mcht7agwe5thp8qpgaqffj"
+  },
+  {
+    "moniker": "gigachad",
+    "tokens_akt": 6.870878,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1cy2fkq04yh7zm6v52dm525pvx0fph7ed3k0zau"
+  },
+  {
+    "moniker": "Nansen | Deprecating - Please redelegate",
+    "tokens_akt": 805500.032778,
+    "status": "BOND_STATUS_UNBONDING",
+    "operator": "akashvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvp4sl2q"
+  },
+  {
+    "moniker": "Undelegate Please",
+    "tokens_akt": 571.09382,
+    "status": "BOND_STATUS_UNBONDING",
+    "operator": "akashvaloper1cv8r8za5nayd7v5sjp2crmkezwtdzm74yxgfag"
+  },
+  {
+    "moniker": "Allnodes",
+    "tokens_akt": 2331721.712487,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1c07ughj0a396vdg7t9edy2wyrzr90p02yhl7p8"
+  },
+  {
+    "moniker": "Zenscape",
+    "tokens_akt": 9.999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1c4mt0pxxrdtfucypdew8ncna0926wk4whvpzpx"
+  },
+  {
+    "moniker": "MMS",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1ck0udghg5dp2n28znn9y85zrfr0z8eyk9zruru"
+  },
+  {
+    "moniker": "Active Nodes",
+    "tokens_akt": 809658.945561,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1cke3ja95gkg4drpf28vt454k7pt0pvcmm56lqj"
+  },
+  {
+    "moniker": "p10node",
+    "tokens_akt": 1.2499,
+    "status": "BOND_STATUS_UNBONDING",
+    "operator": "akashvaloper1cc23zg4hsgj7h4sv5w2xlcwmlg4tamf4d3q6p2"
+  },
+  {
+    "moniker": "hydrogen18",
+    "tokens_akt": 645.523681,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1cuy9pqlaw0tgjnslmnzgx5x6ql050e4lq0ym6t"
+  },
+  {
+    "moniker": "GreenStake One",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDING",
+    "operator": "akashvaloper1cuuzu7y7rn3ryuekhxls898m9r8dnnehppyggc"
+  },
+  {
+    "moniker": "PrithviDevs",
+    "tokens_akt": 447940.747933,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1clf6h894yeccf7xf08rkckwd5mq7pyutx5mfuk"
+  },
+  {
+    "moniker": "Quebec",
+    "tokens_akt": 3.220006,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1cldeweqgkh3ttx72ceyk3dp50d5pn3cevtn2rs"
+  },
+  {
+    "moniker": "Needlecast Labs",
+    "tokens_akt": 13230.897743,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1eq5d042g6r4vuzsgr0qhu962pn9h2kkcyut0ne"
+  },
+  {
+    "moniker": "ChainodeTech",
+    "tokens_akt": 551440.991032,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1ep8nr7d383ng7pndvl2u9j6c9tdkwyr6dvtn2n"
+  },
+  {
+    "moniker": "Simply Staking",
+    "tokens_akt": 348788.967294,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1epnrvkylqpk0f2d3us3cvx7x9tlycz42lwf0v6"
+  },
+  {
+    "moniker": "RVRS",
+    "tokens_akt": 1e-06,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1ep7msjjmwk06qz68hwsysnpycrwgl7dnsfyt7p"
+  },
+  {
+    "moniker": "Frens (\ud83e\udd1d,\ud83e\udd1d)",
+    "tokens_akt": 379494.385839,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5wytk3dw"
+  },
+  {
+    "moniker": "akaikumo",
+    "tokens_akt": 22587.931625,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1ejck8hh5k72hydn4axqza3ufsa9nhdk53w5eja"
+  },
+  {
+    "moniker": "Imperator.co",
+    "tokens_akt": 922193.081714,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1enhj36w6clcm5fjnp87jnffnkthfux2uj88l6h"
+  },
+  {
+    "moniker": "Huobi",
+    "tokens_akt": 4231.277995,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1ehwqgm2ra0cq68hd9mz93rrgn2yarz75m75y9q"
+  },
+  {
+    "moniker": "Zena",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDING",
+    "operator": "akashvaloper1emj9h8j8fqras7tp0w6ql2mcc90fxk4xlsnt7q"
+  },
+  {
+    "moniker": "Chorus One",
+    "tokens_akt": 4403076.834766,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper16pj5gljqnqs0ajxakccfjhu05yczp987ptmjx9"
+  },
+  {
+    "moniker": "Cerebro \ud83d\ude80",
+    "tokens_akt": 3356.139257,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper163zp6lyavlg7r2cru8djmv6d8qnpvlm0nsnr6s"
+  },
+  {
+    "moniker": "DO NOT STAKE",
+    "tokens_akt": 61136.996952,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper16j3ge9lkpgtdkzntlja08gt6l63fql60xdupxq"
+  },
+  {
+    "moniker": "Consensus One",
+    "tokens_akt": 175151.19701,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper16u4dqpntg6qv738qqcu4fun2jfvsnf8na7lssq"
+  },
+  {
+    "moniker": "UNBONDING",
+    "tokens_akt": 21964.282632,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1mp0t9f4lpgu2tqa2maxk3vp8kugn8meyua86fh"
+  },
+  {
+    "moniker": "Jackal Labs",
+    "tokens_akt": 1155.137207,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1mryswr20mxltwhlqulsk0hnscmmxw32th0szkv"
+  },
+  {
+    "moniker": "inactive",
+    "tokens_akt": 144.252271,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1mvrm0lzjukrcw3n04rsx7dludrq8rc7vfj73p0"
+  },
+  {
+    "moniker": "Staky.io",
+    "tokens_akt": 7.9992,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1makazw7jf6g48mp8kfr003ucgec43m5a2lxkdk"
+  },
+  {
+    "moniker": "cyphermines",
+    "tokens_akt": 111.699664,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1m7d0d3mqwaw6as2lmw87tkxtdg3nuws0zns64a"
+  },
+  {
+    "moniker": "Atlas Staking",
+    "tokens_akt": 47914.394016,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1upg7lykc7sxkp045p5f4xmqclxczh5yfmapfdl"
+  },
+  {
+    "moniker": "test",
+    "tokens_akt": 1.9998,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1u8ysakklkzjg4lkm8jmryqgewkff75lt7eycwh"
+  },
+  {
+    "moniker": "WhisperNode \ud83e\udd10",
+    "tokens_akt": 3392.097876,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1u8l950ustppklscdpeyhrw6ed4tzu49vpksmun"
+  },
+  {
+    "moniker": "The Expanse | Infinite Possibilities",
+    "tokens_akt": 2834.577169,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1uv6q3kfprh35u47783mxc22xmjkvtfajd2ke7d"
+  },
+  {
+    "moniker": "astra.voyage",
+    "tokens_akt": 1.0427,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1uvl2g9nd8qttjjyxjs30x7fj878d3wt43yua69"
+  },
+  {
+    "moniker": "0xDEADBEEF",
+    "tokens_akt": 10.171911,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1u3j5rgr50wtwfc4a4v5qzf4le7xy65rsauawfd"
+  },
+  {
+    "moniker": "Snow Fall",
+    "tokens_akt": 58111.713186,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1uhwy40w2jg22m2yup4qepqa420x2tfz06xs3lx"
+  },
+  {
+    "moniker": "Smart Stake",
+    "tokens_akt": 1246001.882517,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1uckq4fddrwftu6pv4stsm9ffthxkgathezgznj"
+  },
+  {
+    "moniker": "Stake Frites \ud83e\udd69 \ud83c\udf5f",
+    "tokens_akt": 223154.932075,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1uepjmgfuk6rnd0djsglu88w7d0t49lmlsqkfuf"
+  },
+  {
+    "moniker": "StakeMonkey",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDING",
+    "operator": "akashvaloper1uajdg5rlft02cfg5rpx3jmhrjclz2085y5q69w"
+  },
+  {
+    "moniker": "DO NOT DELEGATE",
+    "tokens_akt": 7735.207132,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1u7k6tpyvtw25we4mnu6ld6cjs3p8f0256v7g4z"
+  },
+  {
+    "moniker": "Komichain.com",
+    "tokens_akt": 27.481787,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1a9eq5qvv3zq3pwlmv705dcjfa69z3ekrphqxac"
+  },
+  {
+    "moniker": "GlacierLuo",
+    "tokens_akt": 59.994008,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1ax4v0gxxesjxau4hvvt0z8xefml5ylys89ag7l"
+  },
+  {
+    "moniker": "Decloud Nodes Lab",
+    "tokens_akt": 1019330.80367,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1ax4c40gn3s74xxm75g6cmts3fw7rq64gq0kaj4"
+  },
+  {
+    "moniker": "Skynet",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDING",
+    "operator": "akashvaloper1afmlwtenkpnww80slevgry3rl5xkh22mk5dpet"
+  },
+  {
+    "moniker": "Foundry-USA",
+    "tokens_akt": 1370.686274,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1awguwfrm22sh7yewkywrjujukc75a3r3fveapz"
+  },
+  {
+    "moniker": "VaultStaking",
+    "tokens_akt": 27227.06815,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1a0wt033eds6lk4y0tucwju2x3weglxzg7vesku"
+  },
+  {
+    "moniker": "Masternode24.de | 1% commission",
+    "tokens_akt": 1932.299663,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1ajqsyvdzl06p8nsn47fk9t906dhxg3jskry38k"
+  },
+  {
+    "moniker": "Wetez",
+    "tokens_akt": 390614.03044,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1anegjnv5uq4l6wfa9v4sr53sth7acvzknjrqj7"
+  },
+  {
+    "moniker": "Former Moultrie Audits: Inactive",
+    "tokens_akt": 1434.808555,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1a50dqn03hpnf2hgrv3da4y8jqnvdz55h68m67p"
+  },
+  {
+    "moniker": "Citadel.one",
+    "tokens_akt": 2511857.940614,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1a4zxtnu9k0zpl6p5hmduc5zz7xrm2dz8vm2ey8"
+  },
+  {
+    "moniker": "GStaking",
+    "tokens_akt": 23.308346,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1auagpv6j423eunxtm628sk32jyr9hnkeurm24a"
+  },
+  {
+    "moniker": "STAKIN-OLD",
+    "tokens_akt": 100.0,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1alkwmytr83yrjm4x03kgcfqdh3fznt44cm7dd8"
+  },
+  {
+    "moniker": "HighStakes.ch | Daily Airdrops",
+    "tokens_akt": 261785.146251,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper17rzdt88vawuuq797jffk0dc9daw4vkgpumh60w"
+  },
+  {
+    "moniker": "Kahuna",
+    "tokens_akt": 1160229.599089,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper17r0cp9zrtkvzlz7a2r09gmdxwqfyje98aup3je"
+  },
+  {
+    "moniker": "xPool",
+    "tokens_akt": 0.006819,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper17y5tydaww0lv7ty5ru4x7zzr7s32ymy5qpwvqx"
+  },
+  {
+    "moniker": "TRGC (By Liquify)",
+    "tokens_akt": 117857.405663,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper17jl24w9qft3u6sy3gc053r40jq3r6qgryq4djy"
+  },
+  {
+    "moniker": "SG-1",
+    "tokens_akt": 912574.779491,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper17np2qshe35wsm63qeqz4j2azzerfqfav4qkhle"
+  },
+  {
+    "moniker": "Aurora Staking ",
+    "tokens_akt": 352726.230241,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper175llqyjvxfle9qwt740vm46772dzaznpg24jws"
+  },
+  {
+    "moniker": "decommissioned_redelegate",
+    "tokens_akt": 173.985205,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1763hxagwh8lnpwm89jnyrqh44tjh922erx2xzh"
+  },
+  {
+    "moniker": "calibr",
+    "tokens_akt": 2.9997,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper17angdl4y70wgajv65klpmlp8r7ap086r4jh0dt"
+  },
+  {
+    "moniker": "Crypto and Coffee",
+    "tokens_akt": 521993.001811,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1lpykm8ru865ca8hy392uvtnpeqacj3tvwz9f2n"
+  },
+  {
+    "moniker": "node101",
+    "tokens_akt": 0.5,
+    "status": "BOND_STATUS_UNBONDING",
+    "operator": "akashvaloper1lrzxwu4dmy8030waevcpft7rpxjjz26cr0mg7w"
+  },
+  {
+    "moniker": "Chandra Station",
+    "tokens_akt": 5147974.07461,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1lxh0u07haj646pt9e0l2l4qc3d8htfx5kk698d"
+  },
+  {
+    "moniker": "owlstake",
+    "tokens_akt": 0.9999,
+    "status": "BOND_STATUS_UNBONDING",
+    "operator": "akashvaloper1lws46w9dej454n7t5w45075x2ul92e7lf68978"
+  },
+  {
+    "moniker": "dehazelabs",
+    "tokens_akt": 9.999,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1l0x37nxua9cp5vaxdf659zj3pd725dwvn68l8x"
+  },
+  {
+    "moniker": "Army IDs",
+    "tokens_akt": 585788.351221,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1lscckv3l204makmgewun4chx3y379esju54c4q"
+  },
+  {
+    "moniker": "ParallelNode",
+    "tokens_akt": 405.365487,
+    "status": "BOND_STATUS_BONDED",
+    "operator": "akashvaloper1l52l9q4j36eppmapc75f7fpnu0fj7782tsktwf"
+  },
+  {
+    "moniker": "strangelove",
+    "tokens_akt": 15981.150011,
+    "status": "BOND_STATUS_UNBONDED",
+    "operator": "akashvaloper1lhenngdge40r5thghzxqpsryn4x084m9c50tcq"
+  }
+]

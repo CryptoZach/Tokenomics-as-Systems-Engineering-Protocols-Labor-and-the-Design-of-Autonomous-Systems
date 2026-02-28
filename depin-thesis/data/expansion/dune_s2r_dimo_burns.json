@@ -1,0 +1,67 @@
+{
+  "execution_id": "01KHTJJ5TSV1V42Z84553JTHC8",
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-02-19T09:09:13.180046Z",
+  "expires_at": "2026-05-20T09:09:24.442078Z",
+  "execution_started_at": "2026-02-19T09:09:14.475732Z",
+  "execution_ended_at": "2026-02-19T09:09:24.442067Z",
+  "result": {
+    "rows": [
+      {
+        "dimo_burned": 21530485.758111216,
+        "dimo_minted": 1757080.9917294583,
+        "month": "2025-08-01 00:00:00.000 UTC"
+      },
+      {
+        "dimo_burned": 24107652.50009985,
+        "dimo_minted": 1453420.514182503,
+        "month": "2025-09-01 00:00:00.000 UTC"
+      },
+      {
+        "dimo_burned": 3166259.788266621,
+        "dimo_minted": 500502.174464224,
+        "month": "2025-10-01 00:00:00.000 UTC"
+      },
+      {
+        "dimo_burned": 8295311.001970293,
+        "dimo_minted": 8107479.427551668,
+        "month": "2025-11-01 00:00:00.000 UTC"
+      },
+      {
+        "dimo_burned": 1145264.2732081423,
+        "dimo_minted": 1205548.4631767708,
+        "month": "2025-12-01 00:00:00.000 UTC"
+      },
+      {
+        "dimo_burned": 1881503.340300231,
+        "dimo_minted": 909599.0608595291,
+        "month": "2026-01-01 00:00:00.000 UTC"
+      },
+      {
+        "dimo_burned": 723485.2518465306,
+        "dimo_minted": 417901.6275448745,
+        "month": "2026-02-01 00:00:00.000 UTC"
+      }
+    ],
+    "metadata": {
+      "column_names": [
+        "month",
+        "dimo_burned",
+        "dimo_minted"
+      ],
+      "column_types": [
+        "timestamp(3) with time zone",
+        "double",
+        "double"
+      ],
+      "row_count": 7,
+      "result_set_bytes": 168,
+      "total_row_count": 7,
+      "total_result_set_bytes": 168,
+      "datapoint_count": 21,
+      "pending_time_millis": 1295,
+      "execution_time_millis": 9966
+    }
+  }
+}

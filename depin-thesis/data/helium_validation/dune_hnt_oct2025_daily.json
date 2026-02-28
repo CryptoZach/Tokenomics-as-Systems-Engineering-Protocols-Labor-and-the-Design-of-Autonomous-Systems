@@ -1,0 +1,592 @@
+{
+  "execution_id": "01KHT9G8MK30R3VRGAG5332W3T",
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-02-19T06:30:53.33154Z",
+  "expires_at": "2026-05-20T06:31:00.18783Z",
+  "execution_started_at": "2026-02-19T06:30:55.105602Z",
+  "execution_ended_at": "2026-02-19T06:31:00.187822Z",
+  "result": {
+    "rows": [
+      {
+        "action": "burn",
+        "day": "2025-10-01 00:00:00.000 UTC",
+        "n_txns": 4462,
+        "total_hnt": 1201.58834196
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-01 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-01 00:00:00.000 UTC",
+        "n_txns": 62537,
+        "total_hnt": 2623721.2594345678
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-02 00:00:00.000 UTC",
+        "n_txns": 6138,
+        "total_hnt": 3201.0997258499997
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-02 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-02 00:00:00.000 UTC",
+        "n_txns": 40356,
+        "total_hnt": 2719717.9663005914
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-03 00:00:00.000 UTC",
+        "n_txns": 5245,
+        "total_hnt": 1202.172811599999
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-03 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-03 00:00:00.000 UTC",
+        "n_txns": 28388,
+        "total_hnt": 2111344.54494478
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-04 00:00:00.000 UTC",
+        "n_txns": 3194,
+        "total_hnt": 1198.7752104899994
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-04 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-04 00:00:00.000 UTC",
+        "n_txns": 26326,
+        "total_hnt": 1060996.49406329
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-05 00:00:00.000 UTC",
+        "n_txns": 1384,
+        "total_hnt": 39039.40526552998
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-05 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-05 00:00:00.000 UTC",
+        "n_txns": 30459,
+        "total_hnt": 1052347.3896904697
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-06 00:00:00.000 UTC",
+        "n_txns": 3159,
+        "total_hnt": 580491.0400476397
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-06 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-06 00:00:00.000 UTC",
+        "n_txns": 39122,
+        "total_hnt": 2258873.354116171
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-07 00:00:00.000 UTC",
+        "n_txns": 1582,
+        "total_hnt": 1040.9105873500002
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-07 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-07 00:00:00.000 UTC",
+        "n_txns": 32774,
+        "total_hnt": 4673133.781248258
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-08 00:00:00.000 UTC",
+        "n_txns": 4355,
+        "total_hnt": 1641.3120452899993
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-08 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.780821900004
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-08 00:00:00.000 UTC",
+        "n_txns": 24600,
+        "total_hnt": 4204516.128403607
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-09 00:00:00.000 UTC",
+        "n_txns": 2340,
+        "total_hnt": 1305.1234615000003
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-09 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-09 00:00:00.000 UTC",
+        "n_txns": 58054,
+        "total_hnt": 2443389.3800597615
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-10 00:00:00.000 UTC",
+        "n_txns": 1589,
+        "total_hnt": 1039.2230689099997
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-10 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-10 00:00:00.000 UTC",
+        "n_txns": 61126,
+        "total_hnt": 3979509.9848800804
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-11 00:00:00.000 UTC",
+        "n_txns": 2388,
+        "total_hnt": 1086.65080731
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-11 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-11 00:00:00.000 UTC",
+        "n_txns": 55261,
+        "total_hnt": 1994348.513014121
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-12 00:00:00.000 UTC",
+        "n_txns": 3237,
+        "total_hnt": 1063.7826442399999
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-12 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-12 00:00:00.000 UTC",
+        "n_txns": 41997,
+        "total_hnt": 2390127.7116687708
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-13 00:00:00.000 UTC",
+        "n_txns": 4773,
+        "total_hnt": 1143.7011638200001
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-13 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-13 00:00:00.000 UTC",
+        "n_txns": 37804,
+        "total_hnt": 5043172.937656241
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-14 00:00:00.000 UTC",
+        "n_txns": 3149,
+        "total_hnt": 1089.7198432299997
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-14 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-14 00:00:00.000 UTC",
+        "n_txns": 33733,
+        "total_hnt": 1108599.66002479
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-15 00:00:00.000 UTC",
+        "n_txns": 2703,
+        "total_hnt": 1169.0034225000002
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-15 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-15 00:00:00.000 UTC",
+        "n_txns": 31207,
+        "total_hnt": 4681059.17748127
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-16 00:00:00.000 UTC",
+        "n_txns": 2709,
+        "total_hnt": 1340.6878053900002
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-16 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-16 00:00:00.000 UTC",
+        "n_txns": 29213,
+        "total_hnt": 3490512.6902153706
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-17 00:00:00.000 UTC",
+        "n_txns": 4025,
+        "total_hnt": 1105.6431929999997
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-17 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-17 00:00:00.000 UTC",
+        "n_txns": 45772,
+        "total_hnt": 19548789.71187638
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-18 00:00:00.000 UTC",
+        "n_txns": 3122,
+        "total_hnt": 1094.89490223
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-18 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-18 00:00:00.000 UTC",
+        "n_txns": 34601,
+        "total_hnt": 2071566.7709493102
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-19 00:00:00.000 UTC",
+        "n_txns": 4340,
+        "total_hnt": 1090.1470500700002
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-19 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-19 00:00:00.000 UTC",
+        "n_txns": 44173,
+        "total_hnt": 2288872.25096342
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-20 00:00:00.000 UTC",
+        "n_txns": 2599,
+        "total_hnt": 1054.8326326500005
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-20 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-20 00:00:00.000 UTC",
+        "n_txns": 29438,
+        "total_hnt": 1637966.0270984708
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-21 00:00:00.000 UTC",
+        "n_txns": 3672,
+        "total_hnt": 46167.0436881
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-21 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-21 00:00:00.000 UTC",
+        "n_txns": 35881,
+        "total_hnt": 6122330.502616737
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-22 00:00:00.000 UTC",
+        "n_txns": 3761,
+        "total_hnt": 18542.285646629996
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-22 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-22 00:00:00.000 UTC",
+        "n_txns": 29702,
+        "total_hnt": 2346110.33427086
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-23 00:00:00.000 UTC",
+        "n_txns": 4700,
+        "total_hnt": 32459.920909640005
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-23 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-23 00:00:00.000 UTC",
+        "n_txns": 61578,
+        "total_hnt": 3626199.017999712
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-24 00:00:00.000 UTC",
+        "n_txns": 3018,
+        "total_hnt": 36177.82371138999
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-24 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-24 00:00:00.000 UTC",
+        "n_txns": 35493,
+        "total_hnt": 2212979.1428106287
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-25 00:00:00.000 UTC",
+        "n_txns": 5351,
+        "total_hnt": 1067.5155956300005
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-25 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-25 00:00:00.000 UTC",
+        "n_txns": 24714,
+        "total_hnt": 1359977.7423730793
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-26 00:00:00.000 UTC",
+        "n_txns": 5972,
+        "total_hnt": 1081.5023442399997
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-26 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-26 00:00:00.000 UTC",
+        "n_txns": 28868,
+        "total_hnt": 1169305.96430119
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-27 00:00:00.000 UTC",
+        "n_txns": 4963,
+        "total_hnt": 237279.41667032
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-27 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-27 00:00:00.000 UTC",
+        "n_txns": 39901,
+        "total_hnt": 2745163.81150104
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-28 00:00:00.000 UTC",
+        "n_txns": 4091,
+        "total_hnt": 1130.9220367300004
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-28 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-28 00:00:00.000 UTC",
+        "n_txns": 67816,
+        "total_hnt": 11585703.861750351
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-29 00:00:00.000 UTC",
+        "n_txns": 3791,
+        "total_hnt": 1154.3202663899997
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-29 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.780821900004
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-29 00:00:00.000 UTC",
+        "n_txns": 49921,
+        "total_hnt": 3189013.0782066295
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-30 00:00:00.000 UTC",
+        "n_txns": 3457,
+        "total_hnt": 1039.5865802300002
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-30 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.780821900004
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-30 00:00:00.000 UTC",
+        "n_txns": 53438,
+        "total_hnt": 2647094.6434489395
+      },
+      {
+        "action": "burn",
+        "day": "2025-10-31 00:00:00.000 UTC",
+        "n_txns": 3548,
+        "total_hnt": 1126.78879466
+      },
+      {
+        "action": "mint",
+        "day": "2025-10-31 00:00:00.000 UTC",
+        "n_txns": 4,
+        "total_hnt": 22191.7808219
+      },
+      {
+        "action": "transfer",
+        "day": "2025-10-31 00:00:00.000 UTC",
+        "n_txns": 59483,
+        "total_hnt": 7452429.2111679
+      }
+    ],
+    "metadata": {
+      "column_names": [
+        "day",
+        "action",
+        "n_txns",
+        "total_hnt"
+      ],
+      "column_types": [
+        "timestamp(3) with time zone",
+        "varchar",
+        "bigint",
+        "double"
+      ],
+      "row_count": 93,
+      "result_set_bytes": 2728,
+      "total_row_count": 93,
+      "total_result_set_bytes": 2728,
+      "datapoint_count": 372,
+      "pending_time_millis": 1774,
+      "execution_time_millis": 5082
+    }
+  }
+}

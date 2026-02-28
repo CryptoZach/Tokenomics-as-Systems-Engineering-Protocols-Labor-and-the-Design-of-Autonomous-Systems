@@ -1,0 +1,438 @@
+{
+  "execution_id": "01KJEXF476RT5ADYGTS5KE9X1F",
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-02-27T06:44:36.199647Z",
+  "expires_at": "2026-05-28T06:47:00.192248Z",
+  "execution_started_at": "2026-02-27T06:44:38.4292Z",
+  "execution_ended_at": "2026-02-27T06:47:00.19224Z",
+  "result": {
+    "rows": [
+      {
+        "first_received": "2024-01-25 17:19:00.000 UTC",
+        "last_received": "2025-02-27 05:02:32.000 UTC",
+        "n_received": 3626568,
+        "to_owner": "34N5sdNA9NrnwR2mdqj8MyT7S3CAK2itcwL6eeUrPhQB",
+        "total_hnt_received": 2629893548.2089972,
+        "total_usd_received": 21201705020.831505
+      },
+      {
+        "first_received": "2024-01-24 16:04:35.000 UTC",
+        "last_received": "2024-11-13 17:46:00.000 UTC",
+        "n_received": 2718981,
+        "to_owner": "7rhxnLV8C77o6d8oz26AgK8x8m5ePsdeRawjqvojbjnQ",
+        "total_hnt_received": 2629620623.567022,
+        "total_usd_received": 21197815144.66029
+      },
+      {
+        "first_received": "2023-07-13 23:04:21.000 UTC",
+        "last_received": "2026-02-24 23:34:57.000 UTC",
+        "n_received": 611,
+        "to_owner": "3vxheE5C46XzK4XftziRhwAf8QAfipD7HXXWj25mgkom",
+        "total_hnt_received": 196265283.04700693,
+        "total_usd_received": 905327589.691966
+      },
+      {
+        "first_received": "2023-04-18 19:32:48.000 UTC",
+        "last_received": "2025-10-29 17:35:30.000 UTC",
+        "n_received": 14,
+        "to_owner": "hprdnjkbziK8NqhThmAn5Gu4XqrBbctX8du4PfJdgvW",
+        "total_hnt_received": 144965396.09250665,
+        "total_usd_received": 273984598.7228608
+      },
+      {
+        "first_received": "2023-04-18 21:15:35.000 UTC",
+        "last_received": "2024-12-28 05:13:19.000 UTC",
+        "n_received": 3,
+        "to_owner": "2AdZQmGikAMWahuJRb27PGABQyF6iyQ8aUUYyDDwRRG6",
+        "total_hnt_received": 144961335.45299956,
+        "total_usd_received": 271077761.30474067
+      },
+      {
+        "first_received": "2023-06-16 17:21:23.000 UTC",
+        "last_received": "2026-02-25 23:47:12.000 UTC",
+        "n_received": 70786,
+        "to_owner": "H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS",
+        "total_hnt_received": 99777299.03048769,
+        "total_usd_received": 476003368.7007202
+      },
+      {
+        "first_received": "2023-11-13 22:21:12.000 UTC",
+        "last_received": "2026-02-26 23:59:40.000 UTC",
+        "n_received": 2582664,
+        "to_owner": "CSP4RmB6kBHkKGkyTnzt9zYYXDA8SbZ5Do5WfZcjqjE4",
+        "total_hnt_received": 71901912.30009799,
+        "total_usd_received": 269231245.69203776
+      },
+      {
+        "first_received": "2023-04-19 02:58:02.000 UTC",
+        "last_received": "2026-02-26 09:29:01.000 UTC",
+        "n_received": 18266,
+        "to_owner": "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w",
+        "total_hnt_received": 67452530.96740825,
+        "total_usd_received": 273352686.4867844
+      },
+      {
+        "first_received": "2023-04-19 16:55:02.000 UTC",
+        "last_received": "2026-02-26 23:56:07.000 UTC",
+        "n_received": 1041453,
+        "to_owner": "5qrvgpvr55Eo7c5bBcwopdiQ6TpvceiRm42yjHTbtDvc",
+        "total_hnt_received": 63567487.10112032,
+        "total_usd_received": 316147396.6497651
+      },
+      {
+        "first_received": "2023-04-19 02:33:48.000 UTC",
+        "last_received": "2026-02-19 07:07:38.000 UTC",
+        "n_received": 12997,
+        "to_owner": "AC5RDfQFmDS1deWZos921JfqscXdByf8BKHs5ACWjtW2",
+        "total_hnt_received": 45745095.22806573,
+        "total_usd_received": 202411129.2524612
+      },
+      {
+        "first_received": "2023-04-19 01:30:06.000 UTC",
+        "last_received": "2026-02-26 02:53:22.000 UTC",
+        "n_received": 43867,
+        "to_owner": "BmFdpraQhkiDQE6SnfG5omcA1VwzqfXrwtNYBwWTymy6",
+        "total_hnt_received": 38218695.537045784,
+        "total_usd_received": 161860791.81221527
+      },
+      {
+        "first_received": "2023-04-19 17:51:59.000 UTC",
+        "last_received": "2026-02-26 23:47:38.000 UTC",
+        "n_received": 788006,
+        "to_owner": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        "total_hnt_received": 33027600.245248653,
+        "total_usd_received": 108793944.23274717
+      },
+      {
+        "first_received": "2023-04-19 16:05:19.000 UTC",
+        "last_received": "2026-02-26 19:31:22.000 UTC",
+        "n_received": 740131,
+        "to_owner": "45zpzzpZquaVv4BAdXfzNbuba7DAXV32d1sTrUh5wcnW",
+        "total_hnt_received": 32517610.879164726,
+        "total_usd_received": 188267226.77557543
+      },
+      {
+        "first_received": "2023-05-21 07:37:46.000 UTC",
+        "last_received": "2025-06-24 17:46:32.000 UTC",
+        "n_received": 1033869,
+        "to_owner": "DCf2fisLUF9uSrcxvb2eUfndQhbfLsFD9N6aVTV2zjJv",
+        "total_hnt_received": 23051016.708234403,
+        "total_usd_received": 124039900.28368911
+      },
+      {
+        "first_received": "2023-07-12 15:50:59.000 UTC",
+        "last_received": "2025-10-12 20:39:40.000 UTC",
+        "n_received": 3270,
+        "to_owner": "pociZYH5JBo5HobLmjeq4WDzVtEYvBGZtJQCjjCDbu9",
+        "total_hnt_received": 22855806.341902923,
+        "total_usd_received": 72767953.24265184
+      },
+      {
+        "first_received": "2024-07-17 10:58:42.000 UTC",
+        "last_received": "2026-02-26 21:41:13.000 UTC",
+        "n_received": 198038,
+        "to_owner": "3LkGTjNsF2zWc2ddBPHYyEJJZKqbdHJDgfjztxnjwL5R",
+        "total_hnt_received": 22660662.632591076,
+        "total_usd_received": 102712861.96710111
+      },
+      {
+        "first_received": "2023-07-11 17:36:39.000 UTC",
+        "last_received": "2025-12-01 04:49:28.000 UTC",
+        "n_received": 99104,
+        "to_owner": "CAWk36cnuwNrt3UEwC3FjCUsKuNxsqVVam9TjWVofzzx",
+        "total_hnt_received": 19410963.991537638,
+        "total_usd_received": 114981814.92726302
+      },
+      {
+        "first_received": "2024-09-18 22:32:03.000 UTC",
+        "last_received": "2026-02-25 07:23:37.000 UTC",
+        "n_received": 4037,
+        "to_owner": "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE",
+        "total_hnt_received": 19294511.57798652,
+        "total_usd_received": 87065349.49606894
+      },
+      {
+        "first_received": "2025-07-04 08:28:37.000 UTC",
+        "last_received": "2026-02-26 22:43:43.000 UTC",
+        "n_received": 5537,
+        "to_owner": "5LZkATrLwHYCQj2YuVbjjgsDZzBk6YfL4pFQRJmtboT2",
+        "total_hnt_received": 19290787.4032119,
+        "total_usd_received": 39703932.221347965
+      },
+      {
+        "first_received": "2023-07-12 09:15:11.000 UTC",
+        "last_received": "2025-10-12 16:46:09.000 UTC",
+        "n_received": 2035,
+        "to_owner": "2nAtpULDSPKUB9BZSDV4WGsy2eeEuZV5Xnn79M82Jtcc",
+        "total_hnt_received": 18792493.183290306,
+        "total_usd_received": 63903975.22373331
+      },
+      {
+        "first_received": "2025-01-15 18:44:19.000 UTC",
+        "last_received": "2026-02-26 09:35:35.000 UTC",
+        "n_received": 10125,
+        "to_owner": "D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf",
+        "total_hnt_received": 18735976.276556674,
+        "total_usd_received": 47369754.10581882
+      },
+      {
+        "first_received": "2023-04-20 02:24:33.000 UTC",
+        "last_received": "2026-02-26 23:52:00.000 UTC",
+        "n_received": 667941,
+        "to_owner": "8JwS5zosnLFT84S1NebSp1HS6aeaxviXYS7jBh9PQ8vp",
+        "total_hnt_received": 18698610.891639903,
+        "total_usd_received": 104591271.74395038
+      },
+      {
+        "first_received": "2025-01-18 19:39:50.000 UTC",
+        "last_received": "2026-02-24 17:05:06.000 UTC",
+        "n_received": 4635,
+        "to_owner": "9obNtb5GyUegcs3a1CbBkLuc5hEWynWfJC6gjz5uWQkE",
+        "total_hnt_received": 18166453.76958674,
+        "total_usd_received": 42715446.80176369
+      },
+      {
+        "first_received": "2023-07-29 04:25:26.000 UTC",
+        "last_received": "2026-02-26 20:51:11.000 UTC",
+        "n_received": 472520,
+        "to_owner": "CapuXNQoDviLvU1PxFiizLgPNQCxrsag1uMeyk6zLVps",
+        "total_hnt_received": 17940101.573307134,
+        "total_usd_received": 97520876.91548564
+      },
+      {
+        "first_received": "2023-07-28 13:54:47.000 UTC",
+        "last_received": "2026-02-26 23:59:40.000 UTC",
+        "n_received": 468490,
+        "to_owner": "9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8",
+        "total_hnt_received": 17871653.495304428,
+        "total_usd_received": 96763530.27731368
+      },
+      {
+        "first_received": "2023-07-24 06:40:07.000 UTC",
+        "last_received": "2026-02-26 20:00:16.000 UTC",
+        "n_received": 483958,
+        "to_owner": "GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ",
+        "total_hnt_received": 17770153.206895318,
+        "total_usd_received": 96986956.05680385
+      },
+      {
+        "first_received": "2023-07-24 06:30:03.000 UTC",
+        "last_received": "2026-02-26 22:50:03.000 UTC",
+        "n_received": 471237,
+        "to_owner": "2MFoS3MPtvyQ4Wh4M9pdfPjz6UhVoNbFbGJAskCPCj3h",
+        "total_hnt_received": 17718078.25905779,
+        "total_usd_received": 96344252.44002576
+      },
+      {
+        "first_received": "2023-07-28 16:52:53.000 UTC",
+        "last_received": "2026-02-26 22:01:05.000 UTC",
+        "n_received": 469311,
+        "to_owner": "BQ72nSv9f3PRyRKCBnHLVrerrv37CYTHm5h3s9VSGQDV",
+        "total_hnt_received": 17615298.135469403,
+        "total_usd_received": 96651143.61045139
+      },
+      {
+        "first_received": "2023-07-28 16:16:32.000 UTC",
+        "last_received": "2026-02-26 22:06:16.000 UTC",
+        "n_received": 469316,
+        "to_owner": "6U91aKa8pmMxkJwBCfPTmUEfZi6dHe7DcFq2ALvB2tbB",
+        "total_hnt_received": 17438183.56524529,
+        "total_usd_received": 95186045.48141679
+      },
+      {
+        "first_received": "2023-07-28 16:38:55.000 UTC",
+        "last_received": "2026-02-26 23:52:44.000 UTC",
+        "n_received": 468365,
+        "to_owner": "6LXutJvKUw8Q5ue2gCgKHQdAN4suWW8awzFVC6XCguFx",
+        "total_hnt_received": 17370533.67336765,
+        "total_usd_received": 94175402.88164584
+      },
+      {
+        "first_received": "2023-07-28 16:16:28.000 UTC",
+        "last_received": "2026-02-26 23:47:39.000 UTC",
+        "n_received": 470132,
+        "to_owner": "4xDsmeTWPNjgSVSS1VTfzFq3iHZhp77ffPkAmkZkdu71",
+        "total_hnt_received": 17303842.05845812,
+        "total_usd_received": 94111450.31820408
+      },
+      {
+        "first_received": "2025-07-21 09:31:34.000 UTC",
+        "last_received": "2026-02-24 21:30:18.000 UTC",
+        "n_received": 184182,
+        "to_owner": "BMnT51N4iSNhWU5PyFFgWwFvN1jgaiiDr9ZHgnkm3iLJ",
+        "total_hnt_received": 14089392.23689165,
+        "total_usd_received": 32712995.050759997
+      },
+      {
+        "first_received": "2025-11-14 19:43:56.000 UTC",
+        "last_received": "2026-02-22 06:54:24.000 UTC",
+        "n_received": 56,
+        "to_owner": "CMwTLMPzarDRbGj9pbXU93Zkm7Qho3WxPbcgxpvDCH9r",
+        "total_hnt_received": 13444875.353475159,
+        "total_usd_received": 25875373.939638823
+      },
+      {
+        "first_received": "2024-07-30 19:39:26.000 UTC",
+        "last_received": "2026-02-26 13:40:06.000 UTC",
+        "n_received": 18094,
+        "to_owner": "2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm",
+        "total_hnt_received": 13006618.975525266,
+        "total_usd_received": 66760838.08800173
+      },
+      {
+        "first_received": "2023-04-19 08:00:05.000 UTC",
+        "last_received": "2025-03-14 00:48:32.000 UTC",
+        "n_received": 4248,
+        "to_owner": "9un5wqE3q4oCjyrDkwsdD48KteCJitQX5978Vh7KKxHo",
+        "total_hnt_received": 12890577.97909946,
+        "total_usd_received": 21111843.359349407
+      },
+      {
+        "first_received": "2023-04-19 08:56:45.000 UTC",
+        "last_received": "2026-02-22 14:36:13.000 UTC",
+        "n_received": 526,
+        "to_owner": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+        "total_hnt_received": 12795800.550688606,
+        "total_usd_received": 37791404.07760502
+      },
+      {
+        "first_received": "2023-04-19 00:00:01.000 UTC",
+        "last_received": "2025-01-29 00:01:41.000 UTC",
+        "n_received": 655,
+        "to_owner": "4UiT93tyCivCHetditvH15wqWxYrHcoPWzQiKDQYF7Uo",
+        "total_hnt_received": 12719501.538774133,
+        "total_usd_received": 36740678.414515026
+      },
+      {
+        "first_received": "2023-04-19 00:00:01.000 UTC",
+        "last_received": "2025-11-21 03:16:01.000 UTC",
+        "n_received": 890,
+        "to_owner": "AguTdjmW5SkhepT9qsKsj29SEqiVKsJchsap6Kma9i98",
+        "total_hnt_received": 11919330.209498737,
+        "total_usd_received": 64834198.329933316
+      },
+      {
+        "first_received": "2025-01-30 00:12:14.000 UTC",
+        "last_received": "2026-02-26 00:00:01.000 UTC",
+        "n_received": 788,
+        "to_owner": "73zsmmqCXjvHHhNSib26Y8p3jYiH3UUuyKv71RJDnctW",
+        "total_hnt_received": 11539612.092224658,
+        "total_usd_received": 32236047.606051236
+      },
+      {
+        "first_received": "2024-07-17 11:03:22.000 UTC",
+        "last_received": "2026-02-26 00:38:04.000 UTC",
+        "n_received": 4281,
+        "to_owner": "3MnDSRjsYbYJFASJyzWNCNTnZ9JyibGyeH2JTcExtzB8",
+        "total_hnt_received": 11534157,
+        "total_usd_received": 47545352.14303515
+      },
+      {
+        "first_received": "2023-07-11 23:25:24.000 UTC",
+        "last_received": "2025-06-12 19:16:04.000 UTC",
+        "n_received": 9591,
+        "to_owner": "4ubLZx9yfQbs8cQQ4ZPy3XrRNiuifp1a6pLQo8zsVURh",
+        "total_hnt_received": 11217699,
+        "total_usd_received": 69568896.1600001
+      },
+      {
+        "first_received": "2023-07-29 16:29:59.000 UTC",
+        "last_received": "2025-06-24 22:38:48.000 UTC",
+        "n_received": 669537,
+        "to_owner": "8mWJCq25yaATEuT49hZQPCFnybyP7GHsS3oyBQhke71F",
+        "total_hnt_received": 10879751.279281752,
+        "total_usd_received": 55439390.53134949
+      },
+      {
+        "first_received": "2023-04-20 02:14:30.000 UTC",
+        "last_received": "2026-02-26 10:28:28.000 UTC",
+        "n_received": 24402,
+        "to_owner": "6FEVkH17P9y8Q9aCkDdPcMDjvj7SVxrTETaYEm8f51Jy",
+        "total_hnt_received": 10088908.657098193,
+        "total_usd_received": 31912781.976395033
+      },
+      {
+        "first_received": "2024-10-09 11:46:30.000 UTC",
+        "last_received": "2026-02-26 11:17:11.000 UTC",
+        "n_received": 73410,
+        "to_owner": "4GQeEya6ZTwvXre4Br6ZfDyfe2WQMkcDz2QbkJZazVqS",
+        "total_hnt_received": 10063611.664561715,
+        "total_usd_received": 29722555.22711456
+      },
+      {
+        "first_received": "2023-04-19 00:00:01.000 UTC",
+        "last_received": "2025-01-29 00:02:10.000 UTC",
+        "n_received": 651,
+        "to_owner": "CbSWyNC3LnjJDxsNo42QrPbF5yeQEtDZSwGbhJBypLaP",
+        "total_hnt_received": 9751436.58237942,
+        "total_usd_received": 39832075.91461303
+      },
+      {
+        "first_received": "2024-03-01 10:10:41.000 UTC",
+        "last_received": "2025-09-26 16:09:03.000 UTC",
+        "n_received": 9139,
+        "to_owner": "FWznbcNXWQuHTawe9RxvQ2LdCENssh12dsznf4RiouN5",
+        "total_hnt_received": 9602476.23976424,
+        "total_usd_received": 41536546.15665575
+      },
+      {
+        "first_received": "2025-01-18 18:37:54.000 UTC",
+        "last_received": "2026-02-26 22:58:24.000 UTC",
+        "n_received": 4220,
+        "to_owner": "FpwQQhQQoEaVu3WU2qZMfF1hx48YyfwsLoRgXG83E99Q",
+        "total_hnt_received": 9275065.74088361,
+        "total_usd_received": 21458196.56012538
+      },
+      {
+        "first_received": "2024-10-07 16:07:20.000 UTC",
+        "last_received": "2025-08-14 11:13:42.000 UTC",
+        "n_received": 2728,
+        "to_owner": "BA7UdvSVywRisn8YLMpg6emrNNk3N3TFqSrKJXmTBKdt",
+        "total_hnt_received": 8835101.282424929,
+        "total_usd_received": 33232360.075794023
+      },
+      {
+        "first_received": "2025-08-15 12:32:48.000 UTC",
+        "last_received": "2026-02-26 21:13:15.000 UTC",
+        "n_received": 1468,
+        "to_owner": "9E4fv9BsJ2BwkNBXDeUgpJYtrYPheMQWYFcxGYxDFshX",
+        "total_hnt_received": 8675743.305941211,
+        "total_usd_received": 15515795.280709902
+      },
+      {
+        "first_received": "2024-03-27 20:50:04.000 UTC",
+        "last_received": "2024-09-19 00:09:06.000 UTC",
+        "n_received": 18,
+        "to_owner": "FBeKfZY6HerokkUFhXmBieXPY461X9nGZj2vHrdoD3f5",
+        "total_hnt_received": 8186434.311000002,
+        "total_usd_received": 51589005.60696
+      }
+    ],
+    "metadata": {
+      "column_names": [
+        "to_owner",
+        "n_received",
+        "total_hnt_received",
+        "total_usd_received",
+        "first_received",
+        "last_received"
+      ],
+      "column_types": [
+        "varchar",
+        "bigint",
+        "double",
+        "double",
+        "timestamp(3) with time zone",
+        "timestamp(3) with time zone"
+      ],
+      "row_count": 50,
+      "result_set_bytes": 4197,
+      "total_row_count": 50,
+      "total_result_set_bytes": 4197,
+      "datapoint_count": 300,
+      "pending_time_millis": 2229,
+      "execution_time_millis": 141763
+    }
+  }
+}

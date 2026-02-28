@@ -1,0 +1,1032 @@
+{
+  "execution_id": "01KHSWM4SFJ3VX3YZ2HF5BD8SK",
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-02-19T02:45:48.978337Z",
+  "expires_at": "2026-05-20T02:45:52.226875Z",
+  "execution_started_at": "2026-02-19T02:45:50.031292Z",
+  "execution_ended_at": "2026-02-19T02:45:52.226864Z",
+  "result": {
+    "rows": [
+      {
+        "address": "0x28c6c06298d514db089934071355e5743bf21d60",
+        "n_received": 108375,
+        "total_received": 615696824.8798045
+      },
+      {
+        "address": "0x1d42064fc4beb5f8aaf85f4617ae8b3b5b8bd801",
+        "n_received": 149177,
+        "total_received": 407145910.7555205
+      },
+      {
+        "address": "0xa9d1e08c7793af67e9d92fe308d5697fb81d3e43",
+        "n_received": 33152,
+        "total_received": 312418808.6006108
+      },
+      {
+        "address": "0x51c72848c68a965f66fa7a88855f9f7784502a7f",
+        "n_received": 162690,
+        "total_received": 251330586.2648867
+      },
+      {
+        "address": "0xcd531ae9efcce479654c4926dec5f6209531ca7b",
+        "n_received": 1361,
+        "total_received": 233964630.4646165
+      },
+      {
+        "address": "0xceb69f6342ece283b2f5c9088ff249b5d0ae66ea",
+        "n_received": 1374,
+        "total_received": 183844414.52072275
+      },
+      {
+        "address": "0xdfd5293d8e347dfe59e90efd55b2956a1343963d",
+        "n_received": 580,
+        "total_received": 157028664.5438308
+      },
+      {
+        "address": "0xa69babef1ca67a37ffaf7a485dfff3382056e78c",
+        "n_received": 68273,
+        "total_received": 156710560.14741534
+      },
+      {
+        "address": "0x21a31ee1afc51d94c2efccaa2092ad1028285549",
+        "n_received": 694,
+        "total_received": 156356344.8259351
+      },
+      {
+        "address": "0xeae7380dd4cef6fbd1144f49e4d1e6964258a4f4",
+        "n_received": 6806,
+        "total_received": 135495747.60880268
+      },
+      {
+        "address": "0xf977814e90da44bfa03b6295a0616a897441acec",
+        "n_received": 73,
+        "total_received": 129340594.70710002
+      },
+      {
+        "address": "0xfbd4cdb413e45a52e2c8312f670e9ce67e794c37",
+        "n_received": 121961,
+        "total_received": 105173634.99975611
+      },
+      {
+        "address": "0x000000000000000000000000000000000000dead",
+        "n_received": 322,
+        "total_received": 101224015.68710881
+      },
+      {
+        "address": "0xe8e1f50392bd61d0f8f48e8e7af51d3b8a52090a",
+        "n_received": 120496,
+        "total_received": 89924845.53035419
+      },
+      {
+        "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41",
+        "n_received": 26696,
+        "total_received": 71683493.75255798
+      },
+      {
+        "address": "0xdbf5e9c5206d0db70a90108bf936da60221dc080",
+        "n_received": 2700,
+        "total_received": 71024815.4835007
+      },
+      {
+        "address": "0xf8191d98ae98d2f7abdfb63a9b0b812b93c873aa",
+        "n_received": 2085,
+        "total_received": 69046855.37775081
+      },
+      {
+        "address": "0x91d40e4818f4d4c57b4578d9eca6afc92ac8debe",
+        "n_received": 9576,
+        "total_received": 67665583.64338548
+      },
+      {
+        "address": "0xa9c61fe59b5702b1d382fd1d5e495887ff34c21d",
+        "n_received": 5519,
+        "total_received": 61090291.942217276
+      },
+      {
+        "address": "0x000000000004444c5dc75cb358380d2e3de08a90",
+        "n_received": 112372,
+        "total_received": 53398305.11933816
+      },
+      {
+        "address": "0x3238964327e1a8cc91e11e2ffaf493499a03d9f4",
+        "n_received": 24679,
+        "total_received": 49335429.42762815
+      },
+      {
+        "address": "0x6cc5f688a315f3dc28a7781717a9a798a59fda7b",
+        "n_received": 11715,
+        "total_received": 44458908.32800818
+      },
+      {
+        "address": "0x5a52e96bacdabb82fd05763e25335261b270efcb",
+        "n_received": 3,
+        "total_received": 43944013.8421
+      },
+      {
+        "address": "0xc333e80ef2dec2805f239e3f1e810612d294f771",
+        "n_received": 1567,
+        "total_received": 43739328.929736756
+      },
+      {
+        "address": "0x5dc62cea20b0e7c3607adcc61a885ff9369dbc60",
+        "n_received": 6027,
+        "total_received": 42898648.21482688
+      },
+      {
+        "address": "0xbee3211ab312a8d065c4fef0247448e17a8da000",
+        "n_received": 46429,
+        "total_received": 42011872.62939412
+      },
+      {
+        "address": "0x4c6007e38ce164ed80ff8ff94192225fcdac68cd",
+        "n_received": 9806,
+        "total_received": 41372118.24271967
+      },
+      {
+        "address": "0x4a4aaa0155237881fbd5c34bfae16e985a7b068d",
+        "n_received": 2510,
+        "total_received": 39673970.54433772
+      },
+      {
+        "address": "0x59c38b6775ded821f010dbd30ecabdcf84e04756",
+        "n_received": 52857,
+        "total_received": 39523701.398230955
+      },
+      {
+        "address": "0xeebe909cffbdef9983d805ea5c33b747b3ea533a",
+        "n_received": 20,
+        "total_received": 38400000
+      },
+      {
+        "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88",
+        "n_received": 7068,
+        "total_received": 37221930.89209169
+      },
+      {
+        "address": "0x68d3a973e7272eb388022a5c6518d9b2a2e66fbf",
+        "n_received": 17231,
+        "total_received": 32589413.741547342
+      },
+      {
+        "address": "0x1a9c8182c09f50c8318d769245bea52c32be35bc",
+        "n_received": 4,
+        "total_received": 32306942.00289046
+      },
+      {
+        "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+        "n_received": 5846,
+        "total_received": 32128895.880511142
+      },
+      {
+        "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40",
+        "n_received": 9188,
+        "total_received": 31867380.798595197
+      },
+      {
+        "address": "0x47e253ae6df2cdfcaa0dd7338561da6a9d505879",
+        "n_received": 6,
+        "total_received": 30652092.023336776
+      },
+      {
+        "address": "0xf6d2224916ddfbbab6e6bd0d1b7034f4ae0cab18",
+        "n_received": 4895,
+        "total_received": 30388450.927880727
+      },
+      {
+        "address": "0x8fa129f87b8a11ee1ca35abd46674f8b66984d4a",
+        "n_received": 6577,
+        "total_received": 29820914.342499785
+      },
+      {
+        "address": "0x6e4141d33021b52c91c28608403db4a0ffb50ec6",
+        "n_received": 43641,
+        "total_received": 29314482.125391707
+      },
+      {
+        "address": "0x1522900b6dafac587d499a862861c0869be6e428",
+        "n_received": 3277,
+        "total_received": 28278144.830408446
+      },
+      {
+        "address": "0x3470447f3cecffac709d3e783a307790b0208d60",
+        "n_received": 50860,
+        "total_received": 26857169.966093484
+      },
+      {
+        "address": "0xd0fc8ba7e267f2bc56044a7715a489d851dc6d78",
+        "n_received": 40525,
+        "total_received": 26616663.22524732
+      },
+      {
+        "address": "0x1bf621aa9cee3f6154881c25041bb39aed4ca7cc",
+        "n_received": 5165,
+        "total_received": 26526764.26813088
+      },
+      {
+        "address": "0x7f604d597c15b2e2f60dc645844f68b1d781b752",
+        "n_received": 2723,
+        "total_received": 25069206.83709182
+      },
+      {
+        "address": "0x66e092fd00c4e4eb5bd20f5392c1902d738ae7bc",
+        "n_received": 736,
+        "total_received": 24604140.531016406
+      },
+      {
+        "address": "0xaccfea7d9e618f60ce1347c52ae206262412aa4a",
+        "n_received": 1838,
+        "total_received": 24134686.42060716
+      },
+      {
+        "address": "0x1157a2076b9bb22a85cc2c162f20fab3898f4101",
+        "n_received": 1934,
+        "total_received": 23798822.652093828
+      },
+      {
+        "address": "0x611f7bf868a6212f871e89f7e44684045ddfb09d",
+        "n_received": 139,
+        "total_received": 23541314.92020001
+      },
+      {
+        "address": "0x33566c9d8be6cf0b23795e0d380e112be9d75836",
+        "n_received": 309,
+        "total_received": 23320805.200379968
+      },
+      {
+        "address": "0x0b2a45c2bcb56da84920585f985087973c715364",
+        "n_received": 2788,
+        "total_received": 23224689.734259233
+      },
+      {
+        "address": "0x61cb39bece033c5bda281747db1c15cced2096eb",
+        "n_received": 2,
+        "total_received": 23047480.513298523
+      },
+      {
+        "address": "0x6fb626b622fe5956e3925fc72352f6b0047138ac",
+        "n_received": 1552,
+        "total_received": 22873129.929130767
+      },
+      {
+        "address": "0x698a0ba3a79207585ee7edda5ffbb7d7f4d8df14",
+        "n_received": 4022,
+        "total_received": 21002054.50163077
+      },
+      {
+        "address": "0x841ed663f2636863d40be4ee76243377dff13a34",
+        "n_received": 767,
+        "total_received": 20950890.877288394
+      },
+      {
+        "address": "0x5069a64bc6616dec1584ee0500b7813a9b680f7e",
+        "n_received": 7,
+        "total_received": 20320996.142563608
+      },
+      {
+        "address": "0x2efb50e952580f4ff32d8d2122853432bbf2e204",
+        "n_received": 811,
+        "total_received": 20226435.32327944
+      },
+      {
+        "address": "0xfa103c21ea2df71dfb92b0652f8b1d795e51cdef",
+        "n_received": 4589,
+        "total_received": 20088288.42521548
+      },
+      {
+        "address": "0x29a4b4b08a06a78ffe8ac0b9f863a0424ba33978",
+        "n_received": 253,
+        "total_received": 19994025.19453
+      },
+      {
+        "address": "0xc17a40852e4bfe04bc81af355fdf132c539ba753",
+        "n_received": 11123,
+        "total_received": 18977054.112721
+      },
+      {
+        "address": "0x84b38bc60f3bd82640ecefa320dab2be62e2da15",
+        "n_received": 654,
+        "total_received": 18624639.48045969
+      },
+      {
+        "address": "0x9ba0cf1588e1dfa905ec948f7fe5104dd40eda31",
+        "n_received": 11680,
+        "total_received": 17900240.675904796
+      },
+      {
+        "address": "0x58edf78281334335effa23101bbe3371b6a36a51",
+        "n_received": 6687,
+        "total_received": 17678482.4805895
+      },
+      {
+        "address": "0x03ae1a796dfe0400439211133d065bda774b9d3e",
+        "n_received": 1890,
+        "total_received": 17505475.053256504
+      },
+      {
+        "address": "0xad6eaa735d9df3d7696fd03984379dae02ed8862",
+        "n_received": 1121,
+        "total_received": 17498444.922328345
+      },
+      {
+        "address": "0xe401a6a38024d8f5ab88f1b08cad476ccaca45e8",
+        "n_received": 1618,
+        "total_received": 17293229.41658211
+      },
+      {
+        "address": "0xa29e963992597b21bcdcaa969d571984869c4ff5",
+        "n_received": 797,
+        "total_received": 16850711.651740465
+      },
+      {
+        "address": "0x9b869546d1ad059bbf3a1800fe4c503d73d42220",
+        "n_received": 3015,
+        "total_received": 16552208.767018959
+      },
+      {
+        "address": "0xfe9cb5423f54c8d69917c5beeb8c00503b4a1a91",
+        "n_received": 4113,
+        "total_received": 16201962.73160949
+      },
+      {
+        "address": "0xf5213a6a2f0890321712520b8048d9886c1a9900",
+        "n_received": 7428,
+        "total_received": 16103643.402458886
+      },
+      {
+        "address": "0x0639556f03714a74a5feeaf5736a4a64ff70d206",
+        "n_received": 6748,
+        "total_received": 15472254.311082887
+      },
+      {
+        "address": "0xb0a27099582833c0cb8c7a0565759ff145113d64",
+        "n_received": 215,
+        "total_received": 15354113.510545036
+      },
+      {
+        "address": "0xc064cea3d081c04b4ac3e9ffa00eac3f17bb6382",
+        "n_received": 4,
+        "total_received": 15207436.55465217
+      },
+      {
+        "address": "0xd254b1a7939eca6b60e730934992bcbc5455c5cc",
+        "n_received": 32,
+        "total_received": 14974099.867510589
+      },
+      {
+        "address": "0x06fd4ba7973a0d39a91734bbc35bc2bcaa99e3b0",
+        "n_received": 10696,
+        "total_received": 13926791.56632731
+      },
+      {
+        "address": "0x7b6054d691857f28afc33accc2d7565af44c25f0",
+        "n_received": 4995,
+        "total_received": 13705648.122669337
+      },
+      {
+        "address": "0xd4bc53434c5e12cb41381a556c3c47e1a86e80e3",
+        "n_received": 18657,
+        "total_received": 13673989.17169995
+      },
+      {
+        "address": "0xa3222357a0eccf60c73606170be6c99adecb59b3",
+        "n_received": 1166,
+        "total_received": 13570521.643708242
+      },
+      {
+        "address": "0x48ec5560bfd59b95859965cce48cc244cfdf6b0c",
+        "n_received": 1722,
+        "total_received": 13440003.082234262
+      },
+      {
+        "address": "0xbdf7347e4164ee0796d9b4f0a5f2dce9b77756b7",
+        "n_received": 10,
+        "total_received": 13295204.21232506
+      },
+      {
+        "address": "0x73af3bcf944a6559933396c1577b257e2054d935",
+        "n_received": 90,
+        "total_received": 13268416.690015715
+      },
+      {
+        "address": "0xca4bc2199418b379400b3820ceb3c825b5552c6e",
+        "n_received": 4042,
+        "total_received": 13219194.674543323
+      },
+      {
+        "address": "0xd3d2e2692501a5c9ca623199d38826e513033a17",
+        "n_received": 70441,
+        "total_received": 13069772.947388468
+      },
+      {
+        "address": "0x86a067030a9668c13ff2a8c4d5415afc776d4c63",
+        "n_received": 1739,
+        "total_received": 12814265.965717217
+      },
+      {
+        "address": "0x36ca0abdf3852f00aee7798c7dfb5ead5d3fec2a",
+        "n_received": 2,
+        "total_received": 12611331.35576091
+      },
+      {
+        "address": "0xb3e8c75912438c2282e0afa51b41bff8e835bc88",
+        "n_received": 6293,
+        "total_received": 12465608.774120046
+      },
+      {
+        "address": "0x80787af194c33b74a811f5e5c549316269d7ee1a",
+        "n_received": 2148,
+        "total_received": 12356269.11621215
+      },
+      {
+        "address": "0xcde5d48fca07f9c52300d2e65632dd71ed169b90",
+        "n_received": 337,
+        "total_received": 11778588.66702765
+      },
+      {
+        "address": "0x2afad971f9004beb19da52dfb51482081d345cca",
+        "n_received": 11539,
+        "total_received": 11692082.595574977
+      },
+      {
+        "address": "0x225a38bc71102999dd13478bfabd7c4d53f2dc17",
+        "n_received": 5039,
+        "total_received": 11341609.870773973
+      },
+      {
+        "address": "0x3d4acfd2c8b0641fb8db762179ee5a8db385e573",
+        "n_received": 12,
+        "total_received": 11000001.18807041
+      },
+      {
+        "address": "0x3284ac109eb04f070b40ea2bdc644d3a00de7bdb",
+        "n_received": 22,
+        "total_received": 10764025.0272086
+      },
+      {
+        "address": "0x3feafb8a8502528346a1877a99d9bb6c5c4219b5",
+        "n_received": 22,
+        "total_received": 10571183.17283333
+      },
+      {
+        "address": "0x6d278351f4a973d1349ef1e54ed37daed0799e19",
+        "n_received": 2,
+        "total_received": 10286054.26409608
+      },
+      {
+        "address": "0x08dc8ffc2db71ea07537d1328b3be0799b604396",
+        "n_received": 863,
+        "total_received": 10218178.490201764
+      },
+      {
+        "address": "0x5ee84d30c7ee57f63f71c92247ff31f95e26916b",
+        "n_received": 348,
+        "total_received": 10215887.63524619
+      },
+      {
+        "address": "0x46f34c24a7ba7a2ac6dd76c3f09b32d41c144d08",
+        "n_received": 9,
+        "total_received": 10097400.26176047
+      },
+      {
+        "address": "0x63242a4ea82847b20e506b63b0e2e2eff0cc6cb0",
+        "n_received": 24300,
+        "total_received": 9833348.082304848
+      },
+      {
+        "address": "0x3a3c006053a9b40286b9951a11be4c5808c11dc8",
+        "n_received": 106,
+        "total_received": 9833187.932901172
+      },
+      {
+        "address": "0xed9b63d1d4efa9ae415854486400c9354227bcdd",
+        "n_received": 101,
+        "total_received": 9833187.931682743
+      },
+      {
+        "address": "0xe06bb8d25dd0d6b1dca1d23c97dcee2c015a8a16",
+        "n_received": 20214,
+        "total_received": 9747965.395778652
+      },
+      {
+        "address": "0xc882b111a75c0c657fc507c04fbfcd2cc984f071",
+        "n_received": 42,
+        "total_received": 9633835.621876558
+      },
+      {
+        "address": "0xb3ae2a741f55a41d2d123538b4fb09a8394ecf1b",
+        "n_received": 42,
+        "total_received": 9335161.21722459
+      },
+      {
+        "address": "0xbc8a0f5e41857292d12ef620e2a5895ce65a5ce0",
+        "n_received": 1150,
+        "total_received": 9300930.656042513
+      },
+      {
+        "address": "0x19d373d0f95f00d368a8d57605af746c4ea9b1d0",
+        "n_received": 2,
+        "total_received": 9295669.0339692
+      },
+      {
+        "address": "0x2e75451d8ab648ac2ceee378e0923dbb1539a6dc",
+        "n_received": 218,
+        "total_received": 9144277.400100002
+      },
+      {
+        "address": "0x27bffb0f09c18539f9a47a39958bb149fe42a155",
+        "n_received": 1553,
+        "total_received": 9028742.440717082
+      },
+      {
+        "address": "0xe1d7ee4b7ac304e2a808ca1989c64749d4b27601",
+        "n_received": 2,
+        "total_received": 9000000.0001
+      },
+      {
+        "address": "0x752133918e1b1257925624fbb66b1df56777228c",
+        "n_received": 2,
+        "total_received": 9000000
+      },
+      {
+        "address": "0x48f3613acc2ad8f2144bd04c77e9289d0d14d7d2",
+        "n_received": 7,
+        "total_received": 9000000
+      },
+      {
+        "address": "0xeff6cb8b614999d130e537751ee99724d01aa167",
+        "n_received": 14164,
+        "total_received": 8896904.43076162
+      },
+      {
+        "address": "0x1bf7a9e3a364e7f5761345837f222cd93e230c4f",
+        "n_received": 862,
+        "total_received": 8716630.870000005
+      },
+      {
+        "address": "0x2586583ca4e0f86fc41af065ae9f93917bfb22ba",
+        "n_received": 19749,
+        "total_received": 8666047.274183849
+      },
+      {
+        "address": "0x100ae042ef0ea159ecc3513e9a378ff21f3829ba",
+        "n_received": 1382,
+        "total_received": 8574062.462679842
+      },
+      {
+        "address": "0xe8cfad4c75a5e1caf939fd80afcf837dde340a69",
+        "n_received": 1417,
+        "total_received": 8562372.926761055
+      },
+      {
+        "address": "0x367c42a6f261ec54ffbecf5f41c226be12a3dca0",
+        "n_received": 599,
+        "total_received": 8488955.783223616
+      },
+      {
+        "address": "0x9def7cde171841a9f0724124ca0b01a622d749e4",
+        "n_received": 3829,
+        "total_received": 8359914.222543883
+      },
+      {
+        "address": "0x4b36e5f444caf85fc87643db0d6e38874730b0a0",
+        "n_received": 97,
+        "total_received": 8011065.797687274
+      },
+      {
+        "address": "0xdf31a70a21a1931e02033dbba7deace6c45cfd0f",
+        "n_received": 4129,
+        "total_received": 7941099.192278524
+      },
+      {
+        "address": "0xab782bc7d4a2b306825de5a7730034f8f63ee1bc",
+        "n_received": 3965,
+        "total_received": 7886796.912369781
+      },
+      {
+        "address": "0xaea6291cb48d9675b120f74e2f0b0de01db47a00",
+        "n_received": 574,
+        "total_received": 7844534.09628739
+      },
+      {
+        "address": "0xf14e82321d951ae633c2f3d9bec5e3253e835b1d",
+        "n_received": 71,
+        "total_received": 7743669.211604958
+      },
+      {
+        "address": "0x7c8406384f7a5c147a6add16407803be146147e4",
+        "n_received": 2,
+        "total_received": 7588532.0001
+      },
+      {
+        "address": "0x77134cbc06cb00b66f4c7e623d5fdbf6777635ec",
+        "n_received": 1681,
+        "total_received": 7481663.469490475
+      },
+      {
+        "address": "0xfbeb29a82b4ea5c32edcd0341bbcedb60635f2e5",
+        "n_received": 5,
+        "total_received": 7399999.850099999
+      },
+      {
+        "address": "0xd472fd4d46f295043774e16144e58cff9c4a9424",
+        "n_received": 5,
+        "total_received": 7399999.850099999
+      },
+      {
+        "address": "0xa03400e098f4421b34a3a44a1b4e571419517687",
+        "n_received": 3252,
+        "total_received": 7323732.58243163
+      },
+      {
+        "address": "0x8f0cb37cdff37e004e0088f563e5fe39e05ccc5b",
+        "n_received": 28993,
+        "total_received": 7248324.635533241
+      },
+      {
+        "address": "0xd730cd62cda9cfdc109be2d819b0337fafdca959",
+        "n_received": 42,
+        "total_received": 7131920.122203513
+      },
+      {
+        "address": "0x11dbf181dd5c075c2abd92cb9579c4809406b5be",
+        "n_received": 225,
+        "total_received": 7117134.97915211
+      },
+      {
+        "address": "0x8f85d8d9d232883d63c992dff303c10dda2e428f",
+        "n_received": 222,
+        "total_received": 7049293.15435445
+      },
+      {
+        "address": "0x8890ad35cadd921da1ca5475c5bce0f54148dcc4",
+        "n_received": 5,
+        "total_received": 6799999.8501
+      },
+      {
+        "address": "0xd879446633614189e2124138372a5846932bcee9",
+        "n_received": 5,
+        "total_received": 6799999.8501
+      },
+      {
+        "address": "0xdf1b4860d1688ebc8e6b4c6cc1ced03f792511b1",
+        "n_received": 5,
+        "total_received": 6799999.8501
+      },
+      {
+        "address": "0x2fb074fa59c9294c71246825c1c9a0c7782d41a4",
+        "n_received": 1011,
+        "total_received": 6760149.161014874
+      },
+      {
+        "address": "0x3b93892aceb2d2745ddb041354339239f6211d0a",
+        "n_received": 7,
+        "total_received": 6750000.0001
+      },
+      {
+        "address": "0x5f8215ee653cb7225c741c7aa8591468d1f158b8",
+        "n_received": 1106,
+        "total_received": 6734719.746159224
+      },
+      {
+        "address": "0x3a61da6d37493e2f248a6832f49b52af0a6f4fbb",
+        "n_received": 1814,
+        "total_received": 6704231.599791357
+      },
+      {
+        "address": "0x7d975f7efa48bc47565eaf9e937b57644a91ce59",
+        "n_received": 808,
+        "total_received": 6608734.460289917
+      },
+      {
+        "address": "0x64b6ebe0a55244f09dfb1e46fe59b74ab94f8be1",
+        "n_received": 42,
+        "total_received": 6492364.485618869
+      },
+      {
+        "address": "0x6ebedeb43e7a9e48d4b8fa4c196fda33a64455ac",
+        "n_received": 1,
+        "total_received": 6481323.554494
+      },
+      {
+        "address": "0x14e51143b3a5de4b4ec392680010e170c458ecc8",
+        "n_received": 553,
+        "total_received": 6454518.6514686365
+      },
+      {
+        "address": "0x091d1c972cb1648537a2ba78eaba371b1ce18336",
+        "n_received": 377,
+        "total_received": 6413934.460180946
+      },
+      {
+        "address": "0x985de23260743c2c2f09bfdec50b048c7a18c461",
+        "n_received": 9,
+        "total_received": 6405978.2712005
+      },
+      {
+        "address": "0xf081470f5c6fbccf48cc4e5b82dd926409dcdd67",
+        "n_received": 9046,
+        "total_received": 6401449.768720586
+      },
+      {
+        "address": "0x43fed72b921af413aad831cebd221697b18da54f",
+        "n_received": 120,
+        "total_received": 6351790.9123098
+      },
+      {
+        "address": "0x190583676bba02aa1e8649acfb45643101f33656",
+        "n_received": 1449,
+        "total_received": 6347615.179463791
+      },
+      {
+        "address": "0x59e0cda5922efba00a57794faf09bf6252d64126",
+        "n_received": 2903,
+        "total_received": 6205110.589287932
+      },
+      {
+        "address": "0x56e907793485fb5e127471c15a211de7dd338ccd",
+        "n_received": 670,
+        "total_received": 6133638.219670072
+      },
+      {
+        "address": "0x81014f44b0a345033bb2b3b21c7a1a308b35feea",
+        "n_received": 1087,
+        "total_received": 6127830.027082882
+      },
+      {
+        "address": "0x207e1074858a7e78f17002075739ed2745dbaece",
+        "n_received": 4635,
+        "total_received": 6001545.96614841
+      },
+      {
+        "address": "0xf74cad18819866f07ba83cdc3b53211b45246129",
+        "n_received": 105,
+        "total_received": 5972393.700561889
+      },
+      {
+        "address": "0x4f86c2f941aa8d6d5eb0368b60e3358cc0f33317",
+        "n_received": 184,
+        "total_received": 5944017.0479999995
+      },
+      {
+        "address": "0x807cf9a772d5a3f9cefbc1192e939d62f0d9bd38",
+        "n_received": 5057,
+        "total_received": 5871603.982372076
+      },
+      {
+        "address": "0x4f0aa5900b8292273b2f9a178d5468f8048bb9a9",
+        "n_received": 44,
+        "total_received": 5733028.5226282105
+      },
+      {
+        "address": "0xe806b3eb830cab714285e7f1c318adcc0b9da9f0",
+        "n_received": 196,
+        "total_received": 5682001
+      },
+      {
+        "address": "0x77d5f03822f94b39ad6117f6a46761ec5879031b",
+        "n_received": 2699,
+        "total_received": 5625701.488851065
+      },
+      {
+        "address": "0xf214798a8af12ad98e173171ee2d8d7ea11ce75c",
+        "n_received": 3875,
+        "total_received": 5620052.044231767
+      },
+      {
+        "address": "0x82d884b2646ef7131b63a9d301529347b1d00851",
+        "n_received": 15,
+        "total_received": 5605723.9
+      },
+      {
+        "address": "0x6f1cdbbb4d53d226cf4b917bf768b94acbab6168",
+        "n_received": 4193,
+        "total_received": 5570315.54055624
+      },
+      {
+        "address": "0xba7a03a37c0799a4182d1c4ca3bf3321f8ba3329",
+        "n_received": 569,
+        "total_received": 5556317.587906702
+      },
+      {
+        "address": "0x98adef6f2ac8572ec48965509d69a8dd5e8bba9d",
+        "n_received": 324,
+        "total_received": 5526387.442931235
+      },
+      {
+        "address": "0xe67821b76985007b4cf744b0f045c8933b3e91d9",
+        "n_received": 130,
+        "total_received": 5522789.794141999
+      },
+      {
+        "address": "0x478271c960137418c9d90082dddbf68aa72e4367",
+        "n_received": 1007,
+        "total_received": 5508075.101621625
+      },
+      {
+        "address": "0xc3d688b66703497daa19211eedff47f25384cdc3",
+        "n_received": 1715,
+        "total_received": 5461046.020116583
+      },
+      {
+        "address": "0x6534861342d74c0ba9ef453a6862f61f9c46911b",
+        "n_received": 382,
+        "total_received": 5429762.856887994
+      },
+      {
+        "address": "0xa8c1c98aaf99a5dfc907d61b892b2ad624901185",
+        "n_received": 1518,
+        "total_received": 5428785.334006681
+      },
+      {
+        "address": "0x3bbd4947df4e1bd80d130ddcfa9b54f1b03a1a8d",
+        "n_received": 4,
+        "total_received": 5410596.4001
+      },
+      {
+        "address": "0xf0446e60204c328bb22af32e502e16032b109e60",
+        "n_received": 5,
+        "total_received": 5381808.510844627
+      },
+      {
+        "address": "0xf436ada6b8f4d235ba806f44b22fa4ee115c9bc2",
+        "n_received": 5,
+        "total_received": 5354626.275843833
+      },
+      {
+        "address": "0x87b49a99cbce4a9030e67919b776aa97d538adda",
+        "n_received": 748,
+        "total_received": 5283980.612907662
+      },
+      {
+        "address": "0x66a9893cc07d91d95644aedd05d03f95e1dba8af",
+        "n_received": 16225,
+        "total_received": 5243323.840542006
+      },
+      {
+        "address": "0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54",
+        "n_received": 170,
+        "total_received": 5242250.641269377
+      },
+      {
+        "address": "0x39d1d8fcc5e6eeaf567bce4e29b94fec956d3519",
+        "n_received": 3694,
+        "total_received": 5200952.259901252
+      },
+      {
+        "address": "0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae",
+        "n_received": 361,
+        "total_received": 5197176.295099999
+      },
+      {
+        "address": "0xe293ee204175e2e8c0a243c2b8302a9652bebfaa",
+        "n_received": 4,
+        "total_received": 5175837.164109054
+      },
+      {
+        "address": "0x63b3a22c10743d4b5caca190194c2175c5659e11",
+        "n_received": 7,
+        "total_received": 5175837.164109054
+      },
+      {
+        "address": "0xe91b373212f8ae32925cbcf39ab3a7b0763c27c9",
+        "n_received": 378,
+        "total_received": 5082001.681098165
+      },
+      {
+        "address": "0xe7a05f26cb8f50e2374abeb993814abc24e3002c",
+        "n_received": 7,
+        "total_received": 5000001.0047699995
+      },
+      {
+        "address": "0xaba63748c4b4def4a3319c3a29fe4829029d926f",
+        "n_received": 6,
+        "total_received": 5000000.0423271805
+      },
+      {
+        "address": "0xd95687cb00dc47c77f7dabb5dc89d7aed72422c4",
+        "n_received": 10,
+        "total_received": 5000000.0001
+      },
+      {
+        "address": "0xc50273986ff3d02267a9ecffdadeb5c8e3f6a9ad",
+        "n_received": 17480,
+        "total_received": 4998916.065612153
+      },
+      {
+        "address": "0x4e7ecb1305fa91a82d39c6d3142b4ab277932412",
+        "n_received": 726,
+        "total_received": 4994737.578272871
+      },
+      {
+        "address": "0xd59d7a9698eff3e68e0af7e803d4ed35e7ed12d2",
+        "n_received": 667,
+        "total_received": 4965506.097131658
+      },
+      {
+        "address": "0xb5e4d21240e9356cafc3a1261d10383f62dfc24e",
+        "n_received": 44,
+        "total_received": 4926453.456164164
+      },
+      {
+        "address": "0x45da561ab3431b8fe914c6ee2238fca0d145e0e1",
+        "n_received": 296,
+        "total_received": 4919908
+      },
+      {
+        "address": "0x74de5d4fcbf63e00296fd95d33236b9794016631",
+        "n_received": 20871,
+        "total_received": 4905312.755577122
+      },
+      {
+        "address": "0x752092f89ff72c008aa7ad016ed6c6ac54ef9558",
+        "n_received": 150,
+        "total_received": 4834648.132841833
+      },
+      {
+        "address": "0x98c3d3183c4b8a650614ad179a1a98be0a8d6b8e",
+        "n_received": 3560,
+        "total_received": 4830422.490759194
+      },
+      {
+        "address": "0x885272c81f17cd250b98de7b11202bf93758ef32",
+        "n_received": 4,
+        "total_received": 4808923.032508124
+      },
+      {
+        "address": "0x3a5cc8689d1b0cef2c317bc5c0ad6ce88b27d597",
+        "n_received": 3655,
+        "total_received": 4754266.305004701
+      },
+      {
+        "address": "0x67336cec42645f55059eff241cb02ea5cc52ff86",
+        "n_received": 6070,
+        "total_received": 4700653.720476987
+      },
+      {
+        "address": "0xcffad3200574698b78f32232aa9d63eabd290703",
+        "n_received": 2626,
+        "total_received": 4645471.75768512
+      },
+      {
+        "address": "0xd1242f223a2aa665553b76f0c0bdd9d41be40fc0",
+        "n_received": 8,
+        "total_received": 4640745.005810577
+      },
+      {
+        "address": "0x48173b36bff195ca626944790d5f20fb317de18e",
+        "n_received": 15,
+        "total_received": 4621120.034596015
+      },
+      {
+        "address": "0xda26ce4495a00a294962e0d077964ea91ce4f698",
+        "n_received": 59,
+        "total_received": 4614358.390625752
+      },
+      {
+        "address": "0x81747ae17aeff2f554dac9d0ee7684cffb0cebf9",
+        "n_received": 52,
+        "total_received": 4614358.390625752
+      },
+      {
+        "address": "0x25da41e2cc914735ce7f9884fc55153f82329de0",
+        "n_received": 48,
+        "total_received": 4614358.390625752
+      },
+      {
+        "address": "0xfe9529b753b412941127fea1981e5ce0a85c101e",
+        "n_received": 3076,
+        "total_received": 4601918.583885163
+      },
+      {
+        "address": "0xbcc66fc7402daa98f5764057f95ac66b9391cd6b",
+        "n_received": 2113,
+        "total_received": 4528034.883935172
+      },
+      {
+        "address": "0xd9a5a717d17bd49d2d71565a8e3f238898bbbfe7",
+        "n_received": 9,
+        "total_received": 4497974.50891008
+      }
+    ],
+    "metadata": {
+      "column_names": [
+        "address",
+        "n_received",
+        "total_received"
+      ],
+      "column_types": [
+        "varbinary",
+        "bigint",
+        "double"
+      ],
+      "row_count": 200,
+      "result_set_bytes": 11600,
+      "total_row_count": 200,
+      "total_result_set_bytes": 11600,
+      "datapoint_count": 600,
+      "pending_time_millis": 1052,
+      "execution_time_millis": 2195
+    }
+  }
+}

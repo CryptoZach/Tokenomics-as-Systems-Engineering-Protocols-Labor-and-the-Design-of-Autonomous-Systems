@@ -1,0 +1,29 @@
+{
+  "execution_id": "01KHT9NAPH6DTT0F4KY37MQ8MT",
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-02-19T06:33:39.28175Z",
+  "expires_at": "2026-05-20T06:34:05.197577Z",
+  "execution_started_at": "2026-02-19T06:33:40.936032Z",
+  "execution_ended_at": "2026-02-19T06:34:05.197568Z",
+  "result": {
+    "rows": [],
+    "metadata": {
+      "column_names": [
+        "address",
+        "balance"
+      ],
+      "column_types": [
+        "varbinary",
+        "double"
+      ],
+      "row_count": 0,
+      "result_set_bytes": 0,
+      "total_row_count": 0,
+      "total_result_set_bytes": 0,
+      "datapoint_count": 0,
+      "pending_time_millis": 1654,
+      "execution_time_millis": 24261
+    }
+  }
+}

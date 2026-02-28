@@ -1,0 +1,80 @@
+[
+  {
+    "protocol": "DIMO",
+    "token": "DIMO",
+    "chain": "polygon",
+    "hhi": 0.304944,
+    "gini": 0.9378,
+    "top1_share": 0.5479,
+    "top10_share": 0.6951,
+    "top50_share": 0.9202,
+    "n_holders": 1000,
+    "supply_coverage": 0.6179,
+    "method": "net_transfer"
+  },
+  {
+    "protocol": "WeatherXM",
+    "token": "WXM",
+    "chain": "arbitrum",
+    "hhi": null,
+    "gini": null,
+    "top1_share": null,
+    "top10_share": null,
+    "top50_share": null,
+    "n_holders": 0,
+    "method": "no_data",
+    "note": "Insufficient data (0 holders)"
+  },
+  {
+    "protocol": "Anyone Protocol",
+    "token": "ANYONE",
+    "chain": "ethereum",
+    "hhi": null,
+    "gini": null,
+    "top1_share": null,
+    "top10_share": null,
+    "top50_share": null,
+    "n_holders": 0,
+    "method": "no_data",
+    "note": "Insufficient data (0 holders)"
+  },
+  {
+    "protocol": "IoTeX",
+    "token": "IOTX",
+    "chain": "ethereum",
+    "hhi": 0.388122,
+    "gini": 0.9831,
+    "top1_share": 0.6133,
+    "top10_share": 0.9171,
+    "top50_share": 0.9775,
+    "n_holders": 989,
+    "supply_coverage": 0.336,
+    "method": "net_transfer"
+  },
+  {
+    "protocol": "Hivemapper",
+    "token": "HONEY",
+    "chain": "solana",
+    "hhi": null,
+    "gini": null,
+    "top1_share": null,
+    "top10_share": null,
+    "top50_share": null,
+    "n_holders": 0,
+    "method": "no_data",
+    "note": "Insufficient data (0 holders)"
+  },
+  {
+    "protocol": "Grass",
+    "token": "GRASS",
+    "chain": "solana",
+    "hhi": 0.119301,
+    "gini": 0.9571,
+    "top1_share": 0.3115,
+    "top10_share": 0.6694,
+    "top50_share": 0.8832,
+    "n_holders": 1000,
+    "supply_coverage": 0.9946,
+    "method": "net_transfer"
+  }
+]
