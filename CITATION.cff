@@ -6,11 +6,8 @@ authors:
   - family-names: Zukowski
     given-names: Zach
 date-released: "2026-02-27"
-url: "https://github.com/CryptoZach/Tokenomics-as-Systems-Engineering-Protocols-Labor-and-the-Design-of-Autonomous-Systems"
-repository-code: "https://github.com/CryptoZach/Tokenomics-as-Systems-Engineering-Protocols-Labor-and-the-Design-of-Autonomous-Systems"
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.18809561"
+url: "https://github.com/CryptoZach/Tokenomics-as-Systems-Engineering-Protocols-Labor-and-the-Design-of-Autonomous-Sytems"
+repository-code: "https://github.com/CryptoZach/Tokenomics-as-Systems-Engineering-Protocols-Labor-and-the-Design-of-Autonomous-Sytems"
 license: CC-BY-4.0
 keywords:
   - tokenomics
