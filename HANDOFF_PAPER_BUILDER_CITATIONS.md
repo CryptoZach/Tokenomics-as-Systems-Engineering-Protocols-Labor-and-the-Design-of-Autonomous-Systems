@@ -14,7 +14,7 @@ The replication package is now archived on Zenodo with a persistent DOI. Add the
 
 Add to the main text (typically near end of paper or in a dedicated "Data Availability" section):
 
-> Replication code and data are available at https://github.com/CryptoZach/Tokenomics-as-Systems-Engineering-Protocols-Labor-and-the-Design-of-Autonomous-Systems (Zenodo DOI: 10.5281/zenodo.18809561).
+> Replication code and data are available at https://github.com/CryptoZach/Tokenomics-as-Systems-Engineering-Capital-Labor-Land-and-the-Design-of-Autonomous-Economies (Zenodo DOI: 10.5281/zenodo.18809561).
 
 Or, if journals prefer a shorter footnote:
 
@@ -64,7 +64,7 @@ Or with URL:
 |-------|-------|
 | DOI | 10.5281/zenodo.18809561 |
 | DOI URL | https://doi.org/10.5281/zenodo.18809561 |
-| GitHub | https://github.com/CryptoZach/Tokenomics-as-Systems-Engineering-Protocols-Labor-and-the-Design-of-Autonomous-Systems |
+| GitHub | https://github.com/CryptoZach/Tokenomics-as-Systems-Engineering-Capital-Labor-Land-and-the-Design-of-Autonomous-Economies |
 | Zenodo record | https://zenodo.org/records/18809561 |
 | Release | v1.0 (2026-02-27) |
 | License | CC-BY-4.0 |
